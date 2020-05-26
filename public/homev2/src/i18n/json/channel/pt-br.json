@@ -1,0 +1,20 @@
+{
+  "btnEdit": "Editar",
+  "textFollow": "Inscrições",
+  "textFans": "Inscritos",
+  "tabMyCreation": "Meus Envios",
+  "tabCreation": "Linha do tempo",
+  "tabMyDynamic": "Minhas interações",
+  "tabDynamic": "Curtidas",
+  "tipsNoVideo": "Você ainda não fez o envio de nenhum vídeo",
+  "tipsNoVideo2": "Nenhum vídeo foi enviado ainda",
+  "tipsNoDynamic": "Você ainda não curtiu nenhum vídeo, dê curtidas para os seus vídeos favoritos",
+  "tipsNoDynamic2": "Ainda não curtiu nenhum vídeo",
+  "titleFollow": "Inscrições",
+  "titleFans": "Inscritos",
+  "btnUnfollow": "Cancelar Inscrição",
+  "btnRemoveFans": "Remover",
+  "tipsNoFollow": "Ainda não se inscreveu em nenhum canal",
+  "tipsNoFans": "Ninguém se inscreveu no canal ainda",
+  "btnPersonal": "Perfil"
+}

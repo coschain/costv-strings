@@ -1,0 +1,298 @@
+{
+  "play": {
+    "focus": "关注",
+    "focused": "已关注",
+    "focus_num": "人关注",
+    "forbid_follow": "不能关注自己",
+    "go_play": "去玩一下",
+    "recommend": "相关视频推荐",
+    "shareTo": "分享到:",
+    "shareHref": "分享视频链接:",
+    "shareCopy": "复制",
+    "popTask": "看视频可以获得POP奖励哦",
+    "popbanner1": "看视频得POP",
+    "popbanner2": "原创及热门视频双倍收益速度",
+    "share": "分享",
+    "inform": "举报",
+    "copySuccess": "复制成功",
+    "shareLink": "分享链接",
+    "cancel": "取消",
+    "continue": "继续",
+    "informVideo": "举报视频",
+    "time": "所选时间戳",
+    "placeholder": "请提供其他详细信息",
+    "timeTips": "您选择的时间戳超过了视频的长度，请重新输入",
+    "tips1": "COS.TV 员工会全天候（7x24 小时）审核遭到举报的视频和用户，确定其是否违反了社区准则。违反社区准则的帐号将会受到处罚，若情节严重或屡次违规，帐号还可能会遭到终止。",
+    "tips2": "如果我们发现此内容违反了我们的社区准则，便会将其移除。",
+    "thanksToShare": "感谢您的举报",
+    "problem": "问题",
+    "close": "关闭",
+    "btnMore": "查看详情",
+    "typeList": [
+      {
+        "text": "色情内容"
+      },
+      {
+        "text": "暴力或令人反感的内容"
+      },
+      {
+        "text": "仇恨或侮辱性内容"
+      },
+      {
+        "text": "有害的危险性动作"
+      },
+      {
+        "text": "虐待儿童"
+      },
+      {
+        "text": "宣扬恐怖主义"
+      },
+      {
+        "text": "垃圾内容或误导性内容"
+      },
+      {
+        "text": "侵犯了我的权利"
+      },
+      {
+        "text": "字幕问题"
+      },
+      {
+        "text": "其他问题"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "内容简介",
+    "playCount": "{0}次播放",
+    "loginTips": "登录赚取POP",
+    "popGuideDesc01": "看视频可以获得POP积分！",
+    "popGuideDesc02": "原创及热门视频双倍收益速度",
+    "popGuideBtn": "开始体验",
+    "popRewardFinished": "已完成",
+    "popDescTitle": "规则说明：",
+    "popDesc01": "1.用户登录后观看直播和视频，每分钟可以获得POP奖励",
+    "popDesc02": "2.每天最多可获得{0}POP，热门视频有双倍的获取速度，当天未达到POP获取上限，次日不累计，每日UTC时间 0 点重置获取限额",
+    "popDesc03": "3.如计时异常请尝试刷新或更换其他浏览器",
+    "processStatePaused": "暂停",
+    "showMore": "展开",
+    "showLess": "收起"
+  },
+  "playComment": {
+    "commit": "发布评论",
+    "loginTip": "(登录之后才能发布评论)",
+    "wordsError": "评论字数不能超过300",
+    "inputNum": "{inputNum}/300字",
+    "enterCommit": "输入评论",
+    "send": "发布",
+    "sending": "发布中",
+    "cancel": "取消",
+    "commitNum": "{total}条评论",
+    "orderHot": "按热度排序",
+    "orderDate": "按时间排序",
+    "send_s": "{num}秒前",
+    "send_m": "{num}分前",
+    "send_h": "{num}小时前",
+    "send_d": "{num}天前",
+    "send_w": "{num}周前",
+    "send_mo": "{num}月前",
+    "send_y": "{num}年前",
+    "justNow": "刚刚",
+    "replay": "回复",
+    "wordsLimit": "评论字数不能超过300",
+    "more": "点击查看更多评论",
+    "slider": "收起",
+    "no_more_commit": "没有更多评论了~",
+    "no_commit": "当前还没有评论，快来做第一个评论吧〜",
+    "replay_all": "全部回复",
+    "commit_success": "评论成功",
+    "lookComments": "查看{0}则回复",
+    "sliderComments": "隐藏{0}则回复",
+    "lookComment": "查看回复",
+    "sliderComment": "隐藏回复",
+    "deleteLayerTips": "删除评论后，评论下所有的回复都会被删除。",
+    "deleteSuccess":"删除评论成功",
+    "commentsNumbers":"回复",
+    "commentTips": "来聊一聊呀！发个评论，告诉大家你的想法~",
+    "rreply": "{0}则回复"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes，做一条凭“食力”赚币的贪吃蛇。激情博弈厮杀重围的游戏HyperSnakes，你会是吞噬所有猎物最强的蛇王吗？夺宝天蛇所至之处，数字资产尽盘囊中。",
+      "detail_description": "HyperSnakes 是MixMarvel团队暨云斗龙HyperDragons后打造的又一款Hyper品牌系列游戏，也是区块链圈首款全球多人实时竞技游戏。该游戏基于区块链技术，以贪吃蛇为核心玩法，玩家可以随时与全球其他贪吃蛇玩家匹配进行战斗搏杀，拾取财富。贪吃蛇战场随机多变，玩家不仅仅要操控贪吃蛇躲避对手绞杀，还要防止被毒圈吞噬。每次战斗将只有一位蛇王胜出，并获得令人称羡的大奖，其他同场次玩家也会拥有相应价值回馈。HyperSnakes让你在博弈中积累价值。"
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "第一款多链收藏冒险游戏",
+      "detail_description": "Blockchain Cuties是一款全新的利用区块链加密的收藏冒险游戏。在这款游戏中，你可以与小狗狗、蜥蜴、熊宝宝、猫咪以及其它真实的或者你幻想的小动物们玩耍。每一个宠物都是独一无二的，它仅属于你一人。你不仅可以收集它们，还可以训练它们。在战斗中提升它们的技能，利用道具装备它们，逐步地让他们成长！在游戏中，你可以使用ETH、EOS或者TRON交易你的宠物。每一个可爱且不可替代的宠物，都可以像一个加密货币一样出售或转让给其他玩家。"
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Crypton”是生活在以太坊上超可爱、可繁衍的加密收藏猪猪。取得你的专属猪猪，加入超可爱的Crypt-Oink世界吧！",
+      "detail_description": "Crypt-Oink是日本第一款以太坊上的区块链游戏，其中的加密收藏品“Crypton”可以繁衍、交易，孕育出超过三兆种不同颜色、造型的可爱猪猪。玩家可以训练自己的Crypton，强化各项能力，增加参与猪猪3D赛跑游戏“Gran Ton Rismo”的获胜概率。"
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "直播准备中，请稍候...精彩内容即将到达！",
+    "preparing": "直播准备中，请稍候...精彩内容即将到达！",
+    "error": "直播准备中，请稍候...精彩内容即将到达！",
+    "endedToday": "今日直播已结束，感谢您的收看!",
+    "allEnded": "该会场内容已全部结束，感谢您的收看！"
+  },
+  "ticket": {
+    "voteBoxInfo": "已有<span>{persons}</span>人，共送出<span>{tickets}</span>礼物票",
+    "cosNum": "COS: {0}",
+    "ticketsNum": "礼物票: {0}",
+    "ticketsNumUnify": "礼物票: {0}",
+    "placeholderTicketCount": "自定义",
+    "placeholderComment": "说点什么...留言显示会有送礼勋章哦~",
+    "likeTips": "打赏的同时点赞作者视频",
+    "btnDoGiftVote": "打赏",
+    "errorTipsExceed": "超出余额",
+    "tipsHowToGetCos": "如何获得COS",
+    "voteBoxDesc": "购买礼物票参与打赏，对视频表达您的喜爱，对作者提供您的支持！",
+    "textMoreDetail": "更多详情",
+    "moreContentDesc01": "对视频表达喜爱，对创作者提供您的支持！赠送礼物票后，您将在该视频页享受特有的权限！包括：",
+    "moreContentDesc02": "①参与送礼榜单与黄金席位的竞争；",
+    "moreContentDesc03": "②评论区评论佩戴专属送礼勋章；",
+    "moreContentDesc04": "③作者的满满感谢~",
+    "moreContentDesc05": "此外，创作者将从您支付的购买费用中收获绝大部分收益。",
+    "buyGiftVoteTitle": "礼物票购买",
+    "CosBalance": "当前COS余额：",
+    "giftVoteBalance": "当前礼物票数量：",
+    "buyText": "购买：",
+    "buyBtn": "购买",
+    "expectedCost": "将花费：",
+    "buyList": "购买记录",
+    "spendMoneySymbol": "花费：",
+    "spendMoney": "花费",
+    "spendCos": "{0} COS",
+    "buyAmountSymbol": "购买数量：",
+    "buyAmount": "购买数量",
+    "buyTimeSymbol": "时间：",
+    "buyTime": "时间",
+    "loadMore": "查看更多记录",
+    "buyGiftVote": "购买礼物票",
+    "giftVote": "礼物票",
+    "giftVoteHeader": "礼物票",
+    "giftVoteReply": "礼物票回复",
+    "confirm": "确认",
+    "replyHint": "设置获礼感谢话术，用户在为您的视频赠送礼物票后将收到您的感谢。 PS:如果不自定义设置将展示平台默认感谢语:感谢您的支持~",
+    "replyLimitMax": "感谢字数不能超过 {0}",
+    "replyLimitMin": "感谢字数不得少于 {0}",
+    "setReplySuccess": "设置成功",
+    "giftVotebuyList": "礼物票购买记录",
+    "notSufficientFunds": "当前余额不足 ",
+    "buySuccess": "购买成功",
+    "stayTunedFor": "黄金席位即将来袭，敬请期待！",
+    "numberOfGiftGiving": "{0} 人送礼",
+    "releaseDate": "{0} 发布",
+    "exclusiveThankYouHeart": "送礼者专属送礼勋章“感谢之心”",
+    "errorTipsVoteSelf": "您不能打赏自己发布的内容哦！",
+    "occupyList": "占领榜单",
+    "occupyListText": "快来占领榜单，尊享无限荣耀",
+    "participateList": "参与上榜",
+    "moreList": "更多",
+    "participationAndLook": "参与打赏 查看排名",
+    "rankingListLearnMoreA": "这里是对该视频参与打赏的用户排行哦~",
+    "rankingListLearnMoreB": "排行榜选取前十展示，当送礼数量一致时，按照时间排序，先送者排名靠前。",
+    "totalMoney": "总共收益约{0}",
+    "totalMoneyApproximate": "约为：{0}Vest",
+    "bonusSettlement": "结算奖金：{money}/约 {vest}Vest",
+    "settlementDate": "结算时间：{0}",
+    "settlementBonus": "结算奖金约为{0}",
+    "afterSettlement": "{0} 后结算",
+    "giftMoney": "礼物票收益：{money}/约 {vest}Vest",
+    "btnSubscribe": "订阅",
+    "btnSubscribed": "已订阅",
+    "giftReceivedSum": "礼物票收益记录：{0}",
+    "giftEmptyTips1": "最近7日无收益记录",
+    "giftEmptyTips2": "所选日期无收益记录",
+    "tipsSelectDate": "选择日期：",
+    "btnReset": "重置",
+    "paginationTotal": "总共 {total} 条记录",
+    "videoRewardsLeader": "Video rewards leader",
+    "waiting": "虚位以待",
+    "giftReceivedThUser": "送礼用户",
+    "giftReceivedThAmount": "送礼数量",
+    "giftReceivedThTime": "时间",
+    "giftReceivedThVideo": "视频",
+    "alreadySettled": "已结算",
+    "remainingSettlementPeriod": "剩余结算期：{0}",
+    "rankList": "排行榜"
+  },
+  "sevenDays": "近 7 天",
+  "allDays": "总计",
+  "autoplay": {
+    "nextVideo": "即将播放订阅者下一个视频：",
+    "recommend": "为你推荐",
+    "replay": "重播",
+    "nextPlay": "接下来播放",
+    "willPlay": "即将播放：",
+    "immediatelyPlay": "立即播放",
+    "cancel": "取消",
+    "autoplay": "自动播放",
+    "moreTips": "启用自动播放功能后，系统会接着自动播放推荐的视频。"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "广告或者垃圾评论"
+      },
+      {
+        "text": "色情言论"
+      },
+      {
+        "text": "虐待儿童"
+      },
+      {
+        "text": "血腥暴力内容或仇恨言论"
+      },
+      {
+        "text": "骚扰或霸凌内容"
+      }
+    ],
+    "delete": "删除",
+    "creator": "创作者",
+    "delCommit": "删除评论",
+    "placeholder": "发个评论聊聊呗...",
+    "author": "只有当前视频主可以删除评论哦~",
+    "delTips": "评论删除成功，刷新页面评论区更新"
+  },
+  "emojiCustom": {
+    "unlock": "解锁",
+    "getEmoji": "获取表情",
+    "getAllEmoji": "获取全套表情",
+    "howGet": "如何获取 Voepa 专属全套emoji",
+    "getEmojiTips": "赠送 Voepa 礼物票累计达到 100 张，即可获得 Voepa 专属表情包\"Epamoji\"的全套表情。"
+  }
+}

@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "Bakiye",
+        "transfer": "Transfer",
+        "widthdraw": "Para çekme",
+        "myBill": "İşlemler"
+    },
+    "home": {
+        "myWalletAddress": "Cüzdan adresi"
+    },
+    "transfer": {
+        "usableBalance": "Kullanılabilir",
+        "freeze": "Dondurulmuş",
+        "receivePersonId": "Fatura kişisine ait UID",
+        "transferNumber": "Miktar",
+        "confirmeTransfer": "Onayla",
+        "confirmeTipsDescription": "Notlar",
+        "transferTips1": "1. COS \"Confirm\" tuşuna tıklayınca gerçek zamanlı olarak Fatura kişisine gider. Bu işlem geri alınamaz. Lütfen doğru UID girdiğine emin ol.",
+        "transferTips2": "2. Miktar kullanılabilir bakiyenden fazla olamaz (Kullanılabilir bakiye = bakiye - dondurulmuş miktar)",
+        "transferTips3": "3. Sadece bir Contentos hesabına transferi destekliyoruz ve komisyon almıyoruz.",
+        "transferTo": "Şuraya gönder:",
+        "transferMoney": "Miktar",
+        "makeSureTransferMoney": "Lütfen bilgileri onaylayın ve doğrulama kodunu girin.",
+        "sendCodeTo": "Şuraya gönderildi:",
+        "returnModify": "Geri",
+        "codeSend": "Gönder",
+        "againSend": "Yeniden gönder",
+        "inputAddressEmpty": "UID boş bırakılamaz",
+        "inputAddressError": "Geçersiz UID",
+        "inputAddressSame": "Kendine transfer yapamazsın, lütfen bir UID gir.",
+        "inputAmountEmpty": "Lütfen bir miktar gir.",
+        "inputAmountError": "Lütfen doğru bir miktar gir, sadece sayılar geçerlidir.",
+        "inputAmountLarge": "Yetersiz bakiye, lütfen transfer miktarının doğruluğundan emin olun.",
+        "transferSubmit5000": "Lütfen önce KYC onayını tamamlayın.",
+        "transferSubmit5029": "Çok sık denediniz, lütfen daha sonra tekrar deneyin.",
+        "transferSubmit5039": "Yetersiz bakiye, lütfen transfer miktarının doğruluğundan emin olun.",
+        "transferSubmit5045": "Yanlış doğrulama kodu, lütfen tekrar deneyin.",
+        "transferSubmit5046": "Transfer limitine ulaştınız.",
+        "transferSubmit5047": "Maksimum transfer miktarı aşılamaz.",
+        "transferSubmit5051": "Transfer miktarı 1 COStan az olamaz. Lütfen tekrar deneyin.",
+        "transferSubmit5052": "Geçersiz UID, lütfen tekrar girin.",
+        "transferSubmitWaringError": "Transfer gerçekleştirilemedi, lütfen daha sonra tekrar deneyin.",
+        "kycTipsForClient": "Aktarım KYC gerektirir, hesaba girmek, KYC gerçekleştirmek için COS.TV’ye erişmek için tarayıcınızı kullanabilirsiniz ve KYC transfer edebilir"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "Para çekme adresi",
+        "widthdrawNumber": "Çekilecek miktar",
+        "sureWidthdraw": "Onayla",
+        "widthdrawKnow": "Notlar",
+        "widthdrawAddressError": "Geçersiz eposta adresi, lütfen tekrar girin.",
+        "widthdrawTips1": "1. Haftasa sadece bir kez para çekebilirsin. 7 gün içinde başka bir para çekimi uygulanamaz.",
+        "widthdrawTips2": "2. Miktar kullanılabilir bakiyenden fazla olamaz (Kullanılabilir bakiye = bakiye - dondurulmuş miktar)",
+        "widthdrawTips3": "3. Para çekimi için bir miktar komisyon alınır.",
+        "widthdrawTipsUsdt3": "3. Only if the balance is> {num} USDT, can you withdraw.  You need to pay {fee} USDT transaction fee for each withdrawal",
+        "widthdrawTips4": "4. Para çekme 48 saat içinde incelenecektir (tatil günlerinde küçük bir gecikme olabilir) ve belirli varış zamanı ağ durumuna bağlıdır. Bu süre zarfında bu miktar dondurulur.",
+        "widthdrawTo": "Şuraya parayı çek",
+        "widthdrawMoney": "Miktar",
+        "makeSureWidthdrawMonty": "Lütfen bilgileri onaylayın ve doğrulama kodunu girin.",
+        "dropDownAddressEmpty": "Adres kısmı boş, lütfen yeniden onaylayın",
+        "dropDownAmountEmpty": "Miktar kısmı boş, lütfen yeniden onaylayın.",
+        "dropDownDeduct": "Hesaptan düş",
+        "dropDownPoundage": "Ücret",
+        "dropDownToTheAccount": "Geldi",
+        "addressNull": "Lütfen devam etmek için bir cüzdan adresi ekleyin.",
+        "toAddAddress": "Şimdi ekle",
+        "addressPlaceholder": "Lütfen Binance zincir adresinizi ekleyin",
+        "addressPlaceholderUsdt": "Only support the addresses that can receive ERC-20 USDT ",
+        "notePlaceholder": "Eğer adres borsa adresi ise, lütfen notlarda belirttiğinizden emin olun. Eğer değil ise, 'Not yok' kısmını seçin.",
+        "noteMemoText": "Para çekme not gerektirmiyor.",
+        "note": "Not",
+        "noteMobilePlaceholder": "Lütfen borsa adresinizi doldurun.",
+        "kycTipsForClient": "Hesabınıza girmek ve KYC yapmak için COS.TV'ye erişmek için tarayıcınızı kullanabilirsiniz. KYC'den sonra para çekebilirsiniz"
+    },
+    "address": {
+        "wallateAddress": "Cüzdan adresi",
+        "addressNote": "Sınıf",
+        "add": "Ekle",
+        "addedCOSAddress": "Adres",
+        "addTime": "Zaman",
+        "addressDelete": "Sil",
+        "addressNulled": "Bir cüzdan adresi eklemedin.",
+        "MAddedAddressNote": "Eklenen Adres/Sınıf",
+        "MNoteName": "Sınıfı isimlendir",
+        "MSave": "Kaydet",
+        "MDeleteAddress": "Bu cüzdan adresini silmek istiyor musun?",
+        "MMonmentNo": "Şimdi değil",
+        "MMakeSure": "Evet",
+        "addressNull": "Lütfen cüzdan adresinize girin",
+        "addressWrongETHAndCOS":"Cüzdan adresi 42 karakter uzunluğunda ve sonunda 0x olmalıdır. Lütfen cüzdan adresinizi gözden geçirin.",
+        "addressWrongBTC":"Cüzdan adresi 26 ~ 34 karakter uzunluğunda olmalıdır. Lütfen cüzdan adresinizi gözden geçirin.",
+        "labelNull":"Lütfen bir not giriniz. Not kısmı boş bırakılamaz.",
+        "bannerintroduce": "Lütfen COS ve diğer dijital varlıklarınızın güvenliği için Trust cüzdanı kullanın.",
+        "overReason1": "Neden adres geçersiz?",
+        "overReason2": "Şu anda yalnızca Binance zincirinin adresini destekliyoruz, bu nedenle ETH adresi geçersiz olacaktır.",
+        "overReason3": "Lütfen geçersiz adresi silin ve Binance zincirinin adresini ekleyin.",
+        "bnbRegTips": "Lütfen doğru Binance zinciri adresi girin.",
+        "overAddress": "Geçersiz adres."
+    },
+    "bill": {
+        "transactionType": "Tür",
+        "all": "Hepsi",
+        "income": "Gelir",
+        "spending": "Gider",
+        "transactionTime": "Zaman",
+        "coinType": "Token",
+        "transactionMoney": "Miktar",
+        "transactionTitle": "Kategori",
+        "billStatus": "Durum",
+        "billSuccess": "Tamamlandı",
+        "processing": "İşlemde",
+        "startPage": "Ana sayfa",
+        "endPage": "En son",
+        "previousPage": "Önceki",
+        "nextPage": "Sonraki",
+        "billNull": "İşlem geçmişi bulunamadı",
+        "mCoinType": "Token",
+        "clearTime": "Temiz",
+        "billOver": "Tüm içerikler gösterildi"
+    },
+    "kyc": {
+        "propertyKycTitle": "Lütfen öncelikle KYC onayı alın",
+        "kycCertification": "KYC onayı al",
+        "returnPreperty": "Geri",
+        "whatIsKyc": "KYC nedir?",
+        "KeepMyInformationSecure": "Bilgilerimi nasıl güvende tutarım?",
+        "kycIntroduceInfo": "KYC, Müşterilerinizi Tanı'ın (Know Your Customers) kısaltmasıdır. Bu, kullanıcıların gerçek kimliğini anlamamıza ve onaylamamıza yardımcı olan bir süreçtir ve blockchain alanında ve hatta finans ve bankacılık endüstrisinde yaygın olarak kullanılmaktadır. KYC'den sonra, kullanıcı fonlarının güvenliğini daha etkin bir şekilde koruyabilir ve daha uygun hizmetler sunabiliriz.",
+        "InformationSecureInfo1": "Kullanıcılar tarafından gönderilen KYC bilgileri bağımsız bir üçüncü tarafça incelenecektir. Üçüncü taraf ortaklarımız tarafından sağlanan gizlilik önlemleri, ulusal bilgi gizliliği düzenlemelerine ve AB Genel Veri Koruma Yönetmeliklerine (GDPR) uygundur, ayrıca banka düzeyinde bir veri güvenlik sistemine sahiptir.",
+        "InformationSecureInfo2": "Contentos olarak, kullanıcı bilgilerini görebilen veya görebilecek olan partnerleri net bir şekilde açıklarız. CMS'deki veya kullanıcı bilgilerine erişebilecek diğer ortaklarımız kullanıcı bilgilerine erişmek istediklerinde, tüm işlemlerini kaydediyoruz.  Kullanıcı verileri, sistem hasarından korumak için yüksek güvenlikli sunucumuzda saklanır."
+    },
+    "transferSuccess": {
+        "congratulations": "Başarılı",
+        "successTips1": "1. Transferin gerçek zamanlı olarak alıcının hesabına ulaşması bekleniyor. Ağ tıkanıklığı nedeniyle bir gecikme olabilir.",
+        "successTips2": "2. Alıcı transferi almadıysa, lütfen service@contentos.io adresinden bize e-posta gönderin.",
+        "lookMyBill": "Detayları Gör",
+        "returnHome": "Ana Sayfaya Git"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "Başarılı",
+        "widthdrawSuccessTips1": "Para çekme işlemleriniz 24 saat içinde incelenecek ve 48 saat içinde hesabınıza geçecektir (tatillerde hafif bir gecikme olabilir).",
+        "widthdrawSuccessTips2": "Para çekme işlemleriniz uzun bir süre gerçekleşmezse, lütfen service@contentos.io adresinden bizimle iletişime geçin."
+    },
+    "nft": {
+        "nftTitle": "Bana ait ERC721",
+        "nftToView": "Kontrol et",
+        "nftCheck1": "Hepsi",
+        "nftCheck2": "Para çekme bekleniyor",
+        "nftCheck3": "Para çekiliyor",
+        "nftCheck4": "Para çekildi",
+        "noNft": "NFT varlığı bulunamadı",
+        "noAssets": "Böyle bir varlık bulunamadı",
+        "typeList": [
+            {
+              "text": "Hepsi"
+            },
+            {
+              "text": "Para çekme bekleniyor"
+},
+            {
+              "text": "Para çekme bekleniyor"
+            },
+            {
+              "text": "Para çekildi"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "Mainnet Cüzdanı",
+        "user": "COS.TV Hesabı",
+        "insText": "COS.TV Hesabı senin COS.TV üzerindeki merkezi varlıklarını organize etmek için kullanılır. Varlıkların bir kısmı COS.TV üzerindeki günlük etkileşimlerinden, ödüllendirmelerinden ve paylaşımlı ödüllerden oluşur. Bakiye gerekli miktara ulaşınca, bunları Mainnet cüzdanına veya BEP2 cüzdanına aktarabilirsin.",
+        "toMain": "Mainnet Cüzdanı (Önerilen)",
+        "toAccount": "Mainnet adresini yetkilendir (Önerilen)",
+        "goAccount": "Yetkilendir",
+        "banner1": "BEP2 adresine yapılan transfer sonucunda, ayrıca BEP2 adresine giderek de varlıklarını çekebilirsin.",
+        "banner2": "Lütfen bir hesap oluşturmak için Binance.org sitesini ziyaret et veya Trust Wallet kullan.",
+        "education": "Öğreticiyi izle"
+    }
+}

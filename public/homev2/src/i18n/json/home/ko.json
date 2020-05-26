@@ -1,0 +1,101 @@
+{
+  "blockTitleCardLIst": "콘텐토스 탐색하기",
+  "btnEnterLivePage": "생방송 보기",
+  "btnCheckBannerDetail": "더 보기",
+  "announcement":{
+    "banner_a":"매일 보물상자로 ",
+    "banner_b":"<span class='strong'>BTC</span>&<span class='strong'>COS</span>얻기",
+    "banner_c":"POP보물얻기 이벤트를 참여하고，",
+    "banner_d":"<span class='strong'>COS</span>도 얻고 디지털 재산도 모으세요.",
+    "banner_g1":"Crypt-Oink의 크립톤 정식출시,",
+    "banner_g2":"<span class='strong white'>POP 보물찾기로 나만의 COS 크립톤을 획득해주세요!</span>",
+    "questionnaire": "설문지 작성하고 피드백을 보내주시면 50COS 보상이 있습니다!",
+    "questionnaire_mobile": "설문지 작성하고 피드백을<br />보내주시면 50COS 보상이 있습니다!",
+    "nps": "<span class='blod'>설문조사를 작성하시면 추첨을 통해 500명을 선정하여 5개의 기프트 티켓을 보상으로 드립니다</span>",
+    "nps_m": "<span class='blod'>설문조사를 작성하시면 추첨을 통해 500명을 선정하여 5개의 기프트 티켓을 보상으로 드립니다</span>"
+  },
+  "sign":{
+    "a":"매일 출석체크로 ",
+    "b":"ETH와 POP 얻기"
+  },
+
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "COS 얻기"
+    },
+    {
+      "text": "블록체인 브라우저"
+    },
+    {
+      "text": "<span class='o-f'>C</span>ontent<span class='o-f up'>os</span>정보"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+  "category0":"인기 DApp",
+  "category5": "원본 콘텐츠",
+  "category1":"인기 콘텐츠",
+  "category2":"게임",
+  "category3":"남신",
+  "category4":"만능 재주꾼",
+  "category7":"블록체인 관련 추천영상",
+  "category8":"내 시청목록",
+  "category9":"내 구독",
+  "category10":"추천 비디오",
+  "category11":"재미",
+  "category12":"귀여운 애완 동물",
+  "category13":"음악",
+  "category14":"Liveme 특집",
+  "categorySp":"추천 비디오",
+  "categorySp2":"귀여운 애완 동물",
+  "more":"더 보기",
+  "operation":"더 보기",
+  "tagAll":"모든 것",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "오늘",
+    "sevenDay": "최근 7일",
+    "oneMonth": "최근 30일",
+    "oneYear": "최근 1년",
+    "longer": "1년 이상",
+    "removeAll": "모두 삭제",
+    "novicePromptDeletion": "영상을 왼쪽 영상 에리어로 드래그 하시면 영상이 삭제됩니다",
+    "noSubscribe": "팔로우 중인 크리에이터가 없습니다, 먼저 팔로우 해주세요",
+    "nullSubList": "팔로우 중인 크리에이터의 작품이 없습니다",
+    "nullHistory": "시청하신 영상이 없습니다, 먼저 영상 시청을 해주세요",
+    "deleteHistoryAll": "모든 기록을 지우시겠습니까?",
+    "yes": "예",
+    "no": "아니요"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notification Center",
+    "noMoreNotice": "No more notice.",
+    "comment": "Comment",
+    "aboutComment": "The comments about the video \"{0}\"",
+    "commentNull": "The comment is deleted"
+  }
+}

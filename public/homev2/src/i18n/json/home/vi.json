@@ -1,0 +1,100 @@
+{
+  "blockTitleCardLIst": "Vui chơi cùng COS.TV",
+  "btnEnterLivePage": "Vào phòng Live",
+  "btnCheckBannerDetail": "Xem chi tiết",
+  "announcement":{
+    "banner_b":"Chiến Thắng Nhận <span class='strong'>BTC</span> & <span class='strong'>COS</span>",
+    "banner_a":"Mở rương báu hàng ngày",
+    "banner_c":"Tham gia kho báu POP，",
+    "banner_d":"chơi Slot machine, kiếm <span class='strong'>COS</span>！",
+    "banner_g1":"Crypt-Oink ra mắt con\"Chú Heo\" , ",
+    "banner_g2":"<span class='strong white'>chơi kho báu POP nhận chú heo COS!</span>",
+    "questionnaire": "Thu tập phản hồi người dùng, hoàn thành bảng câu hỏi nhận thưởng 50COS!",
+    "questionnaire_mobile": "Thu tập phản hồi người dùng,<br />hoàn thành bảng câu hỏi nhận thưởng 50COS!",
+    "nps": "<span class='blod'>Thu tập phản hồi</span><br>chọn ngẫu nhiên 500 bạn mỗi bạn nhận 5 Gifting Votes.",
+    "nps_m": "<span class='blod'>Thu tập phản hồi</span><br>chọn ngẫu nhiên 500 bạn mỗi bạn nhận 5 Gifting Votes."
+  },
+  "sign":{
+    "a":"Đăng nhập mỗi ngày,",
+    "b":"Nhận ETH&POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "Kiếm COS"
+    },
+    {
+      "text": "Trình Duyệt Blockchain"
+    },
+    {
+      "text": "Tìm hiểu <span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+  "category0":"Hot DAPP",
+  "category5": "Nội dung gốc",
+  "category1":"Nội dung hấp dẫn",
+  "category2":"Trò chơi ",
+  "category3":"Hot boy",
+  "category4":"Tài năng",
+  "category7":"Video đề xuất về Blockchain",
+  "category8":"Lịch sử view của tôi",
+  "category9":"Theo dõi của tôi",
+  "category10":"Video được đề xuất",
+  "category11":"Thú vị",
+  "category12":"Thú cưng dễ thương",
+  "category13":"Âm nhạc",
+  "category14":"Chương trình nổi bật",
+  "categorySp":"#Athomechallenge",
+  "categorySp2":"Thú cưng dễ thương",
+  "more":"Thêm",
+  "operation":"Tìm thêm",
+  "tagAll":"Toàn bộ",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "Hôm nay",
+    "sevenDay": "7 ngày gần đây",
+    "oneMonth": "30 ngày gần đây",
+    "oneYear": "1 năm gần đây",
+    "longer": "Hơn 1 năm",
+    "removeAll": "Xóa toàn bộ",
+    "novicePromptDeletion": "Bạn có thể kéo video sang bên trái để xóa video của bạn nhé",
+    "noSubscribe": "Bạn còn chưa theo dõi Creators, hãy đi theo dõi trước rồi quay lại nhé",
+    "nullSubList": "Creators mà bạn đang theo dõi còn chưa phát hành tác phẩm.",
+    "nullHistory": "Bạn còn chưa xem video nào, hãy xem trước rồi quay lại nhé",
+    "deleteHistoryAll": "Bạn có thật muốn xóa hết lịch sử view của bạn không?",
+    "yes": "Yes",
+    "no": "no"
+  },
+  "todayPopular": {
+    "title": "Video hot hôm nay",
+    "watch_num": "{0} lượt view"
+  },
+  "messageCenter": {
+    "notificationCenter": "Thông Báo",
+    "noMoreNotice": "Chưa có thông báo mới",
+    "comment": "Bình luận",
+    "aboutComment": "Bình luận của video \"{0}\"",
+    "commentNull": "Đã xóa bình luận liên quan"
+  }
+}

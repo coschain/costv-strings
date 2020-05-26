@@ -1,0 +1,16 @@
+{
+  "enter":"서비스 센터",
+  "title":"자주 묻는 질문",
+  "title_tip":"해결하기 어려운 문제는<br /><a href='mailto:service@contentos.io'>service@contentos.io</a><br />  이 이메일로 연락해주시거나 커뮤니티에 가입하시고 물어봐주세요.",
+  "category1":"자주 묻는 질문",
+  "category2":"계정 관련 질문",
+  "category3":"인출 관련 질문",
+  "category4":"보안 관련 질문",
+  "feedback_title":"이 글이 도움이 되셨나요?",
+  "yes":"예",
+  "no":"아니오",
+  "no_title":"피드백 주셔서 감사합니다.",
+  "submit":"제출",
+  "thanks2":"피드백 주셔서 감사합니다.",
+  "wrong_tip":"유효한 내용을 입력해주세요."
+}

@@ -1,0 +1,16 @@
+{
+  "enter":"Help center",
+  "title":"FAQ",
+  "title_tip":"Any unsolved problems? Please contact us through : <br /><a href='mailto:service@contentos.io'>service@contentos.io</a><br />  or join our community for help.",
+  "category1":"FAQ",
+  "category2":"Account",
+  "category3":"Withdrawals",
+  "category4":"Security",
+  "feedback_title":"Is this article helpful?",
+  "yes":"Yes",
+  "no":"No",
+  "no_title":"Thank you for providing your feedback.",
+  "submit":"Submit",
+  "thanks2":"Thank you for your feedback.",
+  "wrong_tip":"Please enter valid content"
+}

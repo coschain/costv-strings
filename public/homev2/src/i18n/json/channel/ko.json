@@ -1,0 +1,20 @@
+{
+  "btnEdit": "편집",
+  "textFollow": "팔로우",
+  "textFans": "팔로워",
+  "tabMyCreation": "내 동영상",
+  "tabCreation": "게시글",
+  "tabMyDynamic": "내 게시물",
+  "tabDynamic": "스토리",
+  "tipsNoVideo": "아직 업로드한 동영상이 없습니다.",
+  "tipsNoVideo2": "업로드된 영상이 없습니다",
+  "tipsNoDynamic": "아직 좋아하는 동영상이 없습니다. 좋아하는 동영상에 좋아요를 클릭해 주세요",
+  "tipsNoDynamic2": "좋아요 눌린 영상이 없습니다",
+  "titleFollow": "팔로우",
+  "titleFans": "팔로워",
+  "btnUnfollow": "팔로우 해제",
+  "btnRemoveFans": "제거",
+  "tipsNoFollow": "아직 아무에게도 관심을 기울이지 않았다",
+  "tipsNoFans": "아직 아무도 눈치 채지 못했다",
+  "btnPersonal": "프로필"
+}

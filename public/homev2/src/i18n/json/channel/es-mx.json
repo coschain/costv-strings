@@ -1,0 +1,20 @@
+{
+  "btnEdit": "Editar",
+  "textFollow": "Seguir",
+  "textFans": "Seguidor",
+  "tabMyCreation": "Mis videos",
+  "tabCreation": "Alimentar",
+  "tabMyDynamic": "Mis publicaciones",
+  "tabDynamic": "Me gusta",
+  "tipsNoVideo": "Aún no ha subido ningún video",
+  "tipsNoVideo2": "No hay videos subidos todavía",
+  "tipsNoDynamic": "Todavía no le han gustado los videos, vaya y de me gusta a sus videos favoritos",
+  "tipsNoDynamic2": "Todavía no me han gustado los videos",
+  "titleFollow": "Seguir",
+  "titleFans": "seguidor",
+  "btnUnfollow": "Dejar de seguir",
+  "btnRemoveFans": "Eliminar",
+  "tipsNoFollow": "Todavía no he seguido a nadie",
+  "tipsNoFans": "Nadie lo ha seguido todavía",
+  "btnPersonal": "Perfil"
+}

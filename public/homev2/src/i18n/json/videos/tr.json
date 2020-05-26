@@ -1,0 +1,304 @@
+{
+  "play": {
+    "focus": "Takip et",
+    "focused": "Takip ediliyor",
+    "focus_num": "Takipçiler",
+    "focus_num_": "Takipçi",
+    "forbid_follow": "Kendini takip edemezsin.",
+    "go_play": "Git ve oyna",
+    "recommend": "Önerilen videolar",
+    "shareTo": "Şununla paylaş:",
+    "shareHref": "Video bağlantısını paylaş:",
+    "shareCopy": "Kopylaa",
+    "popTask": "Videoları izle ve POP kazan!",
+    "popbanner1": "Videoları izle ve POP kazan!",
+    "popbanner2": "Orijinal ve Trendlerdeki videolar kazanma hızını ikiye katlayabilir",
+    "share": "Paylaş",
+    "inform": "Raporla",
+    "copySuccess": "Copyalandı",
+    "shareLink": "Bağlantıyı paylaş",
+    "cancel": "İptal",
+    "continue": "İlerle",
+    "informVideo": "Videoyu raporla",
+    "time": "Seçili zaman",
+    "placeholder": "Lütfen detaylı bilgi verin",
+    "timeTips": "Seçtiğiniz zaman videonun uzunluğunu aşıyor, lütfen tekrar girin",
+    "tips1": "COS.TV personeli, Topluluk Kurallarını ihlal edip etmediklerini belirlemek için işaretli videoları ve kullanıcıları 7/24 inceler. Topluluk Kurallarını ihlal eden hesaplar cezalandırılacak ve şartlar ciddi veya tekrarlı ise hesap askıya alınacaktır.",
+    "tips2": "Topluluk Kurallarımızı ihlal eden içeriği kaldıracağız.",
+    "thanksToShare": "Raporlaman için teşekkürler",
+    "problem": "Sorun",
+    "close": "Kapat",
+    "btnMore": "Daha fazla >",
+    "typeList": [
+      {
+        "text": "Pornografik içerik"
+      },
+      {
+        "text": "Şiddetli veya saldırgan içerik"
+      },
+      {
+        "text": "Nefret veya hakaretli içerik"
+      },
+      {
+        "text": "Zararlı veya tehlikeli davranış"
+      },
+      {
+        "text": "Çocuk tacizi"
+      },
+      {
+        "text": "Terörizm propagandası"
+      },
+      {
+        "text": "Spam veya yanıltıcı içerik"
+      },
+      {
+        "text": "Haklarımı ihlal ediyor"
+      },
+      {
+        "text": "Altyazı problemi"
+      },
+      {
+        "text": "Başka bir sorun"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "Açıklama",
+    "playCount": "{0} görüntüleme",
+    "loginTips": "POP Kazan",
+    "popGuideDesc01": "POP kazanmak için videoları izle!",
+    "popGuideDesc02": "Trendlerdeki videolar",
+    "popGuideBtn": "Başlat",
+    "popRewardFinished": "Bitti",
+    "popDescTitle": "Kural açıklaması",
+    "popDesc01": "1. Kullanıcılar canlı yayın ya da video izleyebilir ve her dakika POP ödülleri alabilir.",
+    "popDesc02": "2. Her gün en fazla {0} POP alabilirsiniz. Trend olan videolar çekim hızını ikiye katlayabilir. Gün içinde POP edinme sınırına ulaşılmazsa, kullanıcılar ertesi gün POP biriktiremez. Edinme limiti her gün 00:00 (UTC) olarak sıfırlanır.",
+    "popDesc03": "3. Zamanlama ile ilgili bir sorun varsa, lütfen sayfayı yenileyin veya diğer tarayıcıları deneyin.",
+    "processStatePaused": "Durduruldu",
+    "showMore": "Daha fazla",
+    "showLess": "Daha az"
+  },
+  "playComment": {
+    "commit": "Yorum yap",
+    "loginTip": "(Giriş yaptıktan sonra yorum yapabilirsin.)",
+    "wordsError": "Yorumun 300 karakteri geçmemeli",
+    "inputNum": "{inputNum}/300 karakter",
+    "enterCommit": "Yorum gir",
+    "sending": "Gönderiliyor",
+    "send": "Gönder",
+    "cancel": "Vazgeç",
+    "commitNum": "{total} yorum",
+    "orderHot": "Popülerliğe göre",
+    "orderDate": "Tarihe göre",
+    "send_s": "{num} saniye önce",
+    "send_s_": "{num} saniye önce",
+    "send_m": "{num} dakika önce",
+    "send_m_": "{num} dakika önce",
+    "send_h": "{num} saat önce",
+    "send_h_": "{num} saat önce",
+    "send_d": "{num} gün önce",
+    "send_d_": "{num} gün önce",
+    "send_w": "{num} hafta önce",
+    "send_w_": "{num} hafta önce",
+    "send_mo": "{num} ay önce",
+    "send_mo_": "{num} ay önce",
+    "send_y": "{num} yıl önce",
+    "send_y_": "{num} yıl önce",
+    "justNow": "Şimdi",
+    "replay": "Cevapla",
+    "wordsLimit": "Yorumun 300 karakteri geçemez",
+    "more": "Daha fazla yorum için tıkla",
+    "slider": "Kapat",
+    "no_more_commit": "Daha fazla yorum yok~",
+    "no_commit": "Henüz bir yorum yapılmamış. İlk yorumu sen yap!",
+    "replay_all": "Hepsini cevapla",
+    "commit_success": "Yorum başarılı",
+    "lookComments": "View {0} replies",
+    "sliderComments": "Hide {0} replies ",
+    "lookComment": "View reply",
+    "sliderComment": "Hide reply",
+    "deleteLayerTips": "After deleting the comment, all the replies under this comment will be deleted too",
+    "deleteSuccess":"Comment successfully deleted",
+    "commentsNumbers":"Replies",
+    "commentTips": "Let’s chat! Leave a comment and tell everyone what you think ~",
+    "rreply": "{0} comments"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes, güç yiyerek coin kazanan bir yılan ol. Bu hiddetli öldürme oyununda tüm avları parçalayan gözü dönmüş yılan olabilecek misin? Oyunu kazanmak için yılanı hareket ettir ve yolundaki bütün dijital hazineleri topla.",
+      "detail_description": "HyperSnakes, HyperDrangs'tan sonra MixMarvel'in ürettiği başka bir Hyper serisi oyunudur. Ayrıca blockchain üzerindeki ilk gerçek zamanlı ve küresel çoklu oyunculu rekabetçi oyundur. Oyun blockchain teknolojisi üzerine kurulu, yılan karakterinde oynanan, haritanın etrafında diğer oyuncularla karşılaşıp, rastgele değişken savaş alanlarında savaşarak ve paraları toplayarak oynanan bir oyundur. Oyuncular yılanlarını sadece diğer yarışmacılardan kaçmak için değil, aynı zamanda zehirli halkalardan kaçmak için de kontrol etmeliler. You can accumulate wealth while enjoying the game. Her bir savaşta, sadece bir kişi kazanabilir ve diğerlerini kıskandıracak özülün sahibi olabilir. Ayrıca diğer yarışmacılar da uygun ödüller kazanır."
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "İlk Multi-Blockchain toplanabilen Macera Oyunu",
+      "detail_description": "Blockchain Cuties, yavru köpekler, kertenkeleler, yavru ayılar ve kediler ve başka gerçek ve hayali yaratıklarla oynayabileceğiniz yeni bir toplanabilir kripto oyunudur. Her sevimli %100 eşsiz ve sana özeldir. Onları toplayıp, büyütüp, savaş yeteneklerini test edip, zırhlandırıp seviye atlatabilirsin! Oyunlar sana sevimlileri ETH, EOS ve TRON blockchainleri ile takas etmen konusunda izin veriyor. Her sevimli, geri dönüşümü olmadan, başka oyunculara aynı kripto para gibi transfer edilebiliyor veya satılabiliyor."
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, ne kadar yükseğe çıkabilirsin? Bu sayı oyununu öğrenmek kolay olabilir, ama her seviyede ustalaşmanın zorluğu bağımlı hale getiriyor. Skor tahtasının en tepesine geçmek için yarış!",
+      "detail_description": "Puzzle, Harmony tarafından üretilmiş küresel rekabetçi bir blockchain oyunudur. Oyuncular her tur ortaya bir miktar Harmony Token koyuyor ve bölümleri kazanıp dünya skor sıralamasında yukarı tırmandıkça daha fazla kazanyor. En iyi oyunculara karşı hırsını test etmek için bölümleri tekrar tekrar oynayabilirsin. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay. Her tur, hamleleri ve kazananları doğrulamak adına Harmony blockchain'de saklanıyor."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Cryptonlar” çok tatlı, toplanabilir ve çoğaltılabilir Ethereum ağında yaşayan domuzcuklardır. Kendine bir tane al ve en tatlı Crypt-Oink dünyasına katıl!",
+      "detail_description": "Crypt-Oink, Japonya'nın Ethereum ağında; yavrulayabilir, toplanabilir ve takaslanabilir toplanabilen kriptoların tanıtıldığı Cryptonlar ismindeki ilk blockchain sistemli oyunudur. 3 trilyonun üstünde farklı renk ve desende domuzcuk bulunmaktadır. Cryptonlar ayrıca Gran Ton Rismo isimli Crypt-Oink'in 3D yarış oyununda kazanma şansınızı arttırmak adına eğitilebilir ve güçlendirilebilir."
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "Lütfen bekleyin, Canlı yayın hazırlık sürecinde！",
+    "preparing": "Lütfen bekleyin, Canlı yayın hazırlık sürecinde！",
+    "error": "Lütfen bekleyin, Canlı yayın hazırlık sürecinde！",
+    "endedToday": "Bugünlük yayınımız bu kadar, izlediğiniz için teşekkürler!",
+    "allEnded": "Etkinlikler sona erdi, katılımınız için teşekkürler!"
+  },
+  "ticket": {
+    "voteBoxInfo": "<span>{persons}</span> people, <span>{tickets}</span> Ödül Oyları gönderildi",
+    "cosNum": "COS:{0}",
+    "ticketsNum": "Ödül oyları: {0}",
+    "ticketsNumUnify": "Ödül oyları: {0}",
+    "placeholderTicketCount": "Miktar",
+    "placeholderComment": "Bir yorum yap... Gösterilen yoruma Ödül Madalyası olacak.",
+    "likeTips": "Ödüllendirilirken üreticilerin videolarını beğen",
+    "btnDoGiftVote": "Ödül",
+    "errorTipsExceed": "Dengesiz",
+    "tipsHowToGetCos": "Nasıl COS alırım",
+    "voteBoxDesc": "Ödüle katkın olması için için bir Ödül Oyu al. Videoya olan sevginizi ifade et ve üreticiyi destekle!",
+    "textMoreDetail": "Daha fazla detay",
+    "moreContentDesc01": "Videoya olan sevgini ifade et ve üreticiyi destekle! Ödül oylarını verdikten sonra, video sayfasında benzersiz izinlerin tadını çıkarabileceksiniz! Şunları içerir:",
+    "moreContentDesc02": "1. Ödül Listesi ve Altın Koltuklar Yarışmasına katılım",
+    "moreContentDesc03": "2. Yorum bölümündeki yorumlarınız için özel madalyalar",
+    "moreContentDesc04": "3. Üreticinin en içten takdiri",
+    "moreContentDesc05": "Buna ek olarak, içerik üreticisi, satın alma işlemlerinizin gelirlerinin çoğunu alacaktır.",
+    "buyGiftVoteTitle": "Ödül Oyu satın alma",
+    "CosBalance": "Mevcut COS bakiyesi:",
+    "giftVoteBalance": "Mevcut Ödül Oyu miktarı:",
+    "buyText": "Satın al:",
+    "buyBtn": "Satın al",
+    "expectedCost": "Fiyatlar:",
+    "buyList": "Satın alma geçmişi",
+    "spendMoneySymbol": "Fiyatlar:",
+    "spendMoney": "Fiyatlar",
+    "spendCos": "{0}COS",
+    "buyAmountSymbol": "Satın alma miktarı:",
+    "buyAmount": "Satın alınmış miktar",
+    "buyTimeSymbol": "Zaman:",
+    "buyTime": "Zaman",
+    "loadMore": "Daha fazla kayıt gör",
+    "buyGiftVote": "Ödül oyu satın al",
+    "giftVote": "Ödül oyları",
+    "giftVoteHeader": "Gifting Votes",
+    "giftVoteReply": "Ödül Oyları Cevapları",
+    "confirm": "Onayla",
+    "replyHint": "Set up a “thank-you message” to users who send Gifting Votes to you. Users will receive your “Thank-You message” sending Gifting Votes to your video.PS: If you do not customize the “Thank-You message”, the default note will be: Thank you for your support ~ ",
+    "replyLimitMax": "En yüksek limit {0} karakter",
+    "replyLimitMin": "En düşük limit limit {0} karakter",
+    "setReplySuccess": "Başarılı kurulum",
+    "giftVotebuyList": "Ödül Oyu satın alma kaydı",
+    "notSufficientFunds": "Yetersiz Bakiye",
+    "buySuccess": "Satın alma başarılı",
+    "stayTunedFor": "Altın Koltuk Yarışması yakında geliyor, buralarda takılmaya devam edin!",
+    "numberOfGiftGiving": "{0} kişi ödüllendirildi",
+    "releaseDate": "{0} gönderi",
+    "exclusiveThankYouHeart": "Özel Hediye Gönderici Hediye Madalyası “Kalbin Takdiri”",
+    "errorTipsVoteSelf": "Kendi içeriğinizi ödüllendiremezsiniz.",
+    "occupyList": "Şimdi katıl!",
+    "occupyListText": "Şimdi katıl! Ödül Oylaması sistemini önceden denemenin gururunu yaşa!",
+    "participateList": "Altın Koltuk Yarışması",
+    "waiting":"Şeref koltuğunu açık bırak",
+    "moreList": "Daha fazla",
+    "participationAndLook": "Ödüle katıl! Sıralamaya göz at",
+    "rankingListLearnMoreA": "Bunlar bu videonun ödüllendirmesine katılan kullanıcıların sıralaması~",
+    "rankingListLearnMoreB": "İlk on duyurulacak. Hediye oylarının sayısı aynı olduğunda, zamana göre sıralanacaktır.",
+    "totalMoney": "Toplam varlık {0}",
+    "totalMoneyApproximate": "Yaklaşık：{0}Vest",
+    "bonusSettlement": "Hesap ödemesi：{money}/about {vest}Vest",
+    "settlementDate": "Zaman ödemesi：{0}",
+    "settlementBonus": "Reward (settled): {0}",
+    "afterSettlement": "Daha sonra yap {0}",
+    "giftMoney": "Ödül oyu geliri：{money}/ about {vest}Vest",
+    "btnSubscribe": "Abone ol",
+    "btnSubscribed": "Abone olundu",
+    "giftReceivedSum": "Ödül oyu geçmişi：{0}",
+    "giftEmptyTips1": "Son 7 günde kazanç yok",
+    "giftEmptyTips2": "Seçilen tarih için gelir geçmişi yok",
+    "tipsSelectDate": "Tarih seç:",
+    "btnReset": "Yenile",
+    "paginationTotal": "Toplam {total} kayıt",
+    "videoRewardsLeader": "Video ödül liderleri",
+    "giftReceivedThUser": "Gönderen",
+    "giftReceivedThAmount": "Ödül oyu miktarı",
+    "giftReceivedThTime": "Zaman",
+    "giftReceivedThVideo": "Videolar",
+    "alreadySettled": "Belirlendi",
+    "remainingSettlementPeriod": "Kalan hesap dönemi : {0}",
+    "rankList": "Lider sıralaması"
+  },
+  "autoplay": {
+    "nextVideo":"Will play another video by the creator",
+    "recommend":"Recommendations",
+    "replay":"Replay",
+    "nextPlay":"Up Next:",
+    "willPlay":"Up Next:",
+    "immediatelyPlay":"Play Now",
+    "cancel":"Cancel",
+    "autoplay":"AutoPlay",
+    "moreTips":"When the AutoPlay is on, we’ll automatically play another video based on your viewing history"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "Advertising or spam comment"
+      },
+      {
+        "text": "Sexual content"
+      },
+      {
+        "text": "Child abuse"
+      },
+      {
+        "text": "Violence or hateful speech"
+      },
+      {
+        "text": "Harassment or bullying"
+      }
+    ],
+    "delete": "Hide",
+    "creator": "Creator",
+    "delCommit": "Hide comment",
+    "placeholder": "Leave a comment...",
+    "author": "Only the original creator can hide the comments",
+    "delTips": "The comment has been hidden successfully. Please refresh the page."
+  },
+  "emojiCustom": {
+    "unlock": "Unlock ",
+    "getEmoji": "Unlock stickers",
+    "getAllEmoji": "Unlock all stickers",
+    "howGet": "How to unlock all stickers in \"Epamoji\"",
+    "getEmojiTips": "Send 100 Gifting Votes or more in total to Voepa, to unlock all stickers in \"Epamoji\""
+  }
+}

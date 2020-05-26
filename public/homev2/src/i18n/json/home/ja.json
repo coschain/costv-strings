@@ -1,0 +1,100 @@
+{
+  "blockTitleCardLIst": "COS.TVを探索",
+  "btnEnterLivePage": "Liveを見る",
+  "btnCheckBannerDetail": "詳しく見てみる",
+  "announcement":{
+    "banner_a":"毎日宝箱を開けて，",
+    "banner_b":"<span class='strong'>BTC</span>と<span class='strong'>COS</span>を獲得しよう！",
+    "banner_c":"POPルーレットに回し、",
+    "banner_d":"<span class='strong'>COS</span>を獲得しよう！",
+    "banner_g1":"宝箱にクリプ豚が登場！",
+    "banner_g2":"<span class='strong white'>今すぐCOSトンを獲得しよう！</span>",
+    "questionnaire": "アンケートに答えて50COSを獲得！",
+    "questionnaire_mobile": "アンケートに答えて50COSを獲得！",
+    "nps": "<span class='blod'>Take our survey, </span>and 500 participants will win five Gifting Votes",
+    "nps_m": "<span class='blod'>Take our survey</span><br>and 500 participants will win five Gifting Votes"
+  },
+  "sign":{
+    "a":"毎日サインイン,",
+    "b":"ETHとPOPを獲得"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "COSを獲得"
+    },
+    {
+      "text": "Blockchain"
+    },
+    {
+      "text": "<span class='o-f'>C</span>ontent<span class='o-f up'>os</span>について"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+  "category0":"人気DApp",
+  "category5": "元のコンテンツ",
+  "category1":"人気コンテンツ",
+  "category2":"ゲーム",
+  "category3":"ボーイ",
+  "category4":"才能、特技",
+  "category7":"ブロックチェーン関連おすすめ動画",
+  "category8":"私の視聴履歴",
+  "category9":"私の購読",
+  "category10":"おすすめのビデオ",
+  "category11":"楽しい",
+  "category12":"かわいいペット",
+  "category13":"音楽",
+  "category14":"Livemeおすすめ",
+  "categorySp":"おすすめのビデオ",
+  "categorySp2":"かわいいペット",
+  "more":"もっと見る",
+  "operation":"もっと見る",
+  "tagAll":"すべて",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "今日",
+    "sevenDay": "直近7日",
+    "oneMonth": "直近30日",
+    "oneYear": "直近1年",
+    "longer": "一年以上",
+    "removeAll": "全て削除",
+    "novicePromptDeletion": "左にスライドし動画エリアにて動画を削除することが可能です。",
+    "noSubscribe": "まだクリエイターをフォローしていません。",
+    "nullSubList": "フォローしているクリエイターは動画をアップロードしていません。",
+    "nullHistory": "まだ動画の視聴履歴がありません。",
+    "deleteHistoryAll": "すべての履歴をクリアしますか？",
+    "yes": "はい",
+    "no": "いや"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notification Center",
+    "noMoreNotice": "No more notice.",
+    "comment": "Comment",
+    "aboutComment": "The comments about the video \"{0}\"",
+    "commentNull": "The comment is deleted"
+  }
+}

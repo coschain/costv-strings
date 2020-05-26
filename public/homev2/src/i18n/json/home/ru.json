@@ -1,0 +1,103 @@
+{
+  "blockTitleCardLIst": "Играй на COS.TV",
+  "btnEnterLivePage": "Присоединиться к трансляции",
+  "btnCheckBannerDetail": "Узнать больше",
+  "announcement": {
+    "banner_a": "Открывай сундук с сокровищами каждый день,  ",
+    "banner_b": "Выигрывай <span class='strong'>BTC</span> и <span class='strong'>COS</span>",
+    "banner_c":"Начать охоту за POP сокровищами. ",
+    "banner_d":"Играй в однорукий бандит и выигрывай <span class='strong'>COS</span>！",
+    "banner_e":"Играй в однорукий бандит",
+    "banner_f":"и выигрывай <span class='strong'>COS</span>！",
+    "banner_g1":"Играй в рулетку POP,",
+    "banner_g2":"<span class='strong white'>выиграй хрюшек Crypton от Crypto-Oink!</span>",
+    "banner_g_":"<span class='strong white'>Играй в рулетку POP ,выиграй хрюшек Crypton от Crypto-Oink!</span>",
+    "questionnaire": "We are now collecting user feedback! Fill out the questionnaire and win 50COS!",
+    "questionnaire_mobile": "We are now collecting user feedback!<br />Fill out the questionnaire and win 50COS!",
+    "nps": "<span class='blod'>Запишите проблемы, </span>которые вы обнаружили на платформе, 500 пользователей получат 5 gifting votes.",
+    "nps_m": "<span class='blod'>Запишите проблемы, </span>которые вы обнаружили на платформе, 500 пользователей получат 5 gifting votes."
+  },
+  "sign":{
+    "a":"Оставайся в системе каждый день - ",
+    "b":"выигрывай ETH и POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+      "id":"1",
+      "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "Получить COS"
+    },
+    {
+      "text": "TestNet"
+    },
+    {
+      "text": "Что такое <span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "Начать",
+  "category0":"Популярные приложения",
+  "category5": "оригинальный контент",
+  "category1":"Популярный контент",
+  "category2":"Игры",
+  "category3":"Лучшее",
+  "category4":"Таланты",
+  "category7":"Избранные видео,которые связанные с блокчейном",
+  "category8":"Моя история просмотров",
+  "category9":"Мои подписки",
+  "category10":"Рекомендуемые видео",
+  "category11":"развлечения",
+  "category12":"милые питомцы",
+  "category13":"музыка",
+  "category14":"Liveme",
+  "categorySp":"Рекомендуемые видео",
+  "categorySp2":"милые питомцы",
+  "more":"еще",
+  "operation":"Узнать больше",
+  "tagAll":"Все",
+  "textComing": "Скоро на сайте",
+  "history": {
+    "today": "Сегодня",
+    "sevenDay": "Последние 7 дней",
+    "oneMonth": "Последние 30 дней",
+    "oneYear": "Последний год",
+    "longer": "ещё дольше",
+    "removeAll": "Очистить все",
+    "novicePromptDeletion": "Сдвиньте видео влево, чтобы удалить его.",
+    "noSubscribe": "Вы еще не подписались на автора. Вернитесь после подписания .",
+    "nullSubList": "Автор, на которого вы подписаны, еще не загрузил видео.",
+    "nullHistory": "Вы еще не смотрели никакого видео, возвращайтесь после просмотра.",
+    "deleteHistoryAll": "Хотите очистить всю историю?",
+    "yes": "Здесь",
+    "no": "нет"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notification Center",
+    "noMoreNotice": "No more notice.",
+    "comment": "Comment",
+    "aboutComment": "The comments about the video \"{0}\"",
+    "commentNull": "The comment is deleted"
+  }
+}

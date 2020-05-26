@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "Balance",
+        "transfer": "Transfer",
+        "widthdraw": "Withdraw",
+        "myBill": "Transactions"
+    },
+    "home": {
+        "myWalletAddress": "Wallet addresses"
+    },
+    "transfer": {
+        "usableBalance": "Available",
+        "freeze": "Frozen",
+        "receivePersonId": "Recipient's UID",
+        "transferNumber": "Amount",
+        "confirmeTransfer": "Confirm",
+        "confirmeTipsDescription": "Notes",
+        "transferTips1": "1. The COS goes to the recipient's account in real time after you click on \"Confirm\". This operation cannot be canceled, so be sure to provide a correct UID.",
+        "transferTips2": "2. The amount cannot exceed your available balance (available balance = balance - frozen amount)",
+        "transferTips3": "3. We only support transfer to a Contentos account and no commission is required",
+        "transferTo": "Transfer to",
+        "transferMoney": "Amount",
+        "makeSureTransferMoney": "Please confirm the info and enter the verification code",
+        "sendCodeTo": "Sent to",
+        "returnModify": "Back",
+        "codeSend": "Send",
+        "againSend": "Resend",
+        "inputAddressEmpty": "UID cannot be empty",
+        "inputAddressError": "Invalid UID",
+        "inputAddressSame": "Can't transfer to yourself, please re-enter an UID",
+        "inputAmountEmpty": "Please enter an amount",
+        "inputAmountError": "Please enter a valid amount, only digits allowed",
+        "inputAmountLarge": "Insufficient balance, please reconfirm the amount to transfer",
+        "transferSubmit5000": "Please complete the KYC vertification first",
+        "transferSubmit5029": "Too many requests, please try again later",
+        "transferSubmit5039": "Insufficient balance, please reconfirm the amount to transfer",
+        "transferSubmit5045": "Wrong verification code, please re-confirm",
+        "transferSubmit5046": "You've reached your transfer limits",
+        "transferSubmit5047": "Cannot exceed the maximum transfer amount",
+        "transferSubmit5051": "The transfer amount must be no less than 1 COS, please re-confirm",
+        "transferSubmit5052": "Invaild UID, please re-confirm",
+        "transferSubmitWaringError": "Transfer failed, please try again later",
+        "kycTipsForClient": "The transfer requires KYC, you can use your browser to access COS.TV to enter the account, perform KYC, and KYC can transfer"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "Withdraw address",
+        "widthdrawNumber": "Withdrawal amount",
+        "sureWidthdraw": "Confirm",
+        "widthdrawKnow": "Notes",
+        "widthdrawAddressError": "Invaild address, please re-enter",
+        "widthdrawTips1": "1. You can only withdraw once a week. Any additional withdrawals are not available until 7 days after the previous withdrawal is made.",
+        "widthdrawTips2": "2. The amount cannot exceed your available balance (available balance = balance - frozen amount)",
+        "widthdrawTips3": "3. A small fee is required for each withdrawal",
+        "widthdrawTipsUsdt3": "3. Only if the balance is> {num} USDT, can you withdraw.  You need to pay {fee} USDT transaction fee for each withdrawal",
+        "widthdrawTips4": "4. The withdrawal will be reviewed within 48 hours (in case of holidays, there will be a slight delay), and the specific arrival time depends on the network. During this time, this credit will be frozen.",
+        "widthdrawTo": "Withdraw to",
+        "widthdrawMoney": "Amount",
+        "makeSureWidthdrawMonty": "Please confirm the info and enter the verification code",
+        "dropDownAddressEmpty": "The address is empty, please re-confirm",
+        "dropDownAmountEmpty": "The amount is empty, please re-confirm",
+        "dropDownDeduct": "Deduct",
+        "dropDownPoundage": "Fee",
+        "dropDownToTheAccount": "Arrived",
+        "addressNull": "Please add a wallet address to continue",
+        "toAddAddress": "Add Now",
+        "addressPlaceholder": "Please enter Binance chain address",
+        "addressPlaceholderUsdt": "Only support the addresses that can receive ERC-20 USDT ",
+        "notePlaceholder": "If the address is the exchange address, please be sure to fill in your memo. If not, please select 'No memo'.",
+        "noteMemoText": "Withdrawal does not require memo",
+        "note": "memo",
+        "noteMobilePlaceholder": "Please fill in your exchange address.",
+        "kycTipsForClient": "Withdrawal requires KYC. You can use your browser to access COS.TV to enter your account and perform KYC. After KYC, you can withdraw money"
+    },
+    "address": {
+        "wallateAddress": "Wallet Address",
+        "addressNote": "Label",
+        "add": "Add",
+        "addedCOSAddress": "Address",
+        "addTime": "Time",
+        "addressDelete": "Delete",
+        "addressNulled": "You haven't added a wallet address",
+        "MAddedAddressNote": "Added address/label",
+        "MNoteName": "Name the label",
+        "MSave": "Save",
+        "MDeleteAddress": "Delete this wallet address?",
+        "MMonmentNo": "Not Now",
+        "MMakeSure": "Yes",
+        "addressNull": "Please enter in your wallet address",
+        "addressWrongETHAndCOS":"The wallet address should be 42 characters long and requires a 0x end. Please reconfirm the wallet address",
+        "addressWrongBTC":"The wallet address should be 26 ~ 34 characters long. Please reconfirm the wallet address",
+        "labelNull":"Please enter a note. The note cannot be empty",
+        "bannerintroduce": "Please use Trust wallet to ensure the safety of your COS token and other digital assets.",
+        "overReason1": "Why the address is invalid?",
+        "overReason2": "We only support the address of the Binance chain now, so the ETH address will be invalid.",
+        "overReason3": "Please delete the invalid address and add on the address of Binance Chain.",
+        "bnbRegTips": "Please enter the correct Binance chain address.",
+        "overAddress": "Invalid address."
+    },
+    "bill": {
+        "transactionType": "Type",
+        "all": "All",
+        "income": "Income",
+        "spending": "Expenditure",
+        "transactionTime": "Time",
+        "coinType": "Token",
+        "transactionMoney": "Amount",
+        "transactionTitle": "Category",
+        "billStatus": "Status",
+        "billSuccess": "Completed",
+        "processing": "In Progress",
+        "startPage": "Home",
+        "endPage": "Last",
+        "previousPage": "Previous",
+        "nextPage": "Next",
+        "billNull": "No transaction history",
+        "mCoinType": "Token",
+        "clearTime": "Clear",
+        "billOver": "All contents are displayed"
+    },
+    "kyc": {
+        "propertyKycTitle": "Please complete the KYC vertification first",
+        "kycCertification": "Get KYC Verified",
+        "returnPreperty": "Back",
+        "whatIsKyc": "What is KYC?",
+        "KeepMyInformationSecure": "How to keep my information safe?",
+        "kycIntroduceInfo": "KYC is the abbreviation of Know Your Customers. It is the process to help us understand and confirm the true identity of users, and is widely used in the blockchain field and even the financial and the banking industry. After KYC, we're able to protect the security of users' funds more effectively and provide more convenient services.",
+        "InformationSecureInfo1": "The KYC information submitted by users will be reviewed by an independent third-party. The confidentiality measures provided by our third-party partners are in compliance with national information privacy regulations and also comply with the EU General Data Protection Regulations (GDPR) and have a bank-level data security system.",
+        "InformationSecureInfo2": "Within Contentos, we strictly define partners who can or may be exposed to user information. When our partners in CMS or other scenes where they can access user information, we will record all their operations. And user data is stored in our high-secure server to protect from system damage."
+    },
+    "transferSuccess": {
+        "congratulations": "Success",
+        "successTips1": "1. The transfer is expected to reach the recipient's account in real time. There may be a delay due to network congestion.",
+        "successTips2": "2.If the recipient didn't receive the transfer please email us at service@contentos.io",
+        "lookMyBill": "View Details",
+        "returnHome": "Go to Homepage"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "Success",
+        "widthdrawSuccessTips1": "Your withdrawals will get reviewed within 24 hours, and will go to your account in 48 hours (there might be a slight delay in case of holidays).",
+        "widthdrawSuccessTips2": "If your withdrawals are not received for a long time, please contact us at service@contentos.io"
+    },
+    "nft": {
+        "nftTitle": "My ERC721",
+        "nftToView": "Check",
+        "nftCheck1": "All",
+        "nftCheck2": "Withdrawal pending",
+        "nftCheck3": "Withdrawing",
+        "nftCheck4": "Withdrawn",
+        "noNft": "No NFT asset",
+        "noAssets": "No asset in such state",
+        "typeList": [
+            {
+              "text": "All"
+            },
+            {
+              "text": "Withdrawal pending"
+            },
+            {
+              "text": "Withdrawing"
+            },
+            {
+              "text": "Withdrawn"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "Mainnet Wallet",
+        "user": "COS.TV Account",
+        "insText": "COS.TV account is used to manage your centralized asset on COS.TV. Part of the asset is earned from the daily engagement on COS.TV, rewards, and airdrops. Once the balance reaches to certain amount, it can be transfered to Mainnet wallet or BEP2 wallet.",
+        "toMain": "Mainnet Wallet (Recommend)",
+        "toAccount": "Authorize to Mainnet address (Recommend)",
+        "goAccount": "Authorize",
+        "banner1": "Due to our recent transfer to BEP2，you can also go to BEP2 address to withdraw your asset",
+        "banner2": "Please visit Binance.org or use Trust Wallet to create an address",
+        "education": "View tutorial"
+    }
+}

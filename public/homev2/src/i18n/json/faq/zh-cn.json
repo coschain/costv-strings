@@ -1,0 +1,16 @@
+{
+  "enter":"帮助中心",
+  "title":"常见问题汇总",
+  "title_tip":"任何解决不了的问题，都可以通过邮箱:<br /><a href='mailto:service@contentos.io'>service@contentos.io</a><br /> 联系我们或者加入社区，寻求帮助",
+  "category1":"常见问题",
+  "category2":"账号问题",
+  "category3":"提币问题",
+  "category4":"安全问题",
+  "feedback_title":"本文是否对你有帮助？",
+  "yes":"是",
+  "no":"否",
+  "no_title":"非常感谢您向我们提供反馈意见。",
+  "submit":"提交",
+  "thanks2":"感谢您的反馈。",
+  "wrong_tip":"请输入有效内容"
+}

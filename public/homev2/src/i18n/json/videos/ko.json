@@ -1,0 +1,298 @@
+{
+  "play": {
+    "focus": "팔로우하기",
+    "focused": "팔로우 중",
+    "focus_num": "명의 팔로워",
+    "forbid_follow": "본인을 팔로우할 수는 없습니다",
+    "go_play": "플레이하기",
+    "recommend": "관련 추천영상",
+    "shareTo": "공유하기:",
+    "shareHref": "영상 공유링크:",
+    "shareCopy": "복사",
+    "popTask": "영상 시청하면 POP을 보상으로 받을 수 있습니다",
+    "popbanner1": "영상시청하고 POP 받기",
+    "popbanner2": "원본 및 인기영상일 경우 2배의 획득속도",
+    "share": "공유",
+    "inform": "리포트",
+    "copySuccess": "복사성공",
+    "shareLink": "링크공유",
+    "cancel": "취소",
+    "continue": "계속",
+    "informVideo": "영상 리포트",
+    "time": "선택한 타임스탬프",
+    "placeholder": "상세한 정보를 제공해주세요",
+    "timeTips": "선택하신 타임스탬프가 영상 길이를 초과하므로 다시 입력하여 주세요",
+    "tips1": "COS.TV 스태프들은 매주 24시간 심의에 걸린 영상이 있는지 검토하고 커뮤니티 지침에 위반하는지 여부를 결정합니다. 커뮤니티 지침을 위반한 계정은 처벌을 받을 것이며, 경우에 따라 계정이 정지될 수 있습니다.",
+    "tips2": "커뮤니티 지침에 위반하는 콘텐츠가 발견될 경우 바로 삭제됩니다。",
+    "thanksToShare": "리포트 해주셔서 감사합니다",
+    "problem": "문제",
+    "close": "닫기",
+    "btnMore": "더 보기",
+    "typeList": [
+      {
+        "text": "포르노 콘텐츠"
+      },
+      {
+        "text": "폭력적이거나 반감적인 콘텐츠"
+      },
+      {
+        "text": "디스나 모욕적인 콘텐츠"
+      },
+      {
+        "text": "유해하거나 위험한 행동"
+      },
+      {
+        "text": "아동학대"
+      },
+      {
+        "text": "테러리즘"
+      },
+      {
+        "text": "스팸 또는 잘못된 콘텐츠"
+      },
+      {
+        "text": "권리침해"
+      },
+      {
+        "text": "자막문제"
+      },
+      {
+        "text": "기타문제"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "콘텐츠 소개",
+    "playCount": "{0} 번 플레이",
+    "loginTips": "등록하고 POP 얻기",
+    "popGuideDesc01": "영상시청하면 POP포인트를 받을 수 있습니다!",
+    "popGuideDesc02": "인기영상은 포인트 획득속도가 2배입니다!",
+    "popGuideBtn": "시작",
+    "popRewardFinished": "완성",
+    "popDescTitle": "규칙 설명:",
+    "popDesc01": "1.유저등록 후 라이브나 일반 영상을 시청하면 매분마다 POP을 보상으로 받을 수 있습니다",
+    "popDesc02": "2.매일 최대 {0}만큼 POP 획득이 가능하며 인기영상일 경우 포인트 획득속도가 2배 입니다. 당일 POP 획득상한에 도달하지 않았을 경우 다음날 축척되지 않습니다. 획득상한의 경우 매일 아침 9시(한국시간)에 재설정됩니다.",
+    "popDesc03": "3. 타임기록 이상시에는 새로고침하거나 다른 브라우저로 시도해주세요",
+    "processStatePaused": "Paused",
+    "showMore": "펼치기",
+    "showLess": "접기"
+  },
+  "playComment": {
+    "commit": "댓글 남기기",
+    "loginTip": "(등록 후 댓글남기기가 가능합니다)",
+    "wordsError": "300자 이내로 댓글작성 해주세요",
+    "inputNum": "{inputNum} / 300자",
+    "enterCommit": "댓글입력",
+    "sending": "보내는 중",
+    "send": "배포",
+    "cancel": "취소",
+    "commitNum": "{total} 댓글달기",
+    "orderHot": "인기별로 분류",
+    "orderDate": "시간별로 분류",
+    "send_s": "{num}초 전",
+    "send_m": "{num}분 전",
+    "send_h": "{num}시간 전",
+    "send_d": "{num}일 전",
+    "send_w": "{num}주 전",
+    "send_mo": "{num}달 전",
+    "send_y": "{num} 년 전",
+    "justNow": "방금 전",
+    "replay": "답장",
+    "wordsLimit": "300자 이내로 댓글작성 해주세요",
+    "more": "클릭하고 더 많은 댓글보기",
+    "slider": "닫기",
+    "no_more_commit": "댓글이 없습니다~",
+    "no_commit": "현재 남긴 댓글이 없습니다 처음 댓글을 남겨주세요~",
+    "replay_all": "모두 답장",
+    "commit_success": "댓글달기 성공",
+    "lookComments": "답글 {0}개 보기",
+    "sliderComments": "답글 {0}개 숨기기",
+    "lookComment": "답장보기",
+    "sliderComment": "답글 숨기기",
+    "deleteLayerTips": "댓글을 삭제하면 댓글 아래의 모든 응답이 삭제됩니다",
+    "deleteSuccess":"댓글 삭제 성공",
+    "commentsNumbers":"답글",
+    "commentTips": "와서 이야기! 의견을 게시하고 모든 사람에게 의견을 말 해주세요 ~",
+    "rreply": "{0} comments"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes는 플레이어가 뱀이 되어 먹는 능력으로 코인을 버는 게임입니다. 이 매력적인 킬링 게임에서 모든 먹이를 다 먹어치울 수 있는 가장 강한 뱀이 되어 보세요. 뱀을 조종하여 게임에서 승리하고 동시에 디지털 자산도 모으세요.",
+      "detail_description": "HyperSnakes는 MixMarvel 팀이 HyperDragons 이후에 만든 새로운 하이퍼 시리즈 게임입니다. 또한 블록체인에서 실시간으로 복수의 플레이어가 경쟁하는 최초의 게임이기도 합니다. 뱀이 게임플레이의 핵심인 블록체인 기술 기반의 이 게임에서 플레이어는 전 세계의 다른 플레이어들을 상대로 싸우며, 변경이 가능하고 무작위로 선택되는 전쟁터에서 코인을 획득할 수 있습니다. 플레이어는 뱀을 조종하여 경쟁자로부터 달아날 수 있을 뿐 아니라 포이즌 서클에 의해 잡아먹히는 것을 피할 수도 있습니다. 각 전투에서 한 명의 플레이어만 승리하며 승리한 플레이어는 모두가 부러워할 만한 놀라운 상을 받게 됩니다. 또한 다른 플레이어들도 값진 선물을 얻을 수 있습니다. 게임을 즐기면서 부를 축적하실 수 있습니다."
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "제1종 멀티 체인 모험 게임",
+      "detail_description": "Blockchain Cuties는 블록체인 암호를 이용하는 새로운 수장 모험 게임입니다. 이 게임에서 강아지, 도마뱀, 아기곰, 고양이 및 다른 실제 또는 판타지 동물들을 가지고 놀 수 있습니다. 모든 동물들이는 독특하며 당신 하나만 속합니다.그 들을 수집 하실 수 있을 뿐만 아니라 훈련도 시킬 수 있습니다. 전투을 통해 기능을 향상시키며 도구로 장비하고 그들이 성장시킬 수 있습니다. 게임에서 ETH나 EOS나 TRON로 동물을 거래하실 수 있습니다. 각 사랑스러운 동물들이 암호화폐처럼 판매될 수 있으며 다른 게이머에게 넘겨줄 수 있습니다."
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“크립톤(Cryptons)” 은 이더리움 네트워크 상의 사랑스럽고 수집 및 번식이 가능한 돼지들 입니다. 지금 당장 Crypt-Oink 세계의 내 귀여운 돼지를 가져보세요!",
+      "detail_description": "Crypt-Oink는 일본 최초의 이더리움 네트워크상의 블록체인 게임으로, 크립톤(Cryptons)라는 크립토 콜렉터블을 특징으로 하고 있으며, Crypt-Oink를 수집, 번식하고 거래할 수 있습니다. 3조 이상의 돼지들은 다양한 색깔과 무늬를 가지고 있습니다. 플레이어는 자신의 크립톤을 훈련시키며 각 능력을 강화시킬 수 있고, 3D 경주게임인 Gran Ton Rismo에서의 승률을 높힐 수 있습니다."
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "생중계 준비하고 있습니다. 잠시만 기다려주세요！",
+    "preparing": "생중계 준비하고 있습니다. 잠시만 기다려주세요！",
+    "error": "생중계 준비하고 있습니다. 잠시만 기다려주세요！",
+    "endedToday": "오늘의 생중계가 종료됩니다. 시청해주셔서 감사합니다!",
+    "allEnded": "이 회장의 모든 활동이 다 끝났습니다. 시청해주셔서 감사합니다!"
+  },
+  "ticket": {
+    "voteBoxInfo": "현재 <span>{persons}</span> 명의 유저가 총 <span>{tickets}</span> 개의 기프트 티켓을 보팅 하셨습니다",
+    "cosNum": "COS:{0}",
+    "ticketsNum": "기프트 티켓:{0}",
+    "ticketsNumUnify": "기프트 티켓:{0}",
+    "placeholderTicketCount": "구매수",
+    "placeholderComment": "댓글을 남기시면 기프트 훈장이 표시됩니다",
+    "likeTips": "영상에 기프트 티켓 보팅과 좋아요도 함께 눌러주세요",
+    "btnDoGiftVote": "보팅",
+    "errorTipsExceed": "잔액을 초과하였습니다",
+    "tipsHowToGetCos": "COS 획득방법",
+    "voteBoxDesc": "기프트 티켓을 구매하고 내가 좋아하는 영상에 보팅을 시작해주세요",
+    "textMoreDetail": "자세한 정보 보기",
+    "moreContentDesc01": "기프트 티켓을 보팅하여 크리에이터를 지원해주세요, 보팅 완료 후 해당 영상 페이지내 이하의 권한을 부여 받습니다!",
+    "moreContentDesc02": "①기프트 티켓 보팅 수 랭킹 및 골드 시트 경쟁 참가;",
+    "moreContentDesc03": "②댓글에 기프트 티켓 보팅의 전용 훈장을 부여;",
+    "moreContentDesc04": "③크리에이터의 진심어린 감사",
+    "moreContentDesc05": "뿐만 아니라, 크리에이터는 유저가 기프트 티켓 구입을 위해 지불한 비용 중 대부분의 수익을 얻습니다.",
+    "buyGiftVoteTitle": "기프트 티켓 구매",
+    "CosBalance": "현재 COS 잔액:",
+    "giftVoteBalance": "현재 기프트 티켓 수량:",
+    "buyText": "구매:",
+    "buyBtn": "구매",
+    "expectedCost": "구입하기",
+    "buyList": "구매기록",
+    "spendMoneySymbol": "소모 비용:",
+    "spendMoney": "소모 비용",
+    "spendCos": "{0}COS",
+    "buyAmountSymbol": "구매 수량:",
+    "buyAmount": "구매 수량:",
+    "buyTimeSymbol": "시간:",
+    "buyTime": "시간",
+    "loadMore": "더 많은 기록보기",
+    "buyGiftVote": "기프트 티켓 구매하기",
+    "giftVote": "기프트 티켓",
+    "giftVoteHeader": "기프트 티켓",
+    "giftVoteReply": "기프트 티켓 회수",
+    "confirm": "확인",
+    "replyHint": "감사 연설을 설정하면 사용자에게 동영상 선물권을 준 후 감사를 받게됩니다.추신 : 설정을 사용자 정의하지 않으면 플랫폼의 기본 감사 단어가 표시됩니다 : 지원 주셔서 감사합니다 ~",
+    "replyLimitMax": "감사문구는 {0} 자를 초과할 수 없습니다",
+    "replyLimitMin": "감사문구는 {0} 자 이상 적으셔야 합니다",
+    "setReplySuccess": "설정 완료",
+    "giftVotebuyList": "기프트 티켓 구매 기록",
+    "notSufficientFunds": "잔고가 부족합니다",
+    "buySuccess": "구매 성공",
+    "stayTunedFor": "골드 시트가 곧 추가될 예정입니다, 기대해주세요!",
+    "numberOfGiftGiving": "{0} 명이 기프트 티켓 보팅함",
+    "releaseDate": "{0} 개의 배포된 콘텐츠",
+    "exclusiveThankYouHeart": "기프트 티켓 보팅자에게 전용 기프트 훈장인 “감사하는”마음이 주어집니다",
+    "errorTipsVoteSelf": "본인 콘텐츠에 기프트 티켓을 보팅할 수 없습니다",
+    "occupyList": "기프트 티켓 차트 1위을 차지해주세요",
+    "occupyListText": "보팅 차트 1위를 차지하고 다양한 보상의 주인공이 되어주세요",
+    "participateList": "보팅 랭킹 차트 참여하기",
+    "waiting":"유저분의 참여를 학수고대 하고 있습니다",
+    "moreList": "자세히 보기",
+    "participationAndLook": "기프트 티켓 보팅 참가 및 등수 검색",
+    "rankingListLearnMoreA": "해당 영상에 기프트 티켓을 보팅한 유저분들의 차트 입니다!",
+    "rankingListLearnMoreB": "랭킹 차트는 10위까지 발표하며, 기프트 티켓 보팅 수량이 같을 경우, 보팅시간 순서에 따라 보팅자의 순위가 바뀝니다.",
+    "totalMoney": "수익 합계 {0}",
+    "totalMoneyApproximate": "약 {0} VEST",
+    "bonusSettlement": "결산 상금: {money}/약 {vest}VEST",
+    "settlementDate": "결산 시간: {0}",
+    "settlementBonus": "Reward (settled): {0}",
+    "afterSettlement": "{0} 후 결산",
+    "giftMoney": "기프트 티켓 수입:{money}/약 {vest}VEST",
+    "btnSubscribe": "구독하기",
+    "btnSubscribed": "구독중",
+    "giftReceivedSum": "기프트 티켓 수입 기록: {0}",
+    "giftEmptyTips1": "최근 7일간 수입 기록이 없습니다",
+    "giftEmptyTips2": "선택한 날짜에 수입 기록이 없습니다",
+    "tipsSelectDate": "날짜 선택:",
+    "btnReset": "재설정",
+    "paginationTotal": "총 {total} 건의 기록",
+    "videoRewardsLeader": "Video rewards leader",
+    "giftReceivedThUser": "기프트 티켓 보팅 유저",
+    "giftReceivedThAmount": "기프트 티켓 보팅 수량",
+    "giftReceivedThTime": "시간",
+    "giftReceivedThVideo": "동영상",
+    "alreadySettled": "결산 완료",
+    "remainingSettlementPeriod": "결산까지 앞으로 ：{0}",
+    "rankList": "리더보드"
+  },
+  "sevenDays": "최근 7일",
+  "allDays": "총 수량",
+  "autoplay": {
+    "nextVideo":"크리에이터의 다음 동영상이 곧 재생됩니다",
+    "recommend":"추천 동영상",
+    "replay":"반복재생",
+    "nextPlay":"다음 재생",
+    "willPlay":"곧 재생됩니다:",
+    "immediatelyPlay":"즉시 재생하기",
+    "cancel":"취소",
+    "autoplay":"자동재생",
+    "moreTips":"자동재생을 사용하실 경우, 시스템이 자동적으로 다음 추천영상을 재생합니다"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "광고성 또는 스팸 콘텐츠"
+      },
+      {
+        "text": "포르노 컨텐츠"
+      },
+      {
+        "text": "아동학대"
+      },
+      {
+        "text": "폭력 또는 유해한 콘텐츠"
+      },
+      {
+        "text": "성추행 또는 괴롭힘"
+      }
+    ],
+    "delete": "삭제",
+    "creator": "제작자",
+    "delCommit": "댓글 삭제",
+    "placeholder": "댓글 남기기",
+    "author": "영상 제작자만 댓글을 삭제할 수 있습니다",
+    "delTips": "댓글 삭제 성공, 웹페이지를 새로고침 해주세요"
+  },
+  "emojiCustom": {
+    "unlock": "Unlock ",
+    "getEmoji": "Unlock stickers",
+    "getAllEmoji": "Unlock all stickers",
+    "howGet": "How to unlock all stickers in \"Epamoji\"",
+    "getEmojiTips": "Send 100 Gifting Votes or more in total to Voepa, to unlock all stickers in \"Epamoji\""
+  }
+}

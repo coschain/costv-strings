@@ -1,0 +1,20 @@
+{
+  "btnEdit": "編集",
+  "textFollow": "フォロー",
+  "textFans": "フォロワー",
+  "tabMyCreation": "自分の動画",
+  "tabCreation": "作品",
+  "tabMyDynamic": "自分の投稿",
+  "tabDynamic": "いいね記録",
+  "tipsNoVideo": "まだ動画をアップロードしていません",
+  "tipsNoVideo2": "アップロードした動画はありません",
+  "tipsNoDynamic": "お気に入りの動画はまだありません。好きな動画にいいね！してください",
+  "tipsNoDynamic2": "動画にいいねを押したことがありません",
+  "titleFollow": "フォロー",
+  "titleFans": "フォロワー",
+  "btnUnfollow": "フォロー解除",
+  "btnRemoveFans": "削除",
+  "tipsNoFollow": "まだ誰にも注意を払っていない",
+  "tipsNoFans": "誰もまだ気づいていない",
+  "btnPersonal": "プロフィール"
+}

@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "餘額",
+        "transfer": "轉帳",
+        "widthdraw": "提幣",
+        "myBill": "我的帳單"
+    },
+    "home": {
+        "myWalletAddress": "我的錢包地址"
+    },
+    "transfer": {
+        "usableBalance": "可用餘額",
+        "freeze": "凍結額度",
+        "receivePersonId": "接收人Contentos UID",
+        "transferNumber": "轉帳數量",
+        "confirmeTransfer": "確認轉帳",
+        "confirmeTipsDescription": "轉帳須知",
+        "transferTips1": "1.確認轉帳後，COS會實時到帳。由於確認轉帳後轉帳操作不可取消，在確認轉帳前，請確認UID是否正",
+        "transferTips2": "2.轉帳數量不可超過你的可用餘額（可用餘額 = 餘額 - 凍結額度）",
+        "transferTips3": "3.轉帳僅支持轉至Contentos帳號中，轉帳過程無需支付佣金",
+        "transferTo": "轉帳給",
+        "transferMoney": "轉帳金額",
+        "makeSureTransferMoney": "請確認轉帳金額，如金額無誤，請輸入驗證碼。",
+        "sendCodeTo": "驗證碼已發送至",
+        "returnModify": "返回修改",
+        "codeSend": "發送",
+        "againSend": "重新發送",
+        "inputAddressEmpty": "UID不能為空，請重新輸入",
+        "inputAddressError": "請輸入正確的UID",
+        "inputAddressSame":"不能轉帳給自己，請重新輸入UID",
+        "inputAmountEmpty": "請輸入轉帳金額",
+        "inputAmountError": "請輸入正確的轉帳金額，轉帳金額僅為數字",
+        "inputAmountLarge": "可用餘額不足，請重新確認轉帳金額",
+        "transferSubmit5000": "請先進行KYC認證",
+        "transferSubmit5029": "請勿頻繁提交申請",
+        "transferSubmit5039": "可用餘額不足，請重新確認轉帳金額",
+        "transferSubmit5045": "驗證碼錯誤，請重新確認驗證碼",
+        "transferSubmit5046": "已超過最大轉帳次數",
+        "transferSubmit5047": "已超過最大轉帳數量",
+        "transferSubmit5051": "轉帳金額不可小於1COS，請重新確認",
+        "transferSubmit5052": "UID不存在，請重新確認",
+        "transferSubmitWaringError": "轉帳失敗，請稍後重試",
+        "kycTipsForClient": "轉賬需要進行KYC，您可以使用瀏覽器訪問 COS.TV 進入賬戶，進行KYC，KYC後即可轉賬"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "提幣地址",
+        "widthdrawNumber": "提幣數量",
+        "sureWidthdraw": "確認提幣",
+        "widthdrawKnow": "提幣須知",
+        "widthdrawAddressError": "提幣地址錯誤，請重新輸入",
+        "widthdrawTips1": "1.您一週只能提取一次，第二次提取需在第一次提取7日後發起",
+        "widthdrawTips2": "2.提現數量不可超過你的可用餘額（可用餘額 = 餘額 - 凍結額度）",
+        "widthdrawTips3": "3.每次提取需要支付少量手續費",
+        "widthdrawTipsUsdt3": "3.目前可使用餘額需 > {num} USDT，才可以提現，每次提取需支付{fee} USDT手續費",
+        "widthdrawTips4": "4.提現發起後，將會在48小時內審核完畢（節假日稍有延長），具體到帳時間視網絡情況而不同。在此期間，該筆額度將會變為凍結狀態",
+        "widthdrawTo": "提幣至",
+        "widthdrawMoney": "提幣金額",
+        "makeSureWidthdrawMonty": "請確認提幣金額，如提幣金額無誤，請輸入驗證碼。",
+        "dropDownAddressEmpty": "提幣地址為空，請重新確認",
+        "dropDownAmountEmpty": "提幣地址為空，請重新確認",
+        "dropDownDeduct": "扣除",
+        "dropDownPoundage": "手續費",
+        "dropDownToTheAccount": "到帳",
+        "addressNull": "請添加錢包地址後再發起提幣",
+        "toAddAddress": "去添加",
+        "addressPlaceholder": "請輸入幣安鏈地址",
+        "addressPlaceholderUsdt": "暫時僅支持可接受 ERC-20 USDT 規格的地址",
+        "notePlaceholder": "如果地址為交易所地址，請務必填寫您的備註，如果没有請選擇「不需要備註」",
+        "noteMemoText": "本次提幣不需要備註",
+        "note": "備註",
+        "noteMobilePlaceholder": "如果提幣地址為交易所地址，請務必填寫；",
+        "kycTipsForClient": "提幣需要進行KYC，您可以使用瀏覽器訪問 COS.TV 進入賬戶，進行KYC，KYC後即可提幣"
+    },
+    "address": {
+       "wallateAddress": "錢包地址",
+       "addressNote": "地址備註",
+       "add": "添加",
+       "addedCOSAddress": "已添加COS地址",
+       "addTime": "添加時間",
+       "addressDelete": "删除",
+       "addressNulled": "您還沒有添加錢包地址",
+       "MAddedAddressNote": "已添加地址/備註",
+       "MNoteName": "備註名稱",
+       "MSave": "保存",
+       "MDeleteAddress": "你將刪除這個錢包地址",
+       "MMonmentNo": "暫時不",
+       "MMakeSure": "確定",
+       "addressNull": "請輸入錢包地址",
+       "addressWrongETHAndCOS":"錢包地址應為42個字符長度，並且需要0x結尾。請重新確認輸入的錢包地址",
+       "addressWrongBTC":"錢包地址應為26 - 34個字符長度。請重新確認輸入的錢包地址",
+       "labelNull":"請輸入備註，備註不能為空",
+       "bannerintroduce": "讓您的COS與其它數字資產更安全，Contentos建議使用TrustWallet.",
+       "overReason1": "地址為什麼失效？",
+       "overReason2": "我們目前僅支持幣安鏈的地址，所以ETH地址會失效。",
+       "overReason3": "請刪除失效地址，並添加幣安鏈地址",
+       "bnbRegTips": "請填寫正確的Binance Chain地址",
+       "overAddress": "失效地址"
+    },
+    "bill": {
+        "transactionType": "交易類型",
+        "all": "全部",
+        "income": "收入",
+        "spending": "支出",
+        "transactionTime": "交易時間",
+        "coinType": "幣種",
+        "transactionMoney": "交易金額",
+        "transactionTitle": "交易名稱",
+        "billStatus": "狀態",
+        "billSuccess": "成功",
+        "processing": "進行中",
+        "startPage": "首頁",
+        "endPage": "尾頁",
+        "previousPage": "上一頁",
+        "nextPage": "下一頁",
+        "billNull": "您還沒有交易記錄",
+        "mCoinType": "幣類型",
+        "clearTime": "清空時間",
+        "billOver": "已經到底啦"
+    },
+    "kyc": {
+        "propertyKycTitle":"請先進行KYC認證，通過後才可以進行交易",
+        "kycCertification": "去KYC",
+        "returnPreperty": "返回錢包",
+        "whatIsKyc": "什麼是KYC？",
+        "KeepMyInformationSecure": "如何保證我的信息安全？",
+        "kycIntroduceInfo": "KYC是Know Your Customers的縮寫，是我們了解以及確認用戶真實身份的過程。也是目前區塊鏈行業內甚至金融業、銀行業的普遍做法。在 KYC之後，便於我們更加有效的保護用戶的資金安全，以及提供更加便捷的產品服務。",
+        "InformationSecureInfo1": "我們對於用戶提交的KYC信息，將會由獨立的第三方進行審核。我們的第三方合作夥伴提供的保密措施符合各國信息保密條例​​，甚至符合歐盟通用數據保密條例(GDRP)。並且擁有銀行級別的數據保密體系。",
+        "InformationSecureInfo2": "在Contentos內部，我們嚴格規範可以接觸或者可能接觸用戶信息的夥伴。夥伴在CMS或者其它可接觸用戶信息的場景，我們均對其設有操作記錄。並且用戶數據儲存在我們安全級別極高的服務器中，用於保障用戶數據不會因為系統損壞而外洩。"
+    },
+    "transferSuccess": {
+        "congratulations": "恭喜，轉帳成功！",
+        "successTips1": "1.轉帳會實時到達對方帳號，如網絡擁堵，到帳時間會稍有延遲",
+        "successTips2": "2.如對方未即時到帳，請聯繫service@contentos.io",
+        "lookMyBill": "查看我的帳單",
+        "returnHome": "去首頁看看"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "恭喜，申請成功！",
+        "widthdrawSuccessTips1": "1.提幣審核會在24小時內完成，並會在48小時內到帳（法定節假日會順延）",
+        "widthdrawSuccessTips2": "2.如長時間內未到帳，請聯繫service@contentos.io"
+    },
+    "nft": {
+        "nftTitle": "我的非同質化代幣",
+        "nftToView": "查看",
+        "nftCheck1": "全部",
+        "nftCheck2": "待提取",
+        "nftCheck3": "提取中",
+        "nftCheck4": "已提取",
+        "noNft": "目前暫無 NFT 資產",
+        "noAssets": "目前暫無該狀態資產",
+        "typeList": [
+            {
+              "text": "全部"
+            },
+            {
+              "text": "待提取"
+            },
+            {
+              "text": "提取中"
+            },
+            {
+              "text": "已提取"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "主網錢包",
+        "user": "COS.TV帳戶",
+        "insText": "COS.TV帳戶用於管理您在COS.TV網站上的中心化資產，這部分資產主要來自於網站的日常任務獎勵或是活動空投，並在達到一定額度後可以提取到主網錢包或BEP2鏈上錢包中",
+        "toMain": "主網錢包（推薦）",
+        "toAccount": "授權主網錢包地址（推薦）",
+        "goAccount": "去授權",
+        "banner1": "COS已上幣安鏈，您也可以提幣至幣安鏈錢包",
+        "banner2": "請訪問Binance官網或使用Trust Wallet創立錢包地址",
+        "education": "查看教學步驟"
+    }
+}

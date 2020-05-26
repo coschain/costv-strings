@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "잔액",
+        "transfer": "이체",
+        "widthdraw": "인출",
+        "myBill": "내 장부"
+    },
+    "home": {
+        "myWalletAddress": "내 지갑 주소"
+    },
+    "transfer": {
+        "usableBalance": "가용 잔액",
+        "freeze": "동결 금액",
+        "receivePersonId": "받는 사람의 콘텐토스 UID",
+        "transferNumber": "이체 수량",
+        "confirmeTransfer": "이체 확인",
+        "confirmeTipsDescription": "이체 주의사항",
+        "transferTips1": "1. 이체 확인 후 COS가 실시간으로 이체됩니다. 이체가 확인된 후에는 취소할 수 없으며, 이체 확인 전 UID를 정확히 체크하십시오.",
+        "transferTips2": "2. 이체 수량은 가용 잔액을 초과할 수 없습니다. (가용 잔액 = 잔액 - 동결 금액)",
+        "transferTips3": "3. 이체는 콘텐토스 계정으로만 가능하며, 이체 과정에는 수수료가 발생하지 않습니다.",
+        "transferTo": "이체 대상:",
+        "transferMoney": "이체 금액",
+        "makeSureTransferMoney": "이체 금액을 확인하십시오. 금액이 정확할 경우, 인증코드를 입력하십시오.",
+        "sendCodeTo": "인증코드 발송:",
+        "returnModify": "수정하기",
+        "codeSend": "발송",
+        "againSend": "재발송",
+        "inputAddressEmpty": "UID를 입력하십시오.",
+        "inputAddressError": "정확한 UID를 입력하십시오.",
+        "inputAddressSame": "자신에게 이체할 수 없습니다. UID를 다시 입력하십시오.",
+        "inputAmountEmpty": "이체 금액을 입력하십시오.",
+        "inputAmountError": "정확한 이체 금액을 입력하십시오. 이체 금액은 숫자만 입력해야 합니다.",
+        "inputAmountLarge": "가용 잔액이 부족합니다. 이체 금액을 확인하십시오.",
+        "transferSubmit5000": "먼저 KYC 인증을 진행하십시오.",
+        "transferSubmit5029": "너무 자주 신청할 수 없습니다.",
+        "transferSubmit5039": "가용 잔액이 부족합니다. 이체 금액을 확인하십시오.",
+        "transferSubmit5045": "인증코드 오류, 인증코드를 다시 입력하십시오.",
+        "transferSubmit5046": "최대 이체 횟수를 초과했습니다.",
+        "transferSubmit5047": "최대 이체 수량을 초과했습니다.",
+        "transferSubmit5051": "이체 금액은 1COS보다 적을 수 없습니다. 다시 확인하십시오.",
+        "transferSubmit5052": "UID가 존재하지 않습니다. 다시 확인하십시오.",
+        "transferSubmitWaringError": "이체 실패, 잠시 후 다시 시도하십시오.",
+        "kycTipsForClient": "양도에는 KYC가 필요하며 브라우저를 사용하여 COS.TV에 액세스하여 계정을 입력하고 KYC를 수행하며 KYC는 양도 할 수 있습니다"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "인출 주소",
+        "widthdrawNumber": "인출 수량",
+        "sureWidthdraw": "인출 확인",
+        "widthdrawKnow": "인출 주의사항",
+        "widthdrawAddressError": "인출 주소 오류, 다시 입력하십시오.",
+        "widthdrawTips1": "1. 매주 1회만 인출할 수 있으며, 다음 인출은 첫 인출로부터 7일 후 가능합니다.",
+        "widthdrawTips2": "2. 인출 수량은 가용 잔액을 초과할 수 없습니다. (가용 잔액 = 잔액 - 동결 금액)",
+        "widthdrawTips3": "3. 매회 인출 시 수수료가 발생합니다.",
+        "widthdrawTipsUsdt3": "3. Only if the balance is> {num} USDT, can you withdraw.  You need to pay {fee} USDT transaction fee for each withdrawal",
+        "widthdrawTips4": "4. 인출 신청 후 48시간 내에 심사가 완료되며(공휴일에는 다소 지연될 수 있음), 구체적인 완료 시간은 네트워크 상황에 따라 차이가 있습니다. 기간 동안 해당 금액은 동결 상태로 전환됩니다.",
+        "widthdrawTo": "인출 대상:",
+        "widthdrawMoney": "인출 금액",
+        "makeSureWidthdrawMonty": "인출 금액을 확인하십시오. 금액이 정확할 경우, 인증코드를 입력하십시오.",
+        "dropDownAddressEmpty": "인출 주소가 비어 있습니다. 다시 입력하십시오.",
+        "dropDownAmountEmpty": "인출 수량이 비어 있습니다. 다시 입력하십시오.",
+        "dropDownDeduct": "차감",
+        "dropDownPoundage": "수수료",
+        "dropDownToTheAccount": "이체",
+        "addressNull": "지갑 주소를 추가한 후 다시 인출을 신청하십시오.",
+        "toAddAddress": "추가하기",
+        "addressPlaceholder": "바이낸스체인 주소를 입력해주세요.",
+        "addressPlaceholderUsdt": "Only support the addresses that can receive ERC-20 USDT ",
+        "notePlaceholder": "이 주소가 거래소 주소라면 메모를 꼭 입력해주십시오. 메모가 없으면 '메모가 필요 없습니다'를 선택하십시요.",
+        "noteMemoText": "이번 지급되는 토큰은 메모를 필요로 하지 않습니다",
+        "note": "메모",
+        "noteMobilePlaceholder": "인출 주소가 거래소 주소라면 반드시 입력해주세요.",
+        "kycTipsForClient": "인출에는 KYC가 필요합니다. 브라우저를 사용하여 COS.TV에 액세스하여 계정을 입력하고 KYC를 수행 할 수 있습니다. KYC 후 돈을 인출 할 수 있습니다"
+    },
+    "address": {
+        "wallateAddress": "지갑 주소",
+        "addressNote": "주소 설명",
+        "add": "추가",
+        "addedCOSAddress": "COS 주소 추가 완료",
+        "addTime": "추가 시간",
+        "addressDelete": "삭제",
+        "addressNulled": "아직 지갑 주소를 추가하지 않았습니다.",
+        "MAddedAddressNote": "주소/설명 추가 완료",
+        "MNoteName": "설명 이름",
+        "MSave": "저장",
+        "MDeleteAddress": "해당 지갑 주소를 삭제합니다.",
+        "MMonmentNo": "아니요",
+        "MMakeSure": "확인",
+        "addressNull": "지갑 주소를 입력해주세요",
+        "addressWrongETHAndCOS":"지갑 주소는 42 자이고 0x 끝이 필요합니다. 다시 확인해주세요",
+        "addressWrongBTC":"지갑 주소는 26-34 자이고 0x 끝이 필요합니다. 다시 확인해주세요",
+        "labelNull":"메모를 입력하세요. 메모는 비워 둘 수 없습니다",
+        "bannerintroduce": "당신의 COS와 다른 디지털 재산을 보장하기 위해 콘텐토스는 TrustWallet를 추천합니다.",
+        "overReason1": "주소가 실효된 이유는 무엇인가요?",
+        "overReason2": "현재 바이낸스체인 주소만 가능하니 ETH주소는 자동 실효됩니다.",
+        "overReason3": "실효 주소를 삭제하시고 바이낸스체인 주소를 입력해주세요.",
+        "bnbRegTips": "올바른 바이낸스체인 주소를 입력해주세요.",
+        "overAddress": "실효 주소입니다."
+    },
+    "bill": {
+        "transactionType": "거래 유형",
+        "all": "전체",
+        "income": "수입",
+        "spending": "지출",
+        "transactionTime": "거래 시간",
+        "coinType": "코인 유형",
+        "transactionMoney": "거래 금액",
+        "transactionTitle": "거래 이름",
+        "billStatus": "상태",
+        "billSuccess": "성공",
+        "processing": "진행 중",
+        "startPage": "첫 페이지",
+        "endPage": "끝 페이지",
+        "previousPage": "이전",
+        "nextPage": "다음",
+        "billNull": "거래 기록이 없습니다.",
+        "mCoinType": "코인 유형",
+        "clearTime": "삭제 시간",
+        "billOver": "모든 내용이 다 보였습니다"
+    },
+    "kyc": {
+        "propertyKycTitle": "먼저 KYC 인증을 진행하십시오. 인증 후 거래를 진행할 수 있습니다.",
+        "kycCertification": "KYC 인증",
+        "returnPreperty": "지갑으로",
+        "whatIsKyc": "KYC는 무엇인가요?",
+        "KeepMyInformationSecure": "제 정보의 안전을 어떻게 보장하나요?",
+        "kycIntroduceInfo": "KYC는 Know Your Customers의 약자이며, 사용자의 실제 정보를 확인하는 과정으로, 블록체인 업계 및 금융, 은행 분야에서 보편적으로 사용되는 수단입니다. KYC 인증 시 사용자의 자금 안전을 더욱 효과적으로 보호할 수 있으며, 더욱 신속한 제품 서비스 제공이 가능합니다.",
+        "InformationSecureInfo1": "사용자가 제출한 KYC 정보는 독립적인 제3의 기관을 통해 심사를 진행합니다. 해당 협력 기관이 제공하는 보안 조치는 각국의 정보 보호 조항 및 유럽연합의 개인정보보호규정(GDPR)에 부합하며, 은행 수준의 데이터 보안 체계를 갖추고 있습니다.",
+        "InformationSecureInfo2": "콘텐토스 내부에서는 사용자 정보에 접근하거나 접근할 수 있는 협력사를 엄격하게 규정합니다. 협력사가 CMS 또는 사용자 정보에 접근할 수 있는 기타 배경은 모두 콘텐토스에서 기록을 보유합니다. 또한, 사용자 데이터는 콘텐토스 내 높은 안전 레벨의 서버에 보관되며, 사용자 데이터가 시스템 손상으로 인해 유출되지 않도록 보호합니다."
+    },
+    "transferSuccess": {
+        "congratulations": "이체에 성공했습니다.",
+        "successTips1": "1. 이체 시 실시간으로 상대방의 계정에 이체되며, 네트워크가 원활하지 않을 경우 이체 시간이 다소 지연될 수 있습니다.",
+        "successTips2": "2. 상대방이 이체를 받지 못한 경우, service@contentos.io로 연락하십시오.",
+        "lookMyBill": "내 장부 보기",
+        "returnHome": "첫 페이지로"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "신청에 성공했습니다.",
+        "widthdrawSuccessTips1": "1. 인출 심사는 24시간 내에 완료되며, 48시간 내에 이체됩니다. (법정공휴일 시 연장)",
+        "widthdrawSuccessTips2": "2. 오랜 시간 이체를 받지 못한 경우, service@contentos.io로 연락하십시오."
+    },
+    "nft": {
+        "nftTitle": "내 ERC721",
+        "nftToView": "조회",
+        "nftCheck1": "모두",
+        "nftCheck2": "인출대기",
+        "nftCheck3": "인출 중",
+        "nftCheck4": "인출완료",
+        "noNft": "현재 NFT 자산이 없습니다",
+        "noAssets": "해당하는 자산이 없습니다",
+        "typeList": [
+            {
+              "text": "모두"
+            },
+            {
+              "text": "인출대기"
+            },
+            {
+              "text": "인출 중"
+            },
+            {
+              "text": "인출완료"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "메인넷 지갑",
+        "user": "COS.TV 계정",
+        "insText": "COS.TV 계정은 귀하의 중앙화 지갑의 자산을 관리하는데 사용되며, 주로 COS.TV 일일 임무나 에어드랍 이벤트로 자산획득이 가능합니다. 일정 한도의 COS를 보유하면 메인넷 지갑 혹은 BEP2 체인상 지갑으로 인출이 가능합니다",
+        "toMain": "메인넷 지갑 (추천)",
+        "toAccount": "메인넷 주소로 권한 부여받기 (추천)",
+        "goAccount": "권한 부여받기",
+        "banner1": "COS는 바이낸스 체인상으로 이전했으므로 BEP2 지갑으로 자산을 인출할 수 있습니다",
+        "banner2": "Binance.org를 방문하거나 Trust Wallet을 사용하여 지갑 주소를 만들어 주세요",
+        "education": "튜토리얼 보기"
+    }
+}

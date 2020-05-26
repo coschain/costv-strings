@@ -1,0 +1,103 @@
+{
+  "blockTitleCardLIst": "COS.TV'de gezin",
+  "btnEnterLivePage": "Yayına gir",
+  "btnCheckBannerDetail": "Daha fazla öğren",
+  "announcement": {
+    "banner_a": "Her gün define sandığı aç,  ",
+    "banner_b": "<span class='strong'>BTC</span> and <span class='strong'>COS</span> kazan!",
+    "banner_c":"POP define avına katıl. ",
+    "banner_d":"Slot makinesiyle oyna ve <span class='strong'>COS</span> kazan！",
+    "banner_e":"Slot makinesinde oyna",
+    "banner_f":"ve <span class='strong'>COS</span> kazan！",
+    "banner_g1":"Sınırlı sayıda POP avı.",
+    "banner_g2":"<span class='strong white'>COS'un, Crypt-Oink'te Crypton tasarımı!</span>",
+    "banner_g_":"<span class='strong white'> Sınırlı sayıda üretilen COS'un Crypto-Oink üzerinden tasarladığı Crypton tasarımı için POP avı!</span>",
+    "questionnaire": "Artık kullanıcı geribildirimlerini topluyoruz! Anketi doldur ve 50COS kazan!",
+    "questionnaire_mobile": "Artık geri bildirimlerinizi topluyoruz!<br />Anketi doldur ve 50COS kazan!",
+    "nps": "<span class='blod'>Take our survey, </span>and 500 participants will win five Gifting Votes",
+    "nps_m": "<span class='blod'>Take our survey</span><br>and 500 participants will win five Gifting Votes"
+  },
+  "sign":{
+    "a":"Her gün giriş yap,",
+    "b":"ETH ve POP kazan"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "COS kazan"
+    },
+    {
+      "text": "Blockchain Kaşifi"
+    },
+    {
+      "text": " <span class='o-f'>C</span>ontent<span class='o-f up'>os</span> nedir?"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "Git",
+  "category0":"Popüler bağımsız uygulamalar",
+  "category5": "Orijinal içerikler",
+  "category1":"Popüler içerikler",
+  "category2":"Oyun",
+  "category3":"Eski",
+  "category4":"Yetenek",
+  "category7":"Blockchain'de seçtiklerimiz",
+  "category8":"Görüntüleme geçmişim",
+  "category9":"Aboneliklerim",
+  "category10":"Önerilen videolar",
+  "category11":"Eğlence",
+  "category12":"Tatlı evcil hayvanlar",
+  "category13":"Müzik",
+  "category14":"LiveMe'de Öne Çıkanlar",
+  "categorySp":"Önerilen videolar",
+  "categorySp2":"Tatlı evcil hayvanlar",
+  "more":"Daha fazla",
+  "operation":"Daha fazla öğren",
+  "tagAll":"Hepsi",
+  "textComing": "Yakında",
+  "history": {
+    "today": "bugün",
+    "sevenDay": "Neredeyse yedi gün",
+    "oneMonth": "Neredeyse otuz gün",
+    "oneYear": "Neredeyse bir yıl",
+    "longer": "daha uzun",
+    "removeAll": "Hepsini temizle",
+    "novicePromptDeletion": "Videoyu silmek için alanı sola kaydır.",
+    "noSubscribe": "Henüz hiçbir üretici ilgini çekmemiş. Daha sonra tekrar gel.",
+    "nullSubList": "İlgini çeken üreticiler henüz bir çalışma paylaşmamış.",
+    "nullHistory": "Henüz hiçbir video izlememişsin, izleyip tekrar gel.",
+    "deleteHistoryAll": "Tüm geçmişi silmek istiyor musun?",
+    "yes": "Evet",
+    "no": "Hayır"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notification Center",
+    "noMoreNotice": "No more notice.",
+    "comment": "Comment",
+    "aboutComment": "The comments about the video \"{0}\"",
+    "commentNull": "The comment is deleted"
+  }
+}

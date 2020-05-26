@@ -1,0 +1,20 @@
+{
+  "btnEdit": "Edit",
+  "textFollow": "Follow",
+  "textFans": "Follower",
+  "tabMyCreation": "My Videos",
+  "tabCreation": "Feed",
+  "tabMyDynamic": "My Posts",
+  "tabDynamic": "Likes",
+  "tipsNoVideo": "You haven't uploaded any videos yet",
+  "tipsNoVideo2": "No videos uploaded yet",
+  "tipsNoDynamic": "You haven't liked any videos yet, go give likes to your favorite videos",
+  "tipsNoDynamic2": "Haven't liked any videos yet",
+  "titleFollow": "Follow",
+  "titleFans": "Follower",
+  "btnUnfollow": "Unfollow",
+  "btnRemoveFans": "Remove",
+  "tipsNoFollow": "Haven't followed anyone yet",
+  "tipsNoFans": "No one has followed yet",
+  "btnPersonal": "Profile"
+}

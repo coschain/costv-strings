@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "残高",
+        "transfer": "振替",
+        "widthdraw": "出金",
+        "myBill": "マイ決済"
+    },
+    "home": {
+        "myWalletAddress": "マイウォレットアドレス"
+    },
+    "transfer": {
+        "usableBalance": "利用可能残高",
+        "freeze": "凍結額",
+        "receivePersonId": "受取人Contentos UID",
+        "transferNumber": "振替金額",
+        "confirmeTransfer": "振替の確認",
+        "confirmeTipsDescription": "振替の注意事項",
+        "transferTips1": "1.振替確認後、COSはリアルタイムで着金します。振替確認後に振替操作を取り消すことはできないので、振替確認前にUIDが正しいかどうか確認してください",
+        "transferTips2": "2.振替金額が利用可能残高（利用可能残高 = 残高 - 凍結額）を超えてはいけません",
+        "transferTips3": "3.Contentosアカウントへの振替のみサポートしており、振替手数料は必要ありません",
+        "transferTo": "振替先",
+        "transferMoney": "振替金額",
+        "makeSureTransferMoney": "振替金額を確認し、金額に誤りがなければ、検証コードを入力してください。",
+        "sendCodeTo": "検証コードは以下に送信されました",
+        "returnModify": "修正に戻る",
+        "codeSend": "送信",
+        "againSend": "再送信",
+        "inputAddressEmpty": "UIDを空白にしてはいけません。もう一度入力してください",
+        "inputAddressError": "正確なUIDを入力してください",
+        "inputAddressSame": "自分の口座に振替をすることはできません。UIDをもう一度入力してください",
+        "inputAmountEmpty": "振替金額を入力してください",
+        "inputAmountError": "正確な振替金額を数字のみで入力してください",
+        "inputAmountLarge": "利用可能残高が不足しています。振替金額をもう一度確認してください",
+        "transferSubmit5000": "まずKYC認証を行ってください",
+        "transferSubmit5029": "頻繁に申請を送信しないでください",
+        "transferSubmit5039": "利用可能残高が不足しています。振替金額をもう一度確認してください",
+        "transferSubmit5045": "検証コードがエラーです。検証コードをもう一度確認してください",
+        "transferSubmit5046": "最大振替回数を超えています",
+        "transferSubmit5047": "最大振替金額を超えています",
+        "transferSubmit5051": "振替金額は1COS以上となります。もう一度確認してください",
+        "transferSubmit5052": "UIDが存在しません。もう一度確認してください",
+        "transferSubmitWaringError": "振替できませんでした。しばらくしてからもう一度やり直してください",
+        "kycTipsForClient": "The transfer requires KYC, you can use your browser to access COS.TV to enter the account, perform KYC, and KYC can transfer"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "出金先アドレス",
+        "widthdrawNumber": "出金金額",
+        "sureWidthdraw": "出金の確認",
+        "widthdrawKnow": "出金の注意事項",
+        "widthdrawAddressError": "出金先アドレスがエラーです。もう一度入力してください",
+        "widthdrawTips1": "1.１週間に１度しか出金することができません。次に出金できるのは７日目以降となります",
+        "widthdrawTips2": "2.出金額が利用可能残高を超えてはいけません（利用可能残高＝残高ｰ凍結額）",
+        "widthdrawTips3": "3.毎回出金時には少額の手数料がかかります",
+        "widthdrawTipsUsdt3": "3. Only if the balance is> {num} USDT, can you withdraw.  You need to pay {fee} USDT transaction fee for each withdrawal",
+        "widthdrawTips4": "4.出金を送信後、48時間以内に審査が完了します（祝休日は少し延長あり）が、具体的な着金時間はネットの状況により異なります。この期間の当該金額は凍結状態となります",
+        "widthdrawTo": "出金先",
+        "widthdrawMoney": "出金金額",
+        "makeSureWidthdrawMonty": "出金金額を確認し、出金金額に誤りが無ければ、検証コードを入力してください。",
+        "dropDownAddressEmpty": "出金先アドレスが空白になっています。もう一度確認してください",
+        "dropDownAmountEmpty": "出金金額が空白になっています。もう一度確認してください",
+        "dropDownDeduct": "差し引く",
+        "dropDownPoundage": "手数料",
+        "dropDownToTheAccount": "着金",
+        "addressNull": "ウォレットアドレスを追加後、もう一度出金をしてください",
+        "toAddAddress": "追加する",
+        "addressPlaceholder": "Binance chainアドレスをご入力ください",
+        "addressPlaceholderUsdt": "Only support the addresses that can receive ERC-20 USDT ",
+        "notePlaceholder": "取引所のアドレスの場合、必ずメモをご記入ください。必要ない場合は、『メモ不要』をクリックしてください。",
+        "noteMemoText": "今回の出金にメモは不要です",
+        "note": "メモ",
+        "noteMobilePlaceholder": "取引所のアドレスに出金する場合、必ずメモが必要です",
+        "kycTipsForClient": "Withdrawal requires KYC. You can use your browser to access COS.TV to enter your account and perform KYC. After KYC, you can withdraw money"
+    },
+    "address": {
+        "wallateAddress": "ウォレットアドレス",
+        "addressNote": "アドレス（備考）",
+        "add": "追加",
+        "addedCOSAddress": "COSアドレスを追加しました",
+        "addTime": "時間の追加",
+        "addressDelete": "削除",
+        "addressNulled": "ウォレットアドレスが追加されていません",
+        "MAddedAddressNote": "アドレスを追加しました/備考",
+        "MNoteName": "備考名",
+        "MSave": "保存",
+        "MDeleteAddress": "このウォレットアドレスを削除したいですか",
+        "MMonmentNo": "いいえ",
+        "MMakeSure": "はい",
+        "addressNull": "ウォレットアドレスをご入力ください",
+        "addressWrongETHAndCOS":"ウォレットアドレスは42文字で、且つ最後の文字は0で終わります。もう一度アドレスをご確認の上、ご入力をお願いします",
+        "addressWrongBTC":"ウォレットアドレスは26-34文字です。もう一度アドレスをご確認の上、ご入力をお願いします",
+        "labelNull":"備考欄は必ず記入してください",
+        "bannerintroduce": "ユーザー様のCOSと他のデジタルアセットのさらなる安全性の向上のため、ContentosはTrustWalletの使用をお勧めいたします.",
+        "overReason1": "アドレスが失効している原因は何でしょうか？",
+        "overReason2": "現段階ではBinance chainアドレスのみ対応可能です、ETHアドレスは失効します",
+        "overReason3": "失効したアドレスを消去し、Binance chainアドレスをご入力ください",
+        "bnbRegTips": "正確なBinance chainアドレスをご入力ください",
+        "overAddress": "無効なアドレス"
+    },
+    "bill": {
+        "transactionType": "取引タイプ",
+        "all": "全部",
+        "income": "収入",
+        "spending": "支出",
+        "transactionTime": "取引時間",
+        "coinType": "通貨の種類",
+        "transactionMoney": "取引金額",
+        "transactionTitle": "取引名",
+        "billStatus": "状態",
+        "billSuccess": "成功",
+        "processing": "処理中",
+        "startPage": "ホーム",
+        "endPage": "最後のページ",
+        "previousPage": "前のページ",
+        "nextPage": "次のページ",
+        "billNull": "取引履歴がありません",
+        "mCoinType": "通貨の種類",
+        "clearTime": "時間をクリア",
+        "billOver": "全ての内容を表示しております"
+    },
+    "kyc": {
+        "propertyKycTitle": "KYC認証を行ってからでないと取引を行うことができません。",
+        "kycCertification": "KYCに進む",
+        "returnPreperty": "ウォレットに戻る",
+        "whatIsKyc": "KYCとは？",
+        "KeepMyInformationSecure": "どのようにして情報セキュリティを保証していますか？",
+        "kycIntroduceInfo": "KYCとはKnow Your Customersの略で、ユーザーの身元確認を行うプロセスです。現在、ブロックチェーン業界内、ひいては金融業界、銀行業界で一般的に使用されています。KYCの後、我々はユーザー資金の安全をさらに効果的に保護し、さらに利便性を備えた製品サービスを提供します。",
+        "InformationSecureInfo1": "ユーザーが送信したKYC情報に対して、独立した第三者により審査を行います。第三者提携パートナーによる機密措置は各国の情報保護規則に対応しており、EU一般データ保護規則（GDPR）にも対応しています。また、銀行レベルのデータ機密体系を備えています。",
+        "InformationSecureInfo2": "Contentos内部では、ユーザー情報に接触することができる又は接触する可能性のあるパートナーを厳格に規範化しています。パートナーがCMS又はその他ユーザー情報に接触する可能性がある場面において、いずれもその操作履歴が残るようになっています。また、ユーザーデーターはセーフティレベルが高いサーバー内に保存され、ユーザーデーターがシステムの故障により外部に漏洩しないことを保証します。"
+    },
+    "transferSuccess": {
+        "congratulations": "おめでとうございます。振替に成功しました。",
+        "successTips1": "1.振替はリアルタイムに相手のアカウントに入金されます。ネットワークが輻輳している場合は、着金時間がやや遅れる可能性があります",
+        "successTips2": "2.相手が入金を確認できない場合、service@contentos.ioにお問い合わせください",
+        "lookMyBill": "マイ決済を表示する",
+        "returnHome": "ホームへ戻る"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "おめでとうございます。申請に成功しました。",
+        "widthdrawSuccessTips1": "1.出金審査は24時間内に完了し、48時間以内に入金されます（法定休日の場合は延長）",
+        "widthdrawSuccessTips2": "2.しばらくしても入金されない場合、service@contentos.ioにお問い合わせください"
+    },
+    "nft": {
+        "nftTitle": "私のERC721",
+        "nftToView": "チェック",
+        "nftCheck1": "全て",
+        "nftCheck2": "引き出し待ち",
+        "nftCheck3": "引き出し中",
+        "nftCheck4": "引き出し済み",
+        "noNft": "NFT資産がありません",
+        "noAssets": "対象の資産がありません",
+        "typeList": [
+            {
+              "text": "全て"
+            },
+            {
+              "text": "引き出し待ち"
+            },
+            {
+              "text": "引き出し中"
+            },
+            {
+              "text": "引き出し済み"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "Mainnet Wallet",
+        "user": "COS.TV Account",
+        "insText": "COS.TV account is used to manage your centralized asset on COS.TV. Part of the asset is earned from the daily engagement on COS.TV, rewards, and airdrops. Once the balance reaches to certain amount, it can be transfered to Mainnet wallet or BEP2 wallet.",
+        "toMain": "Mainnet Wallet (Recommend)",
+        "toAccount": "Authorize to Mainnet address (Recommend)",
+        "goAccount": "Authorize",
+        "banner1": "Due to our recent transfer to BEP2，you can also go to BEP2 address to withdraw your asset",
+        "banner2": "Please visit Binance.org or use Trust Wallet to create an address",
+        "education": "View tutorial"
+    }
+}

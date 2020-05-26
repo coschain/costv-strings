@@ -1,0 +1,20 @@
+{
+  "btnEdit": "編輯",
+  "textFollow": "關注",
+  "textFans": "粉絲",
+  "tabMyCreation": "我的作品",
+  "tabCreation": "作品",
+  "tabMyDynamic": "我的動態",
+  "tabDynamic": "動態",
+  "tipsNoVideo": "你還沒有上傳任何視頻",
+  "tipsNoVideo2": "還沒有上傳任何影片",
+  "tipsNoDynamic": "你還沒有喜歡任何視頻，快去為你喜歡的視頻點贊吧",
+  "tipsNoDynamic2": "還沒有為影片按過讚",
+  "titleFollow": "關注",
+  "titleFans": "粉絲",
+  "btnUnfollow": "取消關注",
+  "btnRemoveFans": "移除粉絲",
+  "tipsNoFollow": "還沒有關注任何人",
+  "tipsNoFans": "還沒有任何人關注",
+  "btnPersonal": "個人主頁"
+}

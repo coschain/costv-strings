@@ -1,0 +1,298 @@
+{
+  "play": {
+    "focus": "theo dõi",
+    "focused": "đã theo dõi",
+    "focus_num": "người theo dõi",
+    "forbid_follow": "không thể theo dõi bản thân mình",
+    "go_play": "thử chơi ",
+    "recommend": "Đề xuất video",
+    "shareTo": "chia sẻ tới:",
+    "shareHref": "chia sẻ link video :",
+    "shareCopy": "sao chép",
+    "popTask": "xem video có thể nhận được phần thưởng POP nhe",
+    "popbanner1": "xem video nhận POP",
+    "popbanner2": "Xem nội dung gốc & hấp dẫn để tăng tốc độ x2 nhận POP",
+    "share": "chia sẻ",
+    "inform": "báo cáo",
+    "copySuccess": "đã sao chép ",
+    "shareLink": "chia sẻ link",
+    "cancel": "hủy",
+    "continue": "tiếp tục",
+    "informVideo": "báo cáo video ",
+    "time": "độ dài video được chọn",
+    "placeholder": "vui lòng cung cấp thêm chi tiết khác",
+    "timeTips": "độ dài video được chọn không phù hợp với độ dài video, vui lòng nhập lại ",
+    "tips1": "Nhân viên cos.tv kiểm duyệt báo cáo video và người dùng (7*24h), tài khản sẽ bị trừng phạt nếu xác nhận vi phạm, nếu tình hình nghiêm trọng tài khoản sẽ bị khóa vĩnh viễn.",
+    "tips2": "Nội dung sẽ bị xoa nếu bị phát hiện nó vi phạm quy định.",
+    "thanksToShare": "Cảm ơn bạn đã báo cáo",
+    "problem": "vấn đề ",
+    "close": "đóng lại",
+    "btnMore": "Xem chi tiết",
+    "typeList": [
+      {
+        "text": "nội dung khiêu dâm"
+      },
+      {
+        "text": "Bạo lực hoặc nhạy cảm"
+      },
+      {
+        "text": "Hận thù hoặc xúc phạm"
+      },
+      {
+        "text": "Hành vi nguy hiểm có hại"
+      },
+      {
+        "text": "lạm dụng trẻ em"
+      },
+      {
+        "text": "truyền bá khủng bố chủ nghĩa"
+      },
+      {
+        "text": "Xấu và chống giáo dục"
+      },
+      {
+        "text": "xâm phạm quyền lợi"
+      },
+      {
+        "text": "vấn đề phụ đề"
+      },
+      {
+        "text": "vấn đề khác"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "giới thiệu nội dung ",
+    "playCount": "{0} lượt xem",
+    "loginTips": "Kiếm POP",
+    "popGuideDesc01": "xem video có thể nhận được phần thưởng điểm POP nhe!",
+    "popGuideDesc02": "Xem video hấp dẫn có thể tăng tốc độ gấp đôi nhận POP!",
+    "popGuideBtn": "bắt đầu trải nghiệm",
+    "popRewardFinished": "Done",
+    "popDescTitle": "giới thiệu quy tắc",
+    "popDesc01": "1. Người dùng xem video và livestream sau khi đăng nhập trên COS.TV, mỗi phút có thể nhận thưởng POP. ",
+    "popDesc02": "2. Tối đa có thể nhận {0} POP hàng ngày, xem video hấp dẫn có thể tăng tốc độ gấp đôi nhân POP, nếu không đạt được giới hạn nhận POP trong ngày, sẽ không được tích lũy vào ngày hôm sau. Thời gian reset lại giới hạn là 00:00 (UTC) , 7:00 sáng (giờ Việt Nam).",
+    "popDesc03": "3.Nếu thời gian không thể tính hoặc bất thường, vui lòng tải lại trang hoặc thay đổi trình duyệt khác.",
+    "processStatePaused": "Paused",
+    "showMore": "Mở thêm",
+    "showLess": "Thu lại"
+  },
+  "playComment": {
+    "commit": "Để lại bình luận",
+    "loginTip": "(sau khi đăng nhập mới có thể để lại bình luận)",
+    "wordsError": "Độ dài bình luận tối đa 300 ký tự",
+    "inputNum": "Độ dài bình luận tối đa 300 ký tự",
+    "enterCommit": "nhập vào bình luận",
+    "sending": "Gửi",
+    "send": "Gửi",
+    "cancel": "hủy",
+    "commitNum": "{total} bình luận",
+    "orderHot": "Hot nhất",
+    "orderDate": "Mới nhất",
+    "send_s": "{num} giây trước",
+    "send_m": "{num} phút trước",
+    "send_h": "{num} giờ trước",
+    "send_d": "{num} ngày trước",
+    "send_w": "{num} tuần trước",
+    "send_mo": "{num} tháng trước",
+    "send_y": "{num} năm trước",
+    "justNow": "Vừa rồi",
+    "replay": "trả lời",
+    "wordsLimit": "Độ dài trả lời tối đa 300 ký tự",
+    "more": "xem thêm nhiều bình luận",
+    "slider": "rút lại",
+    "no_more_commit": "không có nhiều bình luận nữa ~",
+    "no_commit": "chưa có bình luận nào, hãy để lại bình luận đầu tiên đi bạn~",
+    "replay_all": "trả lời toàn bộ",
+    "commit_success": "bình luận thành công",
+    "lookComments": "Xem {0} bài trả lời",
+    "sliderComments": "Ẩn {0} bài trả lời",
+    "lookComment": "Xem bài trả lời",
+    "sliderComment": "Ẩn bài trả lời",
+    "deleteLayerTips": "Toàn bộ trả lời sẽ bị xóa hết sau khi xóa bình luận",
+    "deleteSuccess":"Xóa bình luận thành công",
+    "commentsNumbers":"bài trả lời",
+    "commentTips": "Hãy tương tác với nhau! Để lại cảm giác của bạn ở dưới comment~",
+    "rreply": "{0} bài trả lời "
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes, trở thành một chú rắn đi kiếm xu bằng khả năng ăn. Trong trò chơi đầy đam mê này, bạn có thể trở thành chú rắn mạnh nhất chinh phục mọi con mồi không? Di chuyển rắn để giành chiến thắng và thu thập vật phẩm trên đường đi.",
+      "detail_description": "HyperSnakes là một trò chơi dòng Hyper khác do MixMarvel, những người sáng tạo ra HyperDragons, phát triển. Đây cũng là trò chơi cạnh tranh theo thời gian thực nhiều người chơi trên toàn cầu đầu tiên trong thời đại chuỗi khối ngày nay. Trò chơi dựa trên công nghệ chuỗi khối, với nhân vật chính là Chú rắn, người chơi có thể kết hợp với những người chơi khác trên khắp thế giới để chiến đấu và thu thập xu từ các chiến trường ngẫu nhiên và có thể thay đổi. Người chơi không chỉ có thể điều khiển những chú rắn để tránh các đối thủ khác mà còn ngăn chặn những chú rắn của mình bị nuốt trong vòng tròn nọc độc. Trong mỗi trận chiến, chỉ có một người chơi sẽ giành chiến thắng và nhận được phần thưởng lớn đáng ghen tị. Những người chơi khác của trò chơi cũng sẽ có những món quà có giá trị tương ứng. Bạn có thể tích lũy của cải trong khi tận hưởng trò chơi."
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "Trò chơi sưu tập nhiều chuỗi khối đầu tiên với những cuộc phiêu lưu",
+      "detail_description": "Blockchain Cuties là một trò chơi tiền điện tử sưu tập mới với những cuộc phiêu lưu, nơi bạn có thể chơi với chó con, thằn lằn, gấu con, mèo và các sinh vật thực và tưởng tượng khác. Mỗi cutie là duy nhất và 100% thuộc về bạn. Bạn có thể thu thập chúng, gây giống chúng, kiểm tra kỹ năng của chúng trong các trận chiến, vũ trang chúng và thậm chí tăng cấp cho chúng! Nền kinh tế trong trò chơi cho phép bạn giao dịch các cuties bằng cách sử dụng các hợp đồng thông minh trên các chuỗi khối Ethereum, EOS và TRON. Mỗi cutie, không thể thay thế được, có thể được chuyển nhượng hoặc bán cho người chơi khác giống như một loại tiền điện tử thông thường."
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "vi Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Cryptons” là những con chú heo có thể sưu tập, siêu dễ thương cư trú trên mạng Ethereum. Nhận của riêng bạn và tham gia vào thế giới Crypt-Oink bây giờ!",
+      "detail_description": "Crypt-Oink là trò chơi blockchain đầu tiên của Nhật Bản trên mạng Ethereum, có các bộ sưu tập tiền điện tử được gọi là Crypton có thể được nhân giống, thu thập và giao dịch. Hơn 3 nghìn tỷ những sinh vật giống lợn này tồn tại với nhiều màu sắc và hoa văn khác nhau. Crypton cũng có thể được huấn luyện để tăng các thông số ảnh hưởng đến sức mạnh của họ và tăng xác suất thắng trong trò chơi đua xe 3D Gran Gran Rismo, trò chơi đua xe 3D Crypt-Oink."
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "Tham gia chương trình bình chọn ca sĩ <br /><span class=\"special-1\"> nhận <span class=\"special-2\">{count}POP</span> phần thưởng chương trình！</span>",
+    "claimPopBtn": "Nhận",
+    "btnClose": "Đóng",
+    "claimSuccessTips": "Đã nhận thành công!",
+    "action": "Ủng hộ",
+    "btnVote": "POP",
+    "titleVoteAuthor": "Ủng hộ ca sĩ",
+    "getPopTips": "Có thể nhận POP thông qua check in, mở rương báu, hoặc xem video ",
+    "voteTips": "Tặng POP để bình chọn cho tác phẩm có thể giúp các ca sĩ tăng cấp thứ hạng để đủ điều kiện tham gia vòng tiếp. 1 pop có thể tăng 1 điểm cho ca sĩ.",
+    "currentVoteNums": "Số điểm hiện nay: <span class=\"num\">{count}</span> điểm",
+    "listTab": "Cuộc thi ca hát",
+    "btnVote2": "Golden Vote",
+    "buy": "Mua",
+    "g_vote": "Golden Vote  ",
+    "balance": "Số dự:",
+    "inadequate": "số dư điểm {type} không đủ",
+    "voteTips2": "Tặng Golden cho tác phẩm, có thể giúp tăng nhanh chóng bảng xếp hạng của ca sĩ, mỗi 1 Golden Vote có thể tăng 1000 điểm để ủng hộ.",
+    "point": "Điểm"
+  },
+  "videoStatusTips": {
+    "notStarted": "Live đang chuẩn bị, xin chờ đợi giây phút .... Nội dung thú vị sẽ đến !！",
+    "preparing": "Live đang chuẩn bị, xin chờ đợi giây phút .... Nội dung thú vị sẽ đến !！",
+    "error": "Live đang chuẩn bị, xin chờ đợi giây phút .... Nội dung thú vị sẽ đến !！",
+    "endedToday": "Live hôm nay đã kết thúc, cảm ơn bạn đã theo dõi!",
+    "allEnded": "Nội dung hoạt động đã kết thúc, cảm ơn sự theo dõi của bạn！"
+  },
+  "ticket": {
+    "voteBoxInfo": "Đã có <span>{persons}</span> bạn，gửi tặng <span>{tickets}</span> Gifting vote",
+    "cosNum": "COS:{0}",
+    "ticketsNum": "Gifting Votes: {0}",
+    "ticketsNumUnify": "Gifting Votes: {0}",
+    "placeholderTicketCount": "Số lượng",
+    "placeholderComment": "Hãy để lại một bình luận, sẽ có một huy chương được hiển thị bên cạnh avatar của bạn~",
+    "likeTips": "Hãy like video của creators khi bạn tặng Gifting Votes",
+    "btnDoGiftVote": "Tặng",
+    "errorTipsExceed": "Số dư không đủ",
+    "tipsHowToGetCos": "Cách nhận COS",
+    "voteBoxDesc": "Mua Gifting Vote và tham gia gửi tặng nó, vừa biểu thị bạn yêu thích video vừa ủng hộ người sáng tạo nội dung!",
+    "textMoreDetail": "Xem thêm chi tiết",
+    "moreContentDesc01": "Không chỉ có thể biểu thị bạn yêu thích video mà có thể ủng hộ người sáng tạo nội dung! Bạn sẽ tận hưởng đặc quyền độc quyền trên giao diện video sau khi bạn gửi tặng Gifting vote thành công! Bao gồm:",
+    "moreContentDesc02": "① Tham gia cạnh tranh xếp hạng và ghế vàng",
+    "moreContentDesc03": "② Nhận được huy chương độc quyền trong cột bình luận；",
+    "moreContentDesc04": "③ Cảm ơn từ người sáng tạo nội dung",
+    "moreContentDesc05": "Bên cạnh đó, người sáng tạo nội dung có thể nhận phần lớn của thu nhập trong số tiền bạn đã mua.",
+    "buyGiftVoteTitle": "Mua Gifting Votes",
+    "CosBalance": "Số dư COS hiện nay",
+    "giftVoteBalance": "Số lượng Gifting Votes hiện nay",
+    "buyText": "Mua:",
+    "buyBtn": "Mua",
+    "expectedCost": "Chi phí:",
+    "buyList": "Lịch sử thanh toán",
+    "spendMoneySymbol": "Chi phí:",
+    "spendMoney": "Chi phí",
+    "spendCos": "{0}COS",
+    "buyAmountSymbol": "Số lượng mua:",
+    "buyAmount": "Số lượng mua",
+    "buyTimeSymbol": "Thời gian:",
+    "buyTime": "Thời gian",
+    "loadMore": "Xem hồ sơ lịch sử thêm",
+    "buyGiftVote": "Mua Gifting Votes",
+    "giftVote": "Gifting Votes",
+    "giftVoteHeader": "Gifting Votes",
+    "giftVoteReply": "Gifting Votes trả lời",
+    "confirm": "Xác nhận",
+    "replyHint": "Set-up câu cảm ơn cho người tặng Gifting votes, người xem sẽ được thấy sau khi tặng Gifting votes cho bạn.PS：Nếu bạn không tự set-up câu cảm ơn, hệ thống sẽ mạc định là：cảm ơn sự ủng hộ của bạn~",
+    "replyLimitMax": "Giới hạn trên {0} ký tự",
+    "replyLimitMin": "Không thể vượt qua {0} ký tự",
+    "setReplySuccess": "Thiết lập thành công",
+    "giftVotebuyList": "Lịch sử mua Gifting Votes",
+    "notSufficientFunds": "Số dư không đủ",
+    "buySuccess": "Mua thành công",
+    "stayTunedFor": "Ghế vàng sắp được ra mắt, hãy tiếp tục theo dõi",
+    "numberOfGiftGiving": "{0} bạn gửi tặng",
+    "releaseDate": "{0} đăng bài",
+    "exclusiveThankYouHeart": "Người tặng quà nhận huy chương độc quyền“trái tim biết ơn”",
+    "errorTipsVoteSelf": "Bạn không thể tặng cho nội dung của riêng mình",
+    "occupyList": "Chiếm bảng xếp hạng đầu",
+    "occupyListText": "Chiếm bảng xếp hạng, tận hưởng vinh quang vô tận",
+    "participateList": "Tham gia đấu tranh bảng xếp hạng",
+    "waiting":"Đang chờ bạn đến ",
+    "moreList":"Thêm",
+    "participationAndLook": "Tham gia tặng Gifting Vote, kiểm tra bảng xếp hạng",
+    "rankingListLearnMoreA": "Đây là bảng xếp hạng của người tặng Gifting Votes cho video này nhé ~",
+    "rankingListLearnMoreB": "Top 10 đầu tiên được hiển thị bảng xếp hạng ở đây, khi số lượng tặng votes bằng nhau thì sẽ xếp theo thời gian của người tặng, người tặng sớm hơn sẽ được hiển thị trước. ",
+    "totalMoney": "Tổng thu nhập khoảng {0}",
+    "totalMoneyApproximate": "Khoảng：{0}Vest",
+    "bonusSettlement": "Phần thưởng thanh toán: {money} / khoảng {vest} Vest",
+    "settlementDate": "Ngày thanh toán: {0}",
+    "settlementBonus": "Thanh toán thu nhập khoảng {0}",
+    "afterSettlement": "Thanh toán sau {0} ",
+    "giftMoney": "Thu nhập của Gifting Votes: {money}/ khoảng {vest}Vest",
+    "btnSubscribe": "Theo dõi ",
+    "btnSubscribed": "Đã theo dõi",
+    "giftReceivedSum": "Lịch sử thu nhập của Gifting Votes: {0}",
+    "giftEmptyTips1": "Không có lịch sử thu nhập 7 ngày gần đây ",
+    "giftEmptyTips2": "Không có lịch sử thu nhập của ngày đã chọn",
+    "tipsSelectDate": "Ngày chọn :",
+    "btnReset": "Reset",
+    "paginationTotal": "Tổng {total} hồ sơ",
+    "videoRewardsLeader": "Video rewards leader",
+    "giftReceivedThUser": "Người tặng quà votes",
+    "giftReceivedThAmount": "Số lượng tặng ",
+    "giftReceivedThTime": "Ngày",
+    "giftReceivedThVideo": "Video",
+    "alreadySettled": "Đã thanh toán",
+    "remainingSettlementPeriod": "Ngày thanh toán còn lại: {0}",
+    "rankList": "Bảng xếp hạng"
+  },
+  "sevenDays": "7 ngày gần đây",
+  "allDays": "Tổng số Gifting Votes",
+  "autoplay": {
+    "nextVideo":"Bắt đầu video tiếp theo của creator",
+    "recommend":"Đề xuất",
+    "replay":"Xem lại",
+    "nextPlay":"Video tiếp theo",
+    "willPlay":"Sắp tới:",
+    "immediatelyPlay":"Xem ngay",
+    "cancel":"Hủy",
+    "autoplay":"Tự động",
+    "moreTips":"Khi bạn chọn xem tự động, hệ thống sẽ tự động mở video được đề xuất tiếp theo"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "Quảng cáo hoặc bình luận spam"
+      },
+      {
+        "text": "Nội dung tình dục"
+      },
+      {
+        "text": "Lạm dụng trẻ em"
+      },
+      {
+        "text": "Bạo lực hoặc lời nói xúc phạm người khác"
+      },
+      {
+        "text": "Quấy rối hoặc bắt nạt"
+      }
+    ],
+    "delete": "Xóa",
+    "creator": "Creator",
+    "delCommit": "Xóa bình luận",
+    "placeholder": "Để lại bình luận",
+    "author": "Chỉ người sáng tạo có thể xóa bình luận",
+    "delTips": "Đã xóa bình luận thành công, vui lòng làm mới trang"
+  },
+  "emojiCustom": {
+    "unlock": "Mở khóa",
+    "getEmoji": "Nhận emoji",
+    "getAllEmoji": "Nhận một bộ đầy đủ emoji",
+    "howGet": "Cách nhận toàn bộ emoji của Voepa",
+    "getEmojiTips": "Tặng đủ 100 Gifting Votes cho Voepa, bạn sẽ có thể nhận toàn bộ emoji \"Epamoji\" độc quyền của Voepa."
+  }
+}

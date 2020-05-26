@@ -1,0 +1,100 @@
+{
+  "blockTitleCardLIst": "玩轉COS.TV",
+  "btnEnterLivePage": "進入直播間",
+  "btnCheckBannerDetail": "查看詳情",
+  "announcement":{
+    "banner_a":"每日開啟寶箱，",
+    "banner_b":"贏取<span class='strong'>BTC</span>與<span class='strong'>COS</span>大獎",
+    "banner_c":"參與POP奪寶，",
+    "banner_d":"玩老虎機，獲得<span class='strong'>COS</span>！",
+    "banner_g1":"Crypt-Oink “豬”登場，",
+    "banner_g2":"<span class='strong white'>快來POP奪寶認領COS豬！</span>",
+    "questionnaire": "用戶回饋徵集，填調查問卷就有 50COS 獎勵！",
+    "questionnaire_mobile": "用戶回饋徵集，填調查問卷就有 50COS 獎勵！",
+    "nps": "<span class='blod'>填寫滿意度調查</span>，隨機贈送500名填答者5張禮物票獎勵",
+    "nps_m": "<span class='blod'>填寫滿意度調查</span><br>隨機贈送500名填答者5張禮物票獎勵"
+  },
+  "sign":{
+    "a":"每日簽到",
+    "b":"獲取ETH與POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "賺COS"
+    },
+    {
+      "text": "區塊鏈瀏覽器"
+    },
+    {
+      "text": "了解<span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+  "category0":"熱門DApp",
+  "category5": "原創內容",
+  "category1":"熱門內容",
+  "category2":"遊戲",
+  "category3":"男神",
+  "category4":"才藝",
+  "category7":"區塊鏈精選",
+  "category8":"我的觀看歷史",
+  "category9":"我的訂閱",
+  "category10":"推薦視頻",
+  "category11":"娛樂",
+  "category12":"可愛的寵物",
+  "category13":"音樂",
+  "category14":"Liveme精選",
+  "categorySp":"#Athomechallenge",
+  "categorySp2":"可愛的寵物",
+  "more":"更多",
+  "operation":"了解更多",
+  "tagAll":"全部",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "今天",
+    "sevenDay": "近七天",
+    "oneMonth": "近三十天",
+    "oneYear": "近一年",
+    "longer": "更久",
+    "removeAll": "全部清除",
+    "novicePromptDeletion": "往左滑動影片區域可以刪除影片喔",
+    "noSubscribe": "你還沒有追蹤創作者呢，追蹤後再來吧",
+    "nullSubList": "你追蹤的創作者還沒有發布作品呢",
+    "nullHistory": "你還沒有觀看任何一部影片呢，觀看後再來吧",
+    "deleteHistoryAll": "是否要清除全部的歷史記錄",
+    "yes": "是",
+    "no": "否"
+  },
+  "todayPopular": {
+    "title": "今日热门",
+    "watch_num": "{0} 次观看"
+  },
+  "messageCenter": {
+    "notificationCenter": "通知中心",
+    "noMoreNotice": "目前沒有通知",
+    "comment": "留言",
+    "aboutComment": "關於“{0}”影片的留言",
+    "commentNull": "相關留言已刪除"
+  }
+}

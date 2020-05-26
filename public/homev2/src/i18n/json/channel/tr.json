@@ -1,0 +1,20 @@
+{
+  "btnEdit": "Düzenle",
+  "textFollow": "Takip et",
+  "textFans": "Takipçi",
+  "tabMyCreation": "Videolarım",
+  "tabCreation": "İçerik bilgisi",
+  "tabMyDynamic": "Gönderilerim",
+  "tabDynamic": "Beğeniler",
+  "tipsNoVideo": "Henüz hiçbir video yüklemedin.",
+  "tipsNoVideo2": "Henüz hiçbir video yüklenmedi",
+  "tipsNoDynamic": "Henüz hiçbir videoyu beğenmedin, hadi en sevdiğin videolara beğenilerini sun.",
+  "tipsNoDynamic2": "Henüz hiçbir video beğenilmedi.",
+  "titleFollow": "Takip et",
+  "titleFans": "Takipçiler",
+  "btnUnfollow": "Takipten çık",
+  "btnRemoveFans": "Kaldır",
+  "tipsNoFollow": "Henüz hiçkimse takip edilmedi.",
+  "tipsNoFans": "Henüz hiçkimse takip etmiyor.",
+  "btnPersonal": "Profil"
+}

@@ -1,0 +1,20 @@
+{
+  "btnEdit": "Редактировать",
+  "textFollow": "Подписаться",
+  "textFans": "Подписан на Вас",
+  "tabMyCreation": "Мои Видео",
+  "tabCreation": "Feed",
+  "tabMyDynamic": "Мои Записи",
+  "tabDynamic": "Likes",
+  "tipsNoVideo": "У вас еще нет видео",
+  "tipsNoVideo2": "No videos uploaded yet",
+  "tipsNoDynamic": "Вы пока не оценили ни одного фото или видео. Скорее оцените ваши любимые видео",
+  "tipsNoDynamic2": "Haven't liked any videos yet",
+  "titleFollow": "Подписаться",
+  "titleFans": "Подписан на Вас",
+  "btnUnfollow": "Отписаться",
+  "btnRemoveFans": "Удалить",
+  "tipsNoFollow": "Пока ни на кого не подписан",
+  "tipsNoFans": "Пока ни одного подписчика",
+  "btnPersonal": "Профиль"
+}

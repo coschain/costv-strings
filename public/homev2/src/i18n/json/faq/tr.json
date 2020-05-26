@@ -1,0 +1,16 @@
+{
+  "enter":"Yardım Merkezi",
+  "title":"Sıkça Sorulan Sorular",
+  "title_tip":"Çözülmemiş bir problemin mi var? Lütfen bizimle şu adresten iletişime geç: <br /><a href='mailto:service@contentos.io'>service@contentos.io</a><br />  or join our community for help.",
+  "category1":"Sıkça Sorulan Sorular",
+  "category2":"Hesap",
+  "category3":"Para çekimleri",
+  "category4":"Güvenlik",
+  "feedback_title":"Bu makale yardımcı oldu mu?",
+  "yes":"Evet",
+  "no":"Hayır",
+  "no_title":"Geribildirimin için teşekkürler",
+  "submit":"Gönder",
+  "thanks2":"Geribildirimin için teşekkürler",
+  "wrong_tip":"Lütfen geçerli bir içerik gir"
+}

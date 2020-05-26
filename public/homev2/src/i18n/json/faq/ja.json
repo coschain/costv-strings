@@ -1,0 +1,16 @@
+{
+  "enter":"サービスセンター",
+  "title":"よくある質問",
+  "title_tip":"不明な点はEmail<br /><a href='mailto:service@contentos.io'>service@contentos.io</a><br /> を通じてご連絡いただくか、コミュニティにてご質問をお願いします。",
+  "category1":"よくある質問",
+  "category2":"アカウント関連問題",
+  "category3":"出金に関する問題",
+  "category4":"セキュリティ関連問題",
+  "feedback_title":"問題の解決に至りましたか？",
+  "yes":"はい",
+  "no":"いいえ",
+  "no_title":"フィードバックのご提供ありがとうございました。",
+  "submit":"提出する",
+  "thanks2":"フィードバックのご提供ありがとうございました。",
+  "wrong_tip":"正しい内容をご入力ください。"
+}

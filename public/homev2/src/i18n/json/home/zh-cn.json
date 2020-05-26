@@ -1,0 +1,103 @@
+{
+  "blockTitleCardLIst": "玩转COS.TV",
+  "btnEnterLivePage": "进入直播间",
+  "btnCheckBannerDetail": "查看详情",
+  "announcement":{
+    "banner_a":"每日开启宝箱，",
+    "banner_b":"赢取<span class='strong'>BTC</span>与<span class='strong'>COS</span>大奖",
+    "banner_c":"参与POP夺宝，",
+    "banner_d":"摇<span class='strong'>COS</span>积累数字代币资产",
+    "banner_g1":"Crypt-Oink “猪”登场，",
+    "banner_g2":"<span class='strong white'>快來POP夺宝奇认领COS猪!</span>",
+    "questionnaire": "用户反馈征集，填调查问卷就有 50COS 奖励！",
+    "questionnaire_mobile": "用户反馈征集，填调查问卷就有 50COS 奖励！",
+    "nps": "<span class='blod'>用户反馈征集，</span>随机抽取500名问卷用户送出5张礼物票奖励",
+    "nps_m": "<span class='blod'>用户反馈征集</span><br>随机抽取500名问卷用户送出5张礼物票奖励"
+  },
+  "sign":{
+    "a":"每日签到,",
+    "b":"获取ETH与POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "赚COS"
+    },
+    {
+      "text": "区块链浏览器"
+    },
+    {
+      "text": "了解<span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+
+  "category0":"热门DAPP",
+  "category5": "原创内容",
+  "category1":"热门内容",
+  "category2":"游戏",
+  "category3":"男神",
+  "category4":"才艺",
+  "category6":"歌手大赛",
+  "category7":"区块链精选",
+  "category8":"我的观看历史",
+  "category9":"我的订阅",
+  "category10":"推荐视频",
+  "category11":"有趣",
+  "category12":"萌宠",
+  "category13":"音乐",
+  "category14":"Liveme精选",
+  "categorySp":"#Athomechallenge",
+  "categorySp2":"萌宠",
+  "more":"更多",
+  "operation":"了解更多",
+  "tagAll":"全部",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "今日",
+    "sevenDay": "近七天",
+    "oneMonth": "近三十天",
+    "oneYear": "近一年",
+    "longer": "更久",
+    "removeAll": "全部清除",
+    "novicePromptDeletion": "往左滑动视频区域可以删除视频哦",
+    "noSubscribe": "你还没有关注创作者呢，关注后再来吧",
+    "nullSubList": "你关注的创作者还没有发布作品呢",
+    "nullHistory": "你还没有观看任何一个视频呢，观看后再来吧",
+    "deleteHistoryAll": "是否要清除全部的历史记录",
+    "yes": "是",
+    "no": "否"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "消息中心",
+    "noMoreNotice": "暂时还没有消息呢",
+    "comment": "评论",
+    "aboutComment": "关于“{0}”视频的评论",
+    "commentNull": "相关评论已删除"
+  }
+}
+

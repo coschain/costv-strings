@@ -1,0 +1,298 @@
+{
+  "play": {
+    "focus": "追蹤",
+    "focused": "已追蹤",
+    "focus_num": "人追蹤",
+    "forbid_follow": "不能追蹤自己",
+    "go_play": "去玩一下",
+    "recommend": "相關影片推薦",
+    "shareTo": "分享到:",
+    "shareHref": "分享影片連結：",
+    "shareCopy": "複製",
+    "popTask": "看影片可以獲得 POP 獎勵喔",
+    "popbanner1": "看影片得 POP",
+    "popbanner2": "原創及熱門影片雙倍收益速度",
+    "share": "分享",
+    "inform": "舉報",
+    "copySuccess": "複製成功",
+    "shareLink": "分享連結",
+    "cancel": "取消",
+    "continue": "繼續",
+    "informVideo": "舉報影片",
+    "time": "所選影片時間段落",
+    "placeholder": "請提供其他詳細訊息",
+    "timeTips": "您選擇的段落超過了影片的長度，請重新輸入",
+    "tips1": "COS.TV 員工會全天候（7x24 小時）審核遭到舉報的影片和用戶，確定其是否違反了社區準則。違反社區準則的帳號將會受到處罰，若情節嚴重或屢次違規，帳號還可能會遭到終止。",
+    "tips2": "如果我們發現此內容違反了我們的社區準則，便會將其移除。",
+    "thanksToShare": "感謝您的舉報",
+    "problem": "問題",
+    "close": "關閉",
+    "btnMore": "查看詳情",
+    "typeList": [
+      {
+        "text": "色情內容"
+      },
+      {
+        "text": "暴力或令人反感的內容"
+      },
+      {
+        "text": "仇恨或侮辱性內容"
+      },
+      {
+        "text": "有害的危險性動作"
+      },
+      {
+        "text": "虐待兒童"
+      },
+      {
+        "text": "宣揚恐怖主義"
+      },
+      {
+        "text": "垃圾內容或誤導性內容"
+      },
+      {
+        "text": "侵犯了我的權利"
+      },
+      {
+        "text": "字幕問題"
+      },
+      {
+        "text": "其他問題"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "內容簡介",
+    "playCount": "{0}次播放",
+    "loginTips": "登錄賺取 POP",
+    "popGuideDesc01": "看影片可以獲得 POP 積分！",
+    "popGuideDesc02": "熱門影片雙倍積分速度！",
+    "popGuideBtn": "開始體驗",
+    "popRewardFinished": "已完成",
+    "popDescTitle": "規則說明：",
+    "popDesc01": "1.用戶登錄後觀看直播和影片，每分鐘可以獲得 POP 獎勵",
+    "popDesc02": "2.每天最多可獲得 {0} POP，熱門影片有雙倍的獲取速度，當天未達到 POP 獲取上限，次日不累計，每天早上 8 點將重置獲取限額。（台灣時間）",
+    "popDesc03": "3.如計時異常請嘗試刷新或更換其他瀏覽器",
+    "processStatePaused": "暫停",
+    "showMore": "展開",
+    "showLess": "收起"
+  },
+  "playComment": {
+    "commit": "發佈留言",
+    "loginTip": "(登錄之後才能發佈留言)",
+    "wordsError": "留言字數不能超過300",
+    "inputNum": "{inputNum}/300字",
+    "enterCommit": "輸入留言",
+    "sending": "发布中",
+    "send": "發佈",
+    "cancel": "取消",
+    "commitNum": "{total} 則留言",
+    "orderHot": "按熱度排序",
+    "orderDate": "按時間排序",
+    "send_s": "{num}秒前",
+    "send_m": "{num}分前",
+    "send_h": "{num}小時前",
+    "send_d": "{num}天前",
+    "send_w": "{num}週前",
+    "send_mo": "{num}月前",
+    "send_y": "{num}年前",
+    "justNow": "剛剛",
+    "replay": "回覆",
+    "wordsLimit": "留言字數不能超過300",
+    "more": "點擊查看更多留言",
+    "slider": "收起",
+    "no_more_commit": "沒有更多留言了~",
+    "no_commit": "目前還沒有留言，快來留第一個言吧~",
+    "replay_all": "全部回覆",
+    "commit_success": "留言成功",
+    "lookComments": "查看{0}則回覆",
+    "sliderComments": "隱藏{0}則回覆",
+    "lookComment": "查看回覆",
+    "sliderComment": "隱藏回覆",
+    "deleteLayerTips": "刪除留言後，留言下所有回覆都會被刪除",
+    "deleteSuccess":"已刪除留言",
+    "commentsNumbers":"回覆",
+    "commentTips": "留下評論，和大家討論你的想法~",
+    "rreply": "查看{0}則回覆"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes，做一條憑“食力”賺幣的貪吃蛇。激情博弈廝殺重圍的遊戲HyperSnakes，你會是吞噬所有獵物最強的蛇王嗎？奪寶天蛇所至之處，數字資產盡盤囊中。",
+      "detail_description": "HyperSnakes 是MixMarvel團隊暨雲鬥龍HyperDragons後打造的又一款Hyper品牌系列遊戲，也是區塊鏈圈首款全球多人實時競技遊戲。該遊戲基於區塊鏈技術，以貪吃蛇為核心玩法，玩家可以隨時與全球其他貪吃蛇玩家匹配進行戰鬥搏殺，拾取財富。貪吃蛇戰場隨機多變，玩家不僅僅要操控貪吃蛇躲避對手絞殺，還要防止被毒圈吞噬。每次戰鬥將只有一位蛇王勝出，並獲得令人稱羨的大獎，其他同場次玩家也會擁有相應價值回饋。 HyperSnakes讓你在博弈中積累價值。"
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "第一款多鏈收藏冒險遊戲",
+      "detail_description": "Blockchain Cuties是一款全新的利用區塊鏈加密的收藏冒險遊戲。在這款遊戲中，你可以與小狗狗、蜥蜴、熊寶寶、貓咪以及其它真實的或者你幻想的小動物們玩耍。每一個寵物都是獨一無二的，它僅屬於你一人。你不僅可以收集它們，還可以訓練它們。在戰鬥中提升它們的技能，利用道具裝備它們，逐步地讓他們成長！在遊戲中，你可以使用ETH、EOS或者TRON交易你的寵物。每一個可愛且不可替代的寵物，都可以像一個加密貨幣一樣出售或轉讓給其他玩家。"
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Crypton”是生活在以太坊上超可愛、可繁衍的加密收藏豬豬。取得你的專屬豬豬，加入超可愛的 Crypt-Oink 世界吧！",
+      "detail_description": "Crypt-Oink 是日本第一款以太坊上的區塊鏈遊戲，其中的加密收藏品 “Crypton” 可以繁衍、交易，孕育出超過三兆種不同顏色、造型的可愛豬豬。玩家可以訓練自己的 Crypton，強化各項素質，增加參與豬豬 3D 賽跑遊戲 “Gran Ton Rismo” 的勝算。"
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "直播準備中，請稍候…精彩內容即將開始！",
+    "preparing": "直播準備中，請稍候…精彩內容即將開始！",
+    "error": "直播準備中，請稍候…精彩內容即將開始！",
+    "endedToday": "今日直播已結束，感謝您的收看!",
+    "allEnded": "該會場內容已全部結束，感謝您的收看！"
+  },
+  "ticket": {
+    "voteBoxInfo": "已有<span>{persons}</span>人，共送出<span>{tickets}</span>禮物票",
+    "cosNum": "COS: {0}",
+    "ticketsNum": "禮物票: {0}",
+    "ticketsNumUnify": "禮物票: {0}",
+    "placeholderTicketCount": "自定義",
+    "placeholderComment": "說點什麼...留言顯示會有“送禮勛章”哦~",
+    "likeTips": "打賞時同步點讚",
+    "btnDoGiftVote": "打賞",
+    "errorTipsExceed": "餘額不足",
+    "tipsHowToGetCos": "如何獲得COS",
+    "voteBoxDesc": "購買禮物票即可打賞，同時表達對影片的喜愛，並且支持創作者!",
+    "textMoreDetail": "更多詳情",
+    "moreContentDesc01": "對影片表達喜愛，並且支持創作者！贈送禮物票後，您將在該影片頁面享有特殊的權限！包括：",
+    "moreContentDesc02": "①參與送禮榜單與黃金席位的競爭；",
+    "moreContentDesc03": "②評論區評論後可佩戴專屬送禮勛章；",
+    "moreContentDesc04": "③作者滿滿的感謝~",
+    "moreContentDesc05": "此外，創作者將從您支付的費用中穫取絕大部分收益。",
+    "buyGiftVoteTitle": "禮物票購買",
+    "CosBalance": "當前COS餘額：",
+    "giftVoteBalance": "當前禮物票數量：",
+    "buyText": "購買：",
+    "buyBtn": "購買",
+    "expectedCost": "將花費：",
+    "buyList": "購買紀錄",
+    "spendMoneySymbol": "花費：",
+    "spendMoney": "花費",
+    "spendCos": "{0} COS",
+    "buyAmountSymbol": "購買數量：",
+    "buyAmount": "購買數量",
+    "buyTimeSymbol": "時間：",
+    "buyTime": "時間",
+    "loadMore": "查看更多紀錄",
+    "buyGiftVote": "購買禮物票",
+    "giftVote": "禮物票",
+    "giftVoteHeader": "禮物票",
+    "giftVoteReply": "禮物票感謝語",
+    "confirm": "確認",
+    "replyHint": "設置感謝語，當用戶向你贈送禮物票時將收到你的感謝.PS: 如果不設置感謝語，平台將自動顯示：感謝您的支持~",
+    "replyLimitMax": "感謝字數不能超過 {0}",
+    "replyLimitMin": "感謝字數不得少於 {0}",
+    "setReplySuccess": "設置成功",
+    "giftVotebuyList": "禮物票購買紀錄",
+    "notSufficientFunds": "當前餘額不足 ",
+    "buySuccess": "購買成功",
+    "stayTunedFor": "黃金席位即將來襲，敬請期待！",
+    "numberOfGiftGiving": "{0} 人送禮",
+    "releaseDate": "{0} 發佈",
+    "exclusiveThankYouHeart": "送禮者專屬送禮勛章“感謝之心”",
+    "errorTipsVoteSelf": "您不能打賞自己發佈的內容哦！",
+    "occupyList": "佔領榜單",
+    "occupyListText": "快來佔領榜單，享受無限尊榮",
+    "participateList": "參與上榜",
+    "waiting":"虛位以待",
+    "moreList": "更多",
+    "participationAndLook": "參與打賞 查看排名",
+    "rankingListLearnMoreA": "這裡是對該影片參與打賞的用戶排行哦～",
+    "rankingListLearnMoreB": "排行榜會公布前十名，當送禮數量一致時，按照時間排序，先送禮者排名較前。",
+    "totalMoney": "總共收益约{0}",
+    "totalMoneyApproximate": "約為：{0}Vest",
+    "bonusSettlement": "結算獎金：{money}/约 {vest}Vest",
+    "settlementDate": "結算時間：{0}",
+    "settlementBonus": "結算獎金約為{0}",
+    "afterSettlement": "{0} 後结算",
+    "giftMoney": "禮物票收益：{money}/約 {vest}Vest",
+    "btnSubscribe": "訂閱",
+    "btnSubscribed": "已訂閱",
+    "giftReceivedSum": "禮物票收益記錄：{0}",
+    "giftEmptyTips1": "最近7日無收益記錄",
+    "giftEmptyTips2": "所選日期無收益記錄",
+    "tipsSelectDate": "選擇日期：",
+    "btnReset": "重置",
+    "paginationTotal": "總共 {total} 條記錄",
+    "videoRewardsLeader": "Video rewards leader",
+    "giftReceivedThUser": "送禮用戶",
+    "giftReceivedThAmount": "送禮數量",
+    "giftReceivedThTime": "時間",
+    "giftReceivedThVideo": "影片",
+    "alreadySettled": "已結算",
+    "remainingSettlementPeriod": "剩餘結算期：{0}",
+    "rankList": "排行榜"
+  },
+  "sevenDays": "近七日",
+  "allDays": "總數",
+  "autoplay": {
+    "nextVideo":"即將播放創作者的下一部影片",
+    "recommend":"為您推薦",
+    "replay":"重播",
+    "nextPlay":"接下來播放",
+    "willPlay":"即將播放：",
+    "immediatelyPlay":"立即播放",
+    "cancel":"取消",
+    "autoplay":"自動播放",
+    "moreTips":"啟用自動播放功能後，系統會自動播放下一部推薦的影片"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "廣告或是垃圾訊息"
+      },
+      {
+        "text": "色情內容"
+      },
+      {
+        "text": "虐待兒童"
+      },
+      {
+        "text": "血腥暴力內容或是仇恨言論"
+      },
+      {
+        "text": "騷擾或是霸凌內容"
+      }
+    ],
+    "delete": "刪除",
+    "creator": "創作者",
+    "delCommit": "刪除評論",
+    "placeholder": "新增留言",
+    "author": "只有影片創作者可以刪除留言哦~",
+    "delTips": "留言刪除成功，重新載入頁面更新留言區"
+  },
+  "emojiCustom": {
+    "unlock": "解鎖",
+    "getEmoji": "獲取表情符號",
+    "getAllEmoji": "獲得全部表情符號",
+    "howGet": "如何獲得 Voepa 專屬全套 emoji",
+    "getEmojiTips": "贈送 Voepa 禮物票累計達到 100 張，即可獲得 Voepa 專屬表情包\"Epamoji\"的全套表情。"
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "play": {
+    "focus": "Follow",
+    "focused": "Following",
+    "focus_num": "followers",
+    "focus_num_": "follower",
+    "forbid_follow": "Can't follow yourself",
+    "go_play": "Go play",
+    "recommend": "Suggested videos",
+    "shareTo": "Share to:",
+    "shareHref": "Share video link:",
+    "shareCopy": "Copy",
+    "popTask": "Watch videos and get POP!",
+    "popbanner1": "Watch videos and get POP",
+    "popbanner2": "Original and trending videos can double the acquisition speed",
+    "share": "Share",
+    "inform": "Report",
+    "copySuccess": "Copied",
+    "shareLink": "Share link",
+    "cancel": "Cancel",
+    "continue": "Proceed",
+    "informVideo": "Report video",
+    "time": "Selected timestamp",
+    "placeholder": "Please provide detailed information",
+    "timeTips": "The timestamp you selected exceeds the length of the video, please re-enter",
+    "tips1": "COS.TV staff reviews flagged videos and users 24/7 to determine if they violate the Community Guidelines. Accounts that violate the Community Guidelines will be penalized, and the account may be terminated if the circumstances are severe or repeated.",
+    "tips2": "We will remove content that violates our Community Guidelines.",
+    "thanksToShare": "Thank you for your report.",
+    "problem": "Problem",
+    "close": "Close",
+    "btnMore": "More >",
+    "typeList": [
+      {
+        "text": "Pornographic content"
+      },
+      {
+        "text": "Violent or offensive content"
+      },
+      {
+        "text": "Hatred or insulting content"
+      },
+      {
+        "text": "Harmful or dangerous action"
+      },
+      {
+        "text": "Child abuse"
+      },
+      {
+        "text": "Terrorism promotion"
+      },
+      {
+        "text": "Spam or misleading content"
+      },
+      {
+        "text": "Violates my right"
+      },
+      {
+        "text": "Subtitle problem"
+      },
+      {
+        "text": "Other problem"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "Description",
+    "playCount": "{0} views",
+    "loginTips": "Earn POP",
+    "popGuideDesc01": "Watch videos to get POP!",
+    "popGuideDesc02": "Trending videos ",
+    "popGuideBtn": "Start",
+    "popRewardFinished": "Done",
+    "popDescTitle": "Rule description",
+    "popDesc01": "1. Users can log in and watch livestream or videos, and get POP rewards every minute.",
+    "popDesc02": "2. You can get up to {0} POP every day. Trending videos can double the acquisition speed. If the POP acquisition limit is not reached on the day, users can not accumulate POP on the next day. Acquisition limit is reset at 00:00 (UTC) every day.",
+    "popDesc03": "3. If there is a problem regarding timing, please refresh the page or try other browsers.",
+    "processStatePaused": "Paused",
+    "showMore": "Show More",
+    "showLess": "Show Less"
+  },
+  "playComment": {
+    "commit": "Leave a comment",
+    "loginTip": "(You can leave comments after logging in.)",
+    "wordsError": "Comment shouldn't exceed 300 characters",
+    "inputNum": "{inputNum}/300 characters",
+    "enterCommit": "Enter comment",
+    "sending": "Sending",
+    "send": "Send",
+    "cancel": "Cancel",
+    "commitNum": "{total} comments",
+    "orderHot": "By popularity",
+    "orderDate": "By time",
+    "send_s": "{num} seconds ago",
+    "send_s_": "{num} second ago",
+    "send_m": "{num} minutes ago",
+    "send_m_": "{num} minute ago",
+    "send_h": "{num} hours ago",
+    "send_h_": "{num} hour ago",
+    "send_d": "{num} days ago",
+    "send_d_": "{num} day ago",
+    "send_w": "{num} weeks ago",
+    "send_w_": "{num} week ago",
+    "send_mo": "{num} months ago",
+    "send_mo_": "{num} month ago",
+    "send_y": "{num} years ago",
+    "send_y_": "{num} year ago",
+    "justNow": "Just now",
+    "replay": "Reply",
+    "wordsLimit": "Comment shouldn't exceed 300 characters",
+    "more": "Click to read more comments",
+    "slider": "Close",
+    "no_more_commit": "No more comments~",
+    "no_commit": "There are no comments yet. Leave the first comment!",
+    "replay_all": "Reply all",
+    "commit_success": "Comment succeeded",
+    "lookComments": "View {0} replies",
+    "sliderComments": "Hide {0} replies ",
+    "lookComment": "View reply",
+    "sliderComment": "Hide reply",
+    "deleteLayerTips": "After deleting the comment, all the replies under this comment will be deleted too",
+    "deleteSuccess":"Comment successfully deleted",
+    "commentsNumbers":"Replies",
+    "commentTips": "Let’s chat! Leave a comment and tell everyone what you think ~",
+    "rreply": "{0} comments"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes, be a snake that earns coins using eating power. In this passion killing game, will you be the strongest snake who can devour all prey? Move the snake to win the game, and collect all digital assets along your road.",
+      "detail_description": "HyperSnakes is another Hyper series game created by MixMarvel team after HyperDragons. It is also the first global multiplayer real-time competitive game in the blockchain. The game is based on blockchain technology, with Snake as the core gameplay, players can match other players around the world to fight and pick up coins from random and changeable battlefields. Players can not only control the snakes to dodge other competitors, but also prevent their snakes from being swallowed by poison circles. In each battle, only one player will win and get an enviable grand reward. Other players of the game will also have corresponding valuable gifts. You can accumulate wealth while enjoying the game."
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "First Multi-Blockchain Collectible Game With Adventures",
+      "detail_description": "Blockchain Cuties is the new collectible crypto game with adventures where you get to play with puppies, lizards, bear cubs, cats and other real and fantasy creatures alike. Each cutie is unique and 100% belongs to you. You get to collect them, breed them, test their skills in battles, arm them and even level them up! In-game economy lets you trade cuties using smart contracts on Ethereum, EOS and TRON blockchains. Each cutie, which is a non-fungible, can be transferred or sold to other players just like a regular cryptocurrency."
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Cryptons” are adorable, collectible and reproducible pigs living on Ethereum network. Get your own and join the cutest Crypt-Oink world now!",
+      "detail_description": "Crypt-Oink is Japan’s first blockchain game on Ethereum network featuring crypto-collectibles called Cryptons that can be bred, collected and traded. Over 3 trillion of these pig-like creatures exist in various colors and patterns. Cryptons can also be trained and strengthed to improve your odds in Gran Ton Rismo, Crypt-Oink’s 3D racing game."
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "Please hold on, Livestream in preparation！",
+    "preparing": "Please hold on, Livestream in preparation！",
+    "error": "Please hold on, Livestream in preparation！",
+    "endedToday": "Today's livestream is over. Thank you for your watching!",
+    "allEnded": "The events have ended, thank you for watching!"
+  },
+  "ticket": {
+    "voteBoxInfo": "<span>{persons}</span> people, <span>{tickets}</span> Gifting Votes are sent",
+    "cosNum": "COS:{0}",
+    "ticketsNum": "Gifting Votes: {0}",
+    "ticketsNumUnify": "Gifting Votes: {0}",
+    "placeholderTicketCount": "Quantity",
+    "placeholderComment": "Leave a comment... There will be a Gifting Medal for the comment shown.",
+    "likeTips": "Like the creator's video when rewarding",
+    "btnDoGiftVote": "Reward",
+    "errorTipsExceed": "Out of balance",
+    "tipsHowToGetCos": "How to get COS",
+    "voteBoxDesc": "Buy a Gifting Vote to participate in the reward. Express your love for the video and support the creator!",
+    "textMoreDetail": "More details",
+    "moreContentDesc01": "Express your love for the video and support the creator! After giving the Gifting Votes, you will be able to enjoy unique permissions on the video page! Including:",
+    "moreContentDesc02": "1. participation in the Gifting List and Gold Seats Competition",
+    "moreContentDesc03": "2. exclusive medals for your comments in the comment section",
+    "moreContentDesc04": "3. sincere appreciation from the creator",
+    "moreContentDesc05": "In addition, the creator will receive most of the proceeds from your purchases.",
+    "buyGiftVoteTitle": "Purchase of Gifting Votes",
+    "CosBalance": "Current COS balance:",
+    "giftVoteBalance": "Current number of Gifting Votes:",
+    "buyText": "Purchase:",
+    "buyBtn": "Purchase",
+    "expectedCost": "Costs:",
+    "buyList": "Purchase History",
+    "spendMoneySymbol": "Costs:",
+    "spendMoney": "Costs",
+    "spendCos": "{0}COS",
+    "buyAmountSymbol": "Purchased quantity:",
+    "buyAmount": "Purchased quantity",
+    "buyTimeSymbol": "Time:",
+    "buyTime": "Time",
+    "loadMore": "View more records",
+    "buyGiftVote": "Purchase Gifting Votes",
+    "giftVote": "Gifting Votes",
+    "giftVoteHeader": "Gifting Votes",
+    "giftVoteReply": "Gifting Votes Responds",
+    "confirm": "Confirm",
+    "replyHint": "Set up a “thank-you message” to users who send Gifting Votes to you. Users will receive your “Thank-You message” sending Gifting Votes to your video.PS: If you do not customize the “Thank-You message”, the default note will be: Thank you for your support ~",
+    "replyLimitMax": "Upper limit {0} characters",
+    "replyLimitMin": "Lower limit {0} characters",
+    "setReplySuccess": "Successful setup",
+    "giftVotebuyList": "Gifting Vote purchase record",
+    "notSufficientFunds": "Insufficient balance",
+    "buySuccess": "Purchase succeeded",
+    "stayTunedFor": "Gold Seats Competition is coming soon, stay tuned!",
+    "numberOfGiftGiving": "{0} people rewarded",
+    "releaseDate": "{0} posts",
+    "exclusiveThankYouHeart": "Gift giver exclusive gift medal “Heart of Appreciation”",
+    "errorTipsVoteSelf": "You can not reward your own content.",
+    "occupyList": "Join Now!",
+    "occupyListText": "Join Now! Forestall to experience the honor of Gifting Vote",
+    "participateList": "Compete the Gold Seats",
+    "waiting":"Leave the seat of honour open",
+    "moreList": "more",
+    "participationAndLook": "Participate in the reward Check out the ranking",
+    "rankingListLearnMoreA": "Here is the ranking of users who participated in the reward for this video~",
+    "rankingListLearnMoreB": "The top ten will be announced. When the number of gifting votes is the same, they will be sorted by time.",
+    "totalMoney": "Total asset {0}",
+    "totalMoneyApproximate": "Approximately：{0}Vest",
+    "bonusSettlement": "Settlement of accounts：{money}/about {vest}Vest",
+    "settlementDate": "Settlement of time：{0}",
+    "settlementBonus": "Reward (settled): {0}",
+    "afterSettlement": "Settle after {0}",
+    "giftMoney": "Gifting vote revenue：{money}/ about {vest}Vest",
+    "btnSubscribe": "Subscribe",
+    "btnSubscribed": "Subscribed",
+    "giftReceivedSum": "Gifting vote history：{0}",
+    "giftEmptyTips1": "No earnings in the last 7 days",
+    "giftEmptyTips2": "No revenue history for the selected date",
+    "tipsSelectDate": "Choose the date:",
+    "btnReset": "Reset",
+    "paginationTotal": "Total {total} records",
+    "videoRewardsLeader": "Video rewards leader",
+    "giftReceivedThUser": "Giver",
+    "giftReceivedThAmount": "Number of gifting votes",
+    "giftReceivedThTime": "Time",
+    "giftReceivedThVideo": "Videos",
+    "alreadySettled": "Settled",
+    "remainingSettlementPeriod": "Remaining settlement period : {0}",
+    "rankList": "leaderboard"
+  },
+  "sevenDays": "Recent 7 days",
+  "allDays": "Total Gifting Votes",
+  "autoplay": {
+    "nextVideo":"Will play another video by the creator",
+    "recommend":"Recommendations",
+    "replay":"Replay",
+    "nextPlay":"Up Next:",
+    "willPlay":"Up Next:",
+    "immediatelyPlay":"Play Now",
+    "cancel":"Cancel",
+    "autoplay":"AutoPlay",
+    "moreTips":"When the AutoPlay is on, we’ll automatically play another video based on your viewing history"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "Advertising or spam comment"
+      },
+      {
+        "text": "Sexual content"
+      },
+      {
+        "text": "Child abuse"
+      },
+      {
+        "text": "Violence or hateful speech"
+      },
+      {
+        "text": "Harassment or bullying"
+      }
+    ],
+    "delete": "Hide",
+    "creator": "Creator",
+    "delCommit": "Hide comment",
+    "placeholder": "Leave a comment...",
+    "author": "Only the original creator can hide the comments",
+    "delTips": "The comment has been hidden successfully. Please refresh the page."
+  },
+  "emojiCustom": {
+    "unlock": "Unlock ",
+    "getEmoji": "Unlock stickers",
+    "getAllEmoji": "Unlock all stickers",
+    "howGet": "How to unlock all stickers in \"Epamoji\"",
+    "getEmojiTips": "Send 100 Gifting Votes or more in total to Voepa, to unlock all stickers in \"Epamoji\""
+  }   
+}

@@ -1,0 +1,16 @@
+{
+  "enter": "Centro de ayuda",
+  "title": "Preguntas frecuentes",
+  "title_tip": "¿Algún problema no resuelto? Póngase en contacto con nosotros a través de: <br /> <a href='mailto:service@contentos.io'> service@contentos.io </a> <br /> o únase a nuestra comunidad para más ayuda.",
+  "category1": "Preguntas frecuentes",
+  "category2": "Cuenta",
+  "category3": "Retiros",
+  "category4": "Seguridad",
+  "feedback_title": "¿Es útil este artículo?",
+  "yes": "Sí",
+  "no": "no",
+  "no_title": "Gracias por enviar sus comentarios",
+  "submit": "Enviar",
+  "thanks2": "Gracias por sus comentarios",
+  "wrong_tip": "Ingrese contenido válido"
+}

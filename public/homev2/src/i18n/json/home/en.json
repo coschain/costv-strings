@@ -1,0 +1,103 @@
+{
+  "blockTitleCardLIst": "Play around with COS.TV",
+  "btnEnterLivePage": "Enter Broadcast",
+  "btnCheckBannerDetail": "Learn More",
+  "announcement": {
+    "banner_a": "Open treasure chests every day,  ",
+    "banner_b": "Win <span class='strong'>BTC</span> and <span class='strong'>COS</span>",
+    "banner_c":"Join POP treasure hunt. ",
+    "banner_d":"Play the one-armed bandit and win <span class='strong'>COS</span>！",
+    "banner_e":"Play the one-armed bandit",
+    "banner_f":"and win <span class='strong'>COS</span>！",
+    "banner_g1":"POP Hunt for the limited edition",
+    "banner_g2":"<span class='strong white'>COS designed Crypton by Crypt-Oink!</span>",
+    "banner_g_":"<span class='strong white'>POP Hunt for the limited edition COS designed Crypton by Crypt-Oink!</span>",
+    "questionnaire": "We are now collecting user feedback! Fill out the questionnaire and win 50COS!",
+    "questionnaire_mobile": "We are now collecting user feedback!<br />Fill out the questionnaire and win 50COS!",
+    "nps": "<span class='blod'>Take our survey, </span>and 500 participants will win five Gifting Votes",
+    "nps_m": "<span class='blod'>Take our survey</span><br>and 500 participants will win five Gifting Votes"
+  },
+  "sign":{
+    "a":"Sign in every day,",
+    "b":"Win ETH and POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Crypt-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Harmony Puzzle"
+    }
+  ],
+  "cards":[
+    {
+      "text": "Earn COS"
+    },
+    {
+      "text": "Blockchain Explorer"
+    },
+    {
+      "text": "What is <span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+  "go": "GO",
+  "category0":"Popular DApp",
+  "category5": "Original content",
+  "category1":"Popular Content",
+  "category2":"Game",
+  "category3":"Hunk",
+  "category4":"Talent",
+  "category7":"Our blockchain pick",
+  "category8":"My viewing history",
+  "category9":"my subscription",
+  "category10":"Recommended Videos",
+  "category11":"Fun",
+  "category12":"Cute Pets",
+  "category13":"Music",
+  "category14":"Liveme Featured",
+  "categorySp":"#Athomechallenge",
+  "categorySp2":"Cute Pets",
+  "more":"More",
+  "operation":"Learn More",
+  "tagAll":"All",
+  "textComing": "Coming soon",
+  "history": {
+    "today": "today",
+    "sevenDay": "Nearly seven days",
+    "oneMonth": "Nearly thirty days",
+    "oneYear": "Nearly a year",
+    "longer": "longer",
+    "removeAll": "Clear All",
+    "novicePromptDeletion": "Slide the video area to the left to delete the video.",
+    "noSubscribe": "You haven't paid attention to the creator yet. Come back later.",
+    "nullSubList": "The creators you care about have not released the work yet.",
+    "nullHistory": "You haven't watched any videos yet, come back after watching.",
+    "deleteHistoryAll": "Do you want to clear all history?",
+    "yes": "Yes",
+    "no": "no"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notification Center",
+    "noMoreNotice": "No more notice.",
+    "comment": "Comment",
+    "aboutComment": "The comments about the video \"{0}\"",
+    "commentNull": "The comment is deleted"
+  }
+}

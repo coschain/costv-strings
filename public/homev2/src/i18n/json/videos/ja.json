@@ -1,0 +1,298 @@
+{
+  "play": {
+    "focus": "フォロー",
+    "focused": "フォロー済み",
+    "focus_num": "人をフォロー済み",
+    "forbid_follow": "自分はフォローできません",
+    "go_play": "プレイ",
+    "recommend": "おすすめ関連動画",
+    "shareTo": "シェアする:",
+    "shareHref": "動画リンク:",
+    "shareCopy": "コピー",
+    "popTask": "動画を見てPOPを獲得しよう",
+    "popbanner1": "動画を見てPOPを獲得",
+    "popbanner2": "オリジナル及び人気動画は収益を倍増させます",
+    "share": "シェアする",
+    "inform": "報告する",
+    "copySuccess": "コピー済み",
+    "shareLink": "リンクをシェア",
+    "cancel": "キャンセル",
+    "continue": "続ける",
+    "informVideo": "動画を報告する",
+    "time": "選んだ動画のタイムスタンプ",
+    "placeholder": "他の詳しい情報を提供する",
+    "timeTips": "選んだタイムスタンプは動画の長さを超えています。もう一度ご入力ください。",
+    "tips1": "COS.TVは24時間365日常に報告のあったコンテンツ及びユーザーの審査を行います。規約に違反しているとみなされたコンテンツ、及びユーザーは処罰を受け、違反がひどい場合や違反を繰り返した場合はアカウントを凍結します。",
+    "tips2": "こちらのコンテンツが規約に違反していると判断された場合削除されます。",
+    "thanksToShare": "報告ありがとうございました",
+    "problem": "問題",
+    "close": "閉じる",
+    "btnMore": "詳しく見てみる",
+    "typeList": [
+      {
+        "text": "ポルノコンテンツ"
+      },
+      {
+        "text": "暴力的または不快なコンテンツ"
+      },
+      {
+        "text": "差別的、侮辱的なコンテンツ"
+      },
+      {
+        "text": "有害な危険行為の含まれるコンテンツ"
+      },
+      {
+        "text": "児童虐待"
+      },
+      {
+        "text": "テロリズム扇動"
+      },
+      {
+        "text": "不適切、反教育的コンテンツ"
+      },
+      {
+        "text": "権利侵害"
+      },
+      {
+        "text": "字幕の問題"
+      },
+      {
+        "text": "他の問題"
+      }
+    ]
+  },
+  "playVideo": {
+    "desc": "コンテンツ紹介",
+    "playCount": "{0} 回再生",
+    "loginTips": "POPを獲得",
+    "popGuideDesc01": "動画を見てPOPを貯めよう！",
+    "popGuideDesc02": "人気んコンテンツは二倍のPOPを獲得",
+    "popGuideBtn": "スタート",
+    "popRewardFinished": "已上限",
+    "popDescTitle": "規約説明：",
+    "popDesc01": "1.ユーザーはサインイン後に動画やライブを見ると、毎分ごとにPOPを獲得可です",
+    "popDesc02": "2.毎日最高で {0}POP獲得可能です。人気動画はPOPのたまる速度が二倍になります。当日中に上限に達しなかったPOPは、次の日の上限には加算されません。毎日UTC0時に上限がリセットされます。",
+    "popDesc03": "3.タイム計測が正常行われない場合、フィードをリフレッシュするか、他のエクスプローラに変更してお試しください。",
+    "processStatePaused": "Paused",
+    "showMore": "開く",
+    "showLess": "閉じる"
+  },
+  "playComment": {
+    "commit": "コメントを残す",
+    "loginTip": "(サインインした後コメントを残すことができます)",
+    "wordsError": "コメントの上限は300文字です",
+    "inputNum": "{inputNum} / 300文字",
+    "enterCommit": "コメントを入力",
+    "sending": "送信中",
+    "send": "公開する",
+    "cancel": "キャンセル",
+    "commitNum": "{total} つのコメント",
+    "orderHot": "人気順",
+    "orderDate": "時間順",
+    "send_s": "{num}秒前",
+    "send_m": "{num}分前",
+    "send_h": "{num}時間前",
+    "send_d": "{num}日前",
+    "send_w": "{num}週間前",
+    "send_mo": "{num}ヶ月前",
+    "send_y": "{num}年前",
+    "justNow": "さっき",
+    "replay": "返信",
+    "wordsLimit": "コメントの上限は300文字です",
+    "more": "さらに多くのコメントを見る",
+    "slider": "閉じる",
+    "no_more_commit": "コメントは以上です~",
+    "no_commit": "コメントがまだありません、初めてのコメントをする~",
+    "replay_all": "全てに返信",
+    "commit_success": "コメント成功",
+    "lookComments": "View {0} replies",
+    "sliderComments": "Hide {0} replies ",
+    "lookComment": "View reply",
+    "sliderComment": "Hide reply",
+    "deleteLayerTips": "After deleting the comment, all the replies under this comment will be deleted too",
+    "deleteSuccess":"Comment successfully deleted",
+    "commentsNumbers":"Replies",
+    "commentTips": "Let’s chat! Leave a comment and tell everyone what you think ~",
+    "rreply": "{0} comments"
+  },
+  "game_data": [
+    {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes、食べる力を使ってコインを稼ぐヘビになろう。この情熱的な必殺ゲームで、あらゆる餌食を貪り食う最強のヘビになれるのか？ヘビを動かしてゲームに勝ち、進行しながらすべてのデジタル資産を集めよう。",
+      "detail_description": "HyperSnakesは、MixMarvelチームがHyperDragonsに続いて制作した新たなハイパーシリーズゲームです。これは、ブロックチェーンで展開する史上初の世界的なリアルタイム・マルチプレイヤー競争ゲームでもあります。このゲームはブロックチェーン技術に基づき、ヘビ達を中心に、プレイヤーは世界中のライバルに対抗して、ランダムで変更可能な戦場からコインを集めることができます。プレイヤーは、ヘビをコントロールして競争相手をかわすだけでなく、ヘビが毒の円に飲み込まれないよう阻止することも可能です。各戦闘で勝つのはプレイヤー1名のみで、誰もが羨む大きな報酬を獲得します。他のプレイヤーにも、結果に応じて価値あるギフトをご用意。ゲームを楽しみながら、富を蓄えることができるわけです。"
+    },
+    {
+      "id": "2",
+      "name": "Blockchain Cuties",
+      "description": "初めてのマルチチェーンコレクションアドベンチャーゲーム",
+      "detail_description": "Blockchain Cutiesは、ブロックチェーン技術を使用した最新のコレクションアドベンチャーゲームです。 このゲームでは、子犬、トカゲ、クマの赤ちゃん、猫、その他実在する動物、またはファンタジーの動物と遊ぶことができます。 あなたのペットは唯一無二であなたになつきます。 ゲームでは、ペットを集めることができるだけでなく、訓練することもできます。 彼らのバトルを通しスキルを高め、装備を付けて徐々に成長させましょう！ ゲームでは、ETH、EOS、またはTRONを使用してペットを交換できます。 すべてのキュートでかけがえのないペットは、暗号通貨のように他のプレイヤーに販売または譲渡することができます。"
+    },
+    {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, how high can you go? This number game may be easy to learn, but is hard to master with each level becoming more addictive. Compete to get to the top of the leaderboard!",
+      "detail_description": "Puzzle is a global competitive game on blockchain created by Harmony. Players stake Harmony tokens in each round and earn more by winning levels and climbing the world leaderboard. You can play many iterations of levels to test your mettle against the strongest players in the world. Each round is stored on the Harmony blockchain to verify moves and winners. Player can earn tokens while enjoying unlimited gameplay."
+    },
+    {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "「くりぷ豚」はイーサリアム上で繁殖可能な、とても可愛いいコレクティブルアセットです。あなただけのトンを獲得して、クリプトンの世界を楽しみましょう！",
+      "detail_description": "「くりぷ豚」は日本初のイーサリアム上のブロックチェーンゲームです。ゲームの中のトン(NFT) は繁殖、ユーザー間取引が可能で、トンの色とデザインの組み合わせは3兆種類を超えます。ユーザーは自分だけのトンを育成可能で、訓練によりトンの能力を上げることでレースでの勝率を上げることが可能です。"
+    }
+  ],
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "ライブ配信準備中、もうしばらくお待ちください！",
+    "preparing": "ライブ配信準備中、もうしばらくお待ちください！",
+    "error": "ライブ配信準備中、もうしばらくお待ちください！",
+    "endedToday": "本日のライブ配信は終了しました！ご覧いただきありがとうございました!",
+    "allEnded": "当該会場のイベントはすでに終了しました。ご視聴ありがとうございました！"
+  },
+  "ticket": {
+    "voteBoxInfo": "既に<span>{persons}</span>人の方が，合計<span>{tickets}</span>プレゼントしました。",
+    "cosNum": "COS:{0}",
+    "ticketsNum": "Gifting Votes:{0}",
+    "ticketsNumUnify": "Gifting Votes: {0}",
+    "placeholderTicketCount": "購入数",
+    "placeholderComment": "コメントを残しましょう、コメントに勲章が表示されます！",
+    "likeTips": "プレゼントと同時にコメントも残そう！",
+    "btnDoGiftVote": "ギフトプレゼント",
+    "errorTipsExceed": "残高不足",
+    "tipsHowToGetCos": "COSの獲得方法",
+    "voteBoxDesc": "Gifting Votesを購入しプレゼントしよう！クリエイターへのサポートになります！",
+    "textMoreDetail": "更に詳しく",
+    "moreContentDesc01": "ギフトプレゼントを送信後、動画再生画面で特別な権限が与えられます",
+    "moreContentDesc02": "①ギフトプレゼントランキングへの参加、及びゴールドシート競争への参加",
+    "moreContentDesc03": "②コメント欄のコメントキャップにギフトプレゼント勲章が付与",
+    "moreContentDesc04": "③クリエイターからの感謝",
+    "moreContentDesc05": "その他、クリエイターはユーザー様がGifting Votes購入のために支払った費用の中から、ほとんどの収益を獲得します。",
+    "buyGiftVoteTitle": "Gifting Votes購入",
+    "CosBalance": "COS残高:",
+    "giftVoteBalance": "保有Gifting Votes数:",
+    "buyText": "購入:",
+    "buyBtn": "購入",
+    "expectedCost": "購入する",
+    "buyList": "購入記録",
+    "spendMoneySymbol": "費用:",
+    "spendMoney": "費用",
+    "spendCos": "{0}COS",
+    "buyAmountSymbol": "購入量:",
+    "buyAmount": "購入量",
+    "buyTimeSymbol": "時間:",
+    "buyTime": "時間",
+    "loadMore": "更に多くの記録を見る",
+    "buyGiftVote": "Gifting Votes購入",
+    "giftVote": "Gifting Votes",
+    "giftVoteHeader": "Gifting Votes",
+    "giftVoteReply": "Gifting Votes回復",
+    "confirm": "確認",
+    "replyHint": "Set up a “thank-you message” to users who send Gifting Votes to you. Users will receive your “Thank-You message” sending Gifting Votes to your video.PS: If you do not customize the “Thank-You message”, the default note will be: Thank you for your support ~",
+    "replyLimitMax": "感謝状の文字数は{0}以下です",
+    "replyLimitMin": "感謝状の文字数は{0}以上です",
+    "setReplySuccess": "設置完了",
+    "giftVotebuyList": "ギフッチケット購入記録",
+    "notSufficientFunds": "残高不足",
+    "buySuccess": "購入成功",
+    "stayTunedFor": "ゴールドシートにご期待ください！",
+    "numberOfGiftGiving": "{0}人がプレゼントしました",
+    "releaseDate": "{0}人配布",
+    "exclusiveThankYouHeart": "プレゼントを行った方には“感谢の心”勲章が送られます",
+    "errorTipsVoteSelf": "ご自身の動画にギフトプレゼントは行えません！",
+    "occupyList": "第一コメントを投稿する",
+    "occupyListText": "一人目のコメント投稿者になろう！",
+    "participateList": "ランキングに参加する",
+    "waiting":"待つ",
+    "moreList": "さらに表示",
+    "participationAndLook": "Gifting Voteに参加　ランキングを見る",
+    "rankingListLearnMoreA": "動画に対するGifting Vote参加ランキングです！",
+    "rankingListLearnMoreB": "ランキングはtop10を表示しています。Gifting Vote数が同じ場合、時間順に前に表示されます。",
+    "totalMoney": "合計リワードは約{0}",
+    "totalMoneyApproximate": "约为：{0}Vest",
+    "bonusSettlement": "決算リワード：{money}/約 {vest}Vest",
+    "settlementDate": "決算時間：{0}",
+    "settlementBonus": "Reward (settled): {0}",
+    "afterSettlement": "{0} 後決算",
+    "giftMoney": "Gifting Vote 収益：{money}/約 {vest}Vest",
+    "btnSubscribe": "閲覧",
+    "btnSubscribed": "閲覧済み",
+    "giftReceivedSum": "Gifting Vote 収益記録：{0}",
+    "giftEmptyTips1": "直近7日の収益記録",
+    "giftEmptyTips2": "選択した日付に収益記録はありません",
+    "tipsSelectDate": "日付を選択：",
+    "btnReset": "再設定",
+    "paginationTotal": "合計 {total} つの記録",
+    "videoRewardsLeader": "ビデオリワードリーダー",
+    "giftReceivedThUser": "Gifting Voteユーザー",
+    "giftReceivedThAmount": "Gifting Vote数",
+    "giftReceivedThTime": "時間",
+    "giftReceivedThVideo": "動画",
+    "alreadySettled": "決算済み",
+    "remainingSettlementPeriod": "決算まで残り：{0}",
+    "rankList": "ランキング"
+  },
+  "sevenDays": "最近7日",
+  "allDays": "総数",
+  "autoplay": {
+    "nextVideo":"Will play another video by the creator",
+    "recommend":"Recommendations",
+    "replay":"Replay",
+    "nextPlay":"Up Next:",
+    "willPlay":"Up Next:",
+    "immediatelyPlay":"Play Now",
+    "cancel":"Cancel",
+    "autoplay":"AutoPlay",
+    "moreTips":"When the AutoPlay is on, we’ll automatically play another video based on your viewing history"
+  },
+  "deleteCommit": {
+    "typeList": [
+      {
+        "text": "Advertising or spam comment"
+      },
+      {
+        "text": "Sexual content"
+      },
+      {
+        "text": "Child abuse"
+      },
+      {
+        "text": "Violence or hateful speech"
+      },
+      {
+        "text": "Harassment or bullying"
+      }
+    ],
+    "delete": "Hide",
+    "creator": "Creator",
+    "delCommit": "Hide comment",
+    "placeholder": "Leave a comment...",
+    "author": "Only the original creator can hide the comments",
+    "delTips": "The comment has been hidden successfully. Please refresh the page."
+  },
+  "emojiCustom": {
+    "unlock": "Unlock ",
+    "getEmoji": "Unlock stickers",
+    "getAllEmoji": "Unlock all stickers",
+    "howGet": "How to unlock all stickers in \"Epamoji\"",
+    "getEmojiTips": "Send 100 Gifting Votes or more in total to Voepa, to unlock all stickers in \"Epamoji\""
+  }
+}

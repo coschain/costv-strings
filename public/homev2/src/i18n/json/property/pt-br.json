@@ -1,0 +1,177 @@
+{
+  "common": {
+    "balance": "Saldo",
+    "transfer": "Transferir",
+    "widthdraw": "Retirada",
+    "myBill": "Transações"
+  },
+  "home": {
+    "myWalletAddress": "Endereços de carteira"
+  },
+  "transfer": {
+    "usableBalance": "Disponível",
+    "freeze": "Indisponível",
+    "receivePersonId": "UID do destinatário",
+    "transferNumber": "Valor",
+    "confirmeTransfer": "Confirmar",
+    "confirmeTipsDescription": "Observações",
+    "transferTips1": "1. As COS irão para a conta do destinatário em tempo real depois de clicar em \"Confirmar\". Esta operação não pode ser cancelada, portanto, certifique-se de fornecer um UID (número do destinatário) correto.",
+    "transferTips2": "2. O montante não pode ser maior que o seu saldo disponível (saldo disponível = saldo - valor congelado (que está indisponível))",
+    "transferTips3": "3. Nós só apoiamos a transferência para uma outra conta da Contentos e não cobramos taxas",
+    "transferTo": "Transferência para",
+    "transferMoney": "Valor",
+    "makeSureTransferMoney": "Confirme as informações e insira o código de verificação",
+    "sendCodeTo": "Enviar para",
+    "returnModify": "Voltar",
+    "codeSend": "Enviar",
+    "againSend": "Reenviar",
+    "inputAddressEmpty": "UID não pode estar vazio",
+    "inputAddressError": "UID Inválido",
+    "inputAddressSame": "Não é possível transferir para você mesmo, por favor, insira novamente um UID",
+    "inputAmountEmpty": "Insira um valor",
+    "inputAmountError": "Por favor insira um valor válido, apenas dígitos permitidos",
+    "inputAmountLarge": "Saldo insuficiente, por favor, reconfirmar o montante a transferir",
+    "transferSubmit5000": "Você deve realizar o processo de verificação (KYC) na COS.TV antes.",
+    "transferSubmit5029": "Muitos pedidos, tente novamente mais tarde",
+    "transferSubmit5039": "Saldo insuficiente, por favor, reconfirmar o montante a transferir",
+    "transferSubmit5045": "Código de verificação errado, por favor, confirme novamente",
+    "transferSubmit5046": "Você atingiu seu limite de transferência",
+    "transferSubmit5047": "Você não pode exceder o valor máximo de transferência",
+    "transferSubmit5051": "O valor da transferência não deve ser inferior a 1 COS, por favor, tente novamente",
+    "transferSubmit5052": "UID inválido, por favor, confirme esse número do destinatário",
+    "transferSubmitWaringError": "Transferência falhou, por favor tente novamente mais tarde",
+    "kycTipsForClient": "Para realizar transferências, é necessário que você tenha realizado a verificação da sua conta (KYC). Você deve realizar o processo de verificação (KYC) na COS.TV antes de poder transferir."
+  },
+  "widthdraw": {
+    "widthdrawAddress": "Endereço para retirada",
+    "widthdrawNumber": "Valor do Saque",
+    "sureWidthdraw": "Confirmar",
+    "widthdrawKnow": "Observações",
+    "widthdrawAddressError": "Endereço inválido, por favor, reinsira",
+    "widthdrawTips1": "1. Você só pode retirar COS uma vez por semana. Qualquer retirada adicional não estará disponível. Você deve esperar 7 dias depois da última retirada.",
+    "widthdrawTips2": "2. O montante não pode exceder o seu saldo disponível",
+    "widthdrawTips3": "3. É necessária uma pequena taxa para cada retirada",
+    "widthdrawTipsUsdt3": "3. Apenas se o saldo for > {num} USDT, você poderá sacar. Você precisa pagar {fee} USDT de taxa de transação para cada saque",
+    "widthdrawTips4": "4. A retirada será revista dentro de 48 horas (no caso de feriados, haverá um pequeno atraso). Enquanto sua retirada não é processada esse valor ficará indisponível (congelado).",
+    "widthdrawTo": "Retirar para",
+    "widthdrawMoney": "Valor",
+    "makeSureWidthdrawMonty": "Confirme as informações e insira o código de verificação",
+    "dropDownAddressEmpty": "O endereço está vazio, por favor, confirme novamente",
+    "dropDownAmountEmpty": "O valor está vazio, por favor, confirme novamente",
+    "dropDownDeduct": "Deduzir",
+    "dropDownPoundage": "Taxa",
+    "dropDownToTheAccount": "Chegada",
+    "addressNull": "Por favor, adicione um endereço de carteira para continuar",
+    "toAddAddress": "Adicionar agora",
+    "addressPlaceholder": "Por favor insira o endereço no formato BEP2 (Binance Chain)",
+    "addressPlaceholderUsdt": "São apenas aceitos os endereços que podem receber ERC-20 USDT",
+    "notePlaceholder": "Se o endereço for de uma corretora, não se esqueça de preencher o seu \"MEMO\". Se não precisar, por favor selecione 'Sem MEMO'.",
+    "noteMemoText": "Minha retirada não requer um \"MEMO\"",
+    "note": "MEMO",
+    "noteMobilePlaceholder": "Por favor, preencha o endereço da sua carteira na corretora.",
+    "kycTipsForClient": "Para realizar transferências, é necessário que você tenha realizado a verificação da sua conta (KYC). Você deve realizar o processo de verificação (KYC) na COS.TV antes de poder transferir."
+  },
+  "address": {
+    "wallateAddress": "Endereço da carteira:",
+    "addressNote": "Dê um nome a este endereço:",
+    "add": "Adicionar",
+    "addedCOSAddress": "Endereço",
+    "addTime": "Data de criação",
+    "addressDelete": "Excluir",
+    "addressNulled": "Você não adicionou um endereço de carteira",
+    "MAddedAddressNote": "Endereço / nome do endereço",
+    "MNoteName": "Coloque um nome ",
+    "MSave": "Salvar",
+    "MDeleteAddress": "Excluir este endereço de carteira?",
+    "MMonmentNo": "Agora Não",
+    "MMakeSure": "Sim",
+    "addressNull": "Por favor, digite o endereço da sua carteira",
+    "addressWrongETHAndCOS": "O endereço da carteira deve ter 42 caracteres e requer um final 0x. Por favor confirme o endereço digitado.",
+    "addressWrongBTC": "O endereço da carteira deve ter 26 a 34 caracteres. Por favor confirme o endereço digitado.",
+    "labelNull": "Introduza um nome (serve apenas para a sua referência). ",
+    "bannerintroduce": "Por favor, use a Trust Wallet para garantir a segurança do seu token COS e outros ativos digitais.",
+    "overReason1": "Por que o endereço é inválido?",
+    "overReason2": "Nós só suportamos o endereço no formato BEP2 da Binance agora, então o endereço no formato ETH será inválido.",
+    "overReason3": "Por favor, apague o endereço inválido e adicione um endereço da Binance Chain (BEP2).",
+    "bnbRegTips": "Insira um endereço correto no formato BEP2 da Binance.",
+    "overAddress": "Endereço inválido"
+  },
+  "bill": {
+    "transactionType": "Tipo",
+    "all": "Todos",
+    "income": "Receita",
+    "spending": "Despesa",
+    "transactionTime": "Período",
+    "coinType": "Token",
+    "transactionMoney": "Valor",
+    "transactionTitle": "Tipo de transação",
+    "billStatus": "Status",
+    "billSuccess": "Concluído",
+    "processing": "Em andamento",
+    "startPage": "Início",
+    "endPage": "Último",
+    "previousPage": "Anterior",
+    "nextPage": "Próximo",
+    "billNull": "Nenhum histórico de transações",
+    "mCoinType": "Moeda",
+    "clearTime": "Limpar",
+    "billOver": "Todo o conteúdo está exibido"
+  },
+  "kyc": {
+    "propertyKycTitle": "Por favor, faça a verificação da sua conta primeiro (KYC)",
+    "kycCertification": "Fazer a verificação de KYC",
+    "returnPreperty": "Voltar",
+    "whatIsKyc": "O que é o KYC?",
+    "KeepMyInformationSecure": "Como manter minhas informações seguras?",
+    "kycIntroduceInfo": "KYC é a abreviatura de Know Your Customers. É o processo para nos ajudar a entender e confirmar a verdadeira identidade dos usuários, e é amplamente utilizado no campo blockchain e até mesmo no setor financeiro e bancário. Depois do KYC, podemos proteger a segurança dos fundos dos usuários com mais eficiência e fornecer serviços mais convenientes.",
+    "InformationSecureInfo1": "As informações do KYC enviadas pelos usuários serão analisadas por um terceiro independente. As medidas de confidencialidade fornecidas por nossos parceiros de terceira parte estão em conformidade com as regulamentações nacionais de privacidade de informações e também estão em conformidade com as Normas Gerais de Proteção de Dados (GDPR) da UE e possuem um sistema de segurança de dados em nível de banco.",
+    "InformationSecureInfo2": "Dentro da Contentos, definimos estritamente parceiros que podem estar expostos a informações do usuário. Quando nossos parceiros no CMS ou outras cenas onde eles podem acessar as informações do usuário, registraremos todas as suas operações. E os dados do usuário são armazenados em nosso servidor de alta segurança para proteger contra danos ao sistema."
+  },
+  "transferSuccess": {
+    "congratulations": "Sucesso",
+    "successTips1": "1. A estimativa é que a transferência atinja a conta do destinatário em tempo real. Pode haver um atraso devido ao congestionamento da rede.",
+    "successTips2": "2. Se o destinatário não recebeu a transferência, por favor envie um email para service@contentos.io",
+    "lookMyBill": "Ver detalhes",
+    "returnHome": "Ir para a Página Inicial"
+  },
+  "widthdrawSuccess": {
+    "congratulations": "Sucesso",
+    "widthdrawSuccessTips1": "Suas retiradas serão revisadas dentro de 24 horas, e irão para sua conta em 48 horas (pode haver um pequeno atraso em caso de feriados).",
+    "widthdrawSuccessTips2": "Se demorar um grande período e você não tiver recebido seus fundos entre em contato conosco através do e-mail service@contentos.io"
+  },
+  "nft": {
+    "nftTitle": "Meu ERC721",
+    "nftToView": "Verificar",
+    "nftCheck1": "Todos",
+    "nftCheck2": "Retirada pendente",
+    "nftCheck3": "Retirando",
+    "nftCheck4": "Retirado",
+    "noNft": "Nenhum ativo NFT",
+    "noAssets": "Nenhum ativo em tal estado",
+    "typeList": {
+      "0": {
+        "text": "Todos"
+      },
+      "1": {
+        "text": "Retirada pendente"
+      },
+      "2": {
+        "text": "Retirando"
+      },
+      "3": {
+        "text": "Retirado"
+      }
+    }
+  },
+  "main": {
+    "wallet": "Carteira da MainNet",
+    "user": "Conta da COS.TV",
+    "insText": "A sua conta criada na COS.TV é usada para gerenciar seus ativos (centralizados) na COS.TV. Parte desses ativos são recebidos pelas suas atividades em jogos, recompensas e airdrops. Uma vez que o saldo chega a uma certa quantia, ele pode ser transferido para a carteira da MainNet ou sua carteira externa com suporte a BEP2 (Trust Wallet por exemplo).",
+    "toMain": "Carteira da MainNet (Recomendado)",
+    "toAccount": "Autorizar o endereço da MainNet (Recomendado)",
+    "goAccount": "Autorizar",
+    "banner1": "Devido à nossa recente transferência da blockchain ETH para BEP2, você também pode usar um endereço BEP2 para sacar os seus ativos",
+    "banner2": "Por favor visite a Binance.org ou baixe o app da Trust Wallet para criar uma carteira externa.",
+    "education": "Ver tutorial"
+  }
+}

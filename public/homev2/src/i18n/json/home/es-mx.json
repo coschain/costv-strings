@@ -1,0 +1,98 @@
+{
+  "blockTitleCardLIst": "Juegue con COS.TV",
+  "btnEnterLivePage": "Ingrese a la transmisión",
+  "btnCheckBannerDetail": "Infórmese",
+  "announcement": {
+    "banner_a": "Abre cofres del tesoro todos los días,  ",
+    "banner_b": "Gane <span class = 'strong'> BTC </span> y <span class = 'strong'> COS </span> ",
+    "banner_c": "Únase a la búsqueda del tesoro POP. ",
+    "banner_d":"Juegue al bandido de un solo brazo y gane <span class='strong'>COS</span>！",
+    "banner_e":"Juegue al bandido de un brazo",
+    "banner_f":"y gane <span class='strong'>COS</span>！",
+    "banner_g1":"Búsqueda POP para la edición limitada",
+    "banner_g2":"<span class='blanco fuerte '> COS diseñado Cripton por Cript-Oink!</span>",
+    "banner_g_":"<span class='blanco fuerte '> Búsqueda POP para la edición limitada COS diseñada Cripton por Cript-Oink!</span>",
+    "questionnaire": "¡Ahora estamos recibiendo comentarios de los usuarios! Complete el cuestionario y gane 50COS!",
+    "questionnaire_mobile": "¡Estamos recibiendo comentarios de los usuarios! <br /> Complete el cuestionario y gane 50COS!",
+    "nps": "<span class='blod'>Responda nuestra encuesta, </span> y 500 participantes ganarán cinco votos de regalo",
+    "nps_m": "<span class='blod'>Responda nuestra encuesta </span> <br> y 500 participantes ganarán cinco votos de regalo"
+  },
+  "sign":{
+    "a":"Regístrese todos los días,",
+    "b":"Gane ETH y POP"
+  },
+  "gameData":[
+    {
+      "id":"5",
+      "name": "Cript-Oinkくりぷ豚"
+    },
+    {
+    "id":"1",
+    "name": "HyperSnakes"
+    },
+    {
+      "id":"2",
+      "name": "Blockchain Cuties"
+    },
+    {
+      "id":"4",
+      "name": "Rompecabezas Harmony"
+    }
+  ],
+  "cards":[
+    {
+      "text": "Gane COS"
+    },
+    {
+      "text": "Explorador Blockchain"
+    },
+    {
+      "text": "Qué es <span class='o-f'>C</span>ontent<span class='o-f up'>os</span>"
+    },
+    {
+      "text": "PQR"
+    }
+  ],
+  "go": "GO",
+  "category0":"DApp popular",
+  "category5": "Contenido original",
+  "category1":"Contenido popular",
+  "category2":"Juego",
+  "category3":"Una parte",
+  "category4":"Talento",
+  "category7":"Nuestra selección de blockchain",
+  "category8":"Mi historial de visualización",
+  "category9":"mi suscripción",
+  "category10":"Vídeos recomendados",
+  "category11":"Diversión",
+  "category12":"Lindas mascotas",
+  "category13":"Música",
+  "category14":"Liveme Destacado",
+  "more":"More",
+  "operation":"Infórmese",
+  "tagAll":"Todo",
+  "textComing": "Pronto",
+  "history": {
+    "today": "hoy",
+    "sevenDay": "Casi siete días",
+    "oneMonth": "Casi treinta días",
+    "oneYear": "Casi un año",
+    "longer": "Más tiempo",
+    "removeAll": "Borrar todo",
+    "novicePromptDeletion": "Deslice el área de video hacia la izquierda para eliminar el video.",
+    "noSubscribe": "Todavía no le ha prestado atención al creador. Vuelva más tarde.",
+    "nullSubList": "Los creadores de su interés aún no han publicado el trabajo.",
+    "nullHistory": "Todavía no ha visto algún video, vuelva después de verlo.",
+    "deleteHistoryAll": "¿Quiere borrar todo el historial?",
+    "yes": "Si",
+    "no": "no"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Centro de notificaciones",
+    "noMoreNotice": "No más aviso."
+  }
+}

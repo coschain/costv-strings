@@ -1,0 +1,177 @@
+{
+    "common": {
+        "balance": "Số dư",
+        "transfer": "Chuyển khoản",
+        "widthdraw": "Rút tiền",
+        "myBill": "Hóa đơn của tôi"
+    },
+    "home": {
+        "myWalletAddress": "Địa chỉ ví tiền của tôi"
+    },
+    "transfer": {
+        "usableBalance": "Số dư khả dụng",
+        "freeze": "Hạn mức đóng băng",
+        "receivePersonId": "Contentos UID của người nhận",
+        "transferNumber": "Số tiền chuyển khoản",
+        "confirmeTransfer": "Xác nhận chuyển khoản",
+        "confirmeTipsDescription": "Những điều cần biết khi chuyển khoản",
+        "transferTips1": "1. Xác nhận chuyển khoản xong, bạn sẽ nhận được COS theo đúng hạn. Do không thể hủy hoạt động chuyển khoản sau khi xác nhận nên trước khi xác nhận chuyển khoản, bạn hãy xác nhận UID đã đúng hay chưa",
+        "transferTips2": "2. Số tiền chuyển khoản không được vượt quá số dư khả dụng của bạn (số dư khả dụng = số dư - hạn mức đóng băng)",
+        "transferTips3": "3. Chuyển khoản chỉ hỗ trợ chuyển đến tài khoản Contentos, chuyển khoản không mất phí hoa hồng",
+        "transferTo": "Chuyển khoản cho",
+        "transferMoney": "Số tiền chuyển khoản",
+        "makeSureTransferMoney": "Vui lòng xác nhận số tiền chuyển khoản, nếu số tiền này đã chính xác, vui lòng nhập mã xác minh.",
+        "sendCodeTo": "Mã xác minh đã gửi tới",
+        "returnModify": "Quay lại để thay đổi",
+        "codeSend": "Gửi",
+        "againSend": "Gửi lại",
+        "inputAddressEmpty": "Không được để trống UID, vui lòng nhập lại",
+        "inputAddressError": "Vui lòng nhập UID chính xác",
+        "inputAddressSame": "Không thể chuyển khoản cho chính mình, vui lòng nhập lại UID",
+        "inputAmountEmpty": "Vui lòng nhập số tiền chuyển khoản",
+        "inputAmountError": "Vui lòng nhập chính xác số tiền chuyển khoản, số tiền chuyển khoản phải là số",
+        "inputAmountLarge": "Số dư không đủ, vui lòng xác nhận lại số tiền chuyển khoản",
+        "transferSubmit5000": "Vui lòng xác nhận KYC trước",
+        "transferSubmit5029": "Vui lòng không gửi yêu cầu nhiều lần",
+        "transferSubmit5039": "Số dư không đủ, vui lòng xác nhận lại số tiền chuyển khoản",
+        "transferSubmit5045": "Mã xác minh không đúng, vui lòng xác nhận lại mã xác minh",
+        "transferSubmit5046": "Đã vượt quá số lần chuyển khoản tối đa",
+        "transferSubmit5047": "Đã vượt quá mức chuyển khoản tối đa",
+        "transferSubmit5051": "Số tiền chuyển khoản không được thấp hơn 1COS, vui lòng xác nhận lại",
+        "transferSubmit5052": "UID không tồn tại, vui lòng xác nhận lại",
+        "transferSubmitWaringError": "Chuyển khoản chưa thành công, vui lòng thử lại sau",
+        "kycTipsForClient": "Việc chuyển tiền yêu cầu KYC, bạn có thể sử dụng trình duyệt của mình để truy cập COS.TV để vào tài khoản, thực hiện KYC và KYC có thể chuyển"
+    },
+    "widthdraw": {
+        "widthdrawAddress": "Địa chỉ rút tiền",
+        "widthdrawNumber": "Số tiền cần rút",
+        "sureWidthdraw": "Xác nhận rút tiền",
+        "widthdrawKnow": "Những điều cần biết khi rút tiền",
+        "widthdrawAddressError": "Địa chỉ rút tiền không chính xác, vui lòng nhập lại",
+        "widthdrawTips1": "1. Một tuần bạn chỉ được rút 1 lần, lần rút thứ 2 phải sau 7 bảy ngày của lần rút tiền thứ nhất",
+        "widthdrawTips2": "2. Số tiền rút không được vượt quá số dư khả dụng của bạn (số dư khả dụng = số dư - hạn mức đóng băng)",
+        "widthdrawTips3": "3. Mỗi lần rút tiền phải trả một khoản phí nhỏ",
+        "widthdrawTipsUsdt3": "3. Chỉ khi số dư> {num} USDT, bạn mới có thể rút tiền. Bạn cần trả {fee} phí giao dịch USDT cho mỗi lần rút tiền",
+        "widthdrawTips4": "4. Sau khi rút tiền mặt sẽ được xem xét trong vòng 48h (ngày lễ có thể kéo dài hơn), thời gian cụ thể nhận được tiền tùy vào tình trạng của mạng. Trong thời gian này, số tiền đó sẽ ở trong trạng thái đóng băng.",
+        "widthdrawTo": "Rút tiền đến",
+        "widthdrawMoney": "Số tiền rút",
+        "makeSureWidthdrawMonty": "Vui lòng xác nhận số tiền rút, nếu số tiền rút chính xác, vui lòng nhập mã xác minh.",
+        "dropDownAddressEmpty": "Địa chỉ rút tiền bị để trống, vui lòng xác nhận lại",
+        "dropDownAmountEmpty": "Số tiền cần rút để trống, vui lòng xác nhận lại",
+        "dropDownDeduct": "Khấu trừ",
+        "dropDownPoundage": "Phí giao dịch",
+        "dropDownToTheAccount": "Nhận được tiền",
+        "addressNull": "Vui lòng thêm địa chỉ ví tiền rồi mới rút tiền",
+        "toAddAddress": "Đến để thêm",
+        "addressPlaceholder": "Vui lòng nhập địa chỉ Binance Chain của bạn",
+        "addressPlaceholderUsdt": "Chỉ hỗ trợ các địa chỉ có thể nhận ERC-20 USDT",
+        "notePlaceholder": "Nếu địa chỉ sàn giao dịch, vui lòng đảm bảo điền vào memo,  nếu không có hãy chọn 'không cần memo'",
+        "noteMemoText": "Lần rút này không cần memo",
+        "note": "Memo",
+        "noteMobilePlaceholder": "Nếu là địa chỉ sàn giao dịch, vui lòng đảm bảo điền vào.",
+        "kycTipsForClient": "Rút tiền yêu cầu KYC. Bạn có thể sử dụng trình duyệt của mình để truy cập COS.TV để nhập tài khoản của mình và thực hiện KYC. Sau KYC, bạn có thể rút tiền"
+    },
+    "address": {
+        "wallateAddress": "Địa chỉ ví tiền",
+        "addressNote": "Ghi chú địa chỉ",
+        "add": "Thêm",
+        "addedCOSAddress": "Đã thêm địa chỉ COS",
+        "addTime": "Thời gian thêm",
+        "addressDelete": "Xóa",
+        "addressNulled": "Bạn vẫn chưa thêm địa chỉ ví tiền",
+        "MAddedAddressNote": "Đã thêm địa chỉ/ ghi chú",
+        "MNoteName": "Ghi chú tên",
+        "MSave": "Lưu",
+        "MDeleteAddress": "Bạn xóa địa chỉ ví tiền này",
+        "MMonmentNo": "Tạm thời không",
+        "MMakeSure": "Xác định",
+        "addressNull": "Vui lòng nhập địa chỉ ví",
+        "addressWrongETHAndCOS":"Địa chỉ ví là 42 ký tự và ký tự cuối cùng kết thúc bằng 0x. Vui lòng kiểm tra lại địa chỉ và nhập lại",
+        "addressWrongBTC":"Địa chỉ ví là 26-34 ký tự. Vui lòng kiểm tra lại địa chỉ và nhập lại",
+        "labelNull":"Vui lòng nhập ghi chú, ghi chú không thể là trống",
+        "bannerintroduce": "Để đảm bảo tài sản COS và các kỹ thuật số khác an toàn hơn, Contentos đề nghị bạn sử dụng TrustWallet.",
+        "overReason1": "Địa chỉ không có hiễu lực?",
+        "overReason2": "Hiện nay chúng tôi chỉ hỗ trợ địa chỉ Binance Chain, vì vậy địa chỉ ETH không thể sử dụng.",
+        "overReason3": "Vui lòng xóa địa chỉ không phù hợp và thêm địa chỉ Binance Chain.",
+        "bnbRegTips": "Vui lòng nhập địa chỉ Binance Chain chính xác.",
+        "overAddress": "địa chỉ vô hiệu"
+    },
+    "bill": {
+        "transactionType": "Loại giao dịch",
+        "all": "Toàn bộ",
+        "income": "Thu nhập",
+        "spending": "Chi tiêu",
+        "transactionTime": "Thời gian giao dịch",
+        "coinType": "Loại tiền",
+        "transactionMoney": "Số tiền giao dịch",
+        "transactionTitle": "Tên giao dịch",
+        "billStatus": "Trạng thái",
+        "billSuccess": "Thành công",
+        "processing": "Đang thực hiện",
+        "startPage": "Trang chủ",
+        "endPage": "Trang cuối",
+        "previousPage": "Trang trước",
+        "nextPage": "Trang sau",
+        "billNull": "Bạn vẫn chưa có lịch sử giao dịch",
+        "mCoinType": "Loại tiền",
+        "clearTime": "Thời gian xóa",
+        "billOver": "Tất cả nội dung đã được hiện thị"
+    },
+    "kyc": {
+        "propertyKycTitle": "Hãy xác nhận KYC trước, được thông qua mới có thể thực hiện giao dịch",
+        "kycCertification": "Đến KYC",
+        "returnPreperty": "Quay lại ví tiền",
+        "whatIsKyc": "KYC là gì?",
+        "KeepMyInformationSecure": "Làm thế nào để đảm bảo rằng thông tin của tôi được bảo mật?",
+        "kycIntroduceInfo": "KYC là viết tắt của Know Your Customers, là quá trình chúng tôi hiểu rõ và xác minh thông tin thực của người dùng. Đây cũng là một quy trình phổ biến trong ngành blockchain và ngành tài chính, ngân hàng hiện nay. Thực hiện xong KYC sẽ giúp chúng tôi bảo vệ tài sản cho người dùng hiệu quả hơn và cung cấp dịch vụ, sản phẩm thuận tiện hơn cho người dùng.",
+        "InformationSecureInfo1": "Đối với những thông tin KYC mà người dùng gửi cho chúng tôi sẽ được một bên thứ ba xem xét độc lập. Đối tác bên thứ ba của chúng tôi sẽ cung cấp các giải pháp bảo mật phù hợp với các quy định bảo mật thông tin của các nước, hoặc thậm chí là phù hợp với Quy định chung về Bảo vệ Dữ liệu (GDRP) của EU, và có một hệ thống bảo mật dữ liệu cấp ngân hàng.",
+        "InformationSecureInfo2": "Trong Contentos, chúng tôi quy định nghiêm ngặt việc đối tác có thể tiếp cận hoặc có khả năng tiếp cận thông tin người dùng. Đối tác tiếp cận thông tin người dùng qua CMS hay trong các tình huống khác, chúng tôi đều có ghi lại những hoạt động đó. Hơn nữa, dữ liệu của người dùng được lưu trữ trong máy chủ của chúng tôi có tính bảo mật rất cao, dùng để bảo vệ dữ liệu người dùng và sẽ không bị tiết lộ ra ngoài khi hệ thống gặp trục trặc."
+    },
+    "transferSuccess": {
+        "congratulations": "Chúc mừng, chuyển khoản thành công!",
+        "successTips1": "1. Số tiền chuyển khoản sẽ vào tài khoản của người nhận theo đúng hạn, nếu bị nghẽn mạng, thời gian nhận được tiền sẽ lâu hơn một chút",
+        "successTips2": "2. Nếu người nhận chưa nhận được tiền, vui lòng liên hệ service@contentos.io",
+        "lookMyBill": "Xem hóa đơn của tôi",
+        "returnHome": "Chuyển đến Trang chủ"
+    },
+    "widthdrawSuccess": {
+        "congratulations": "Chúc mừng, yêu cầu đã thành công!",
+        "widthdrawSuccessTips1": "1. Việc xem xét rút tiền sẽ được hoàn thành trong 24h, và sẽ nhận được tiền trong vòng 48h (ngày nghỉ lễ thời gian sẽ bị kéo dài hơn)",
+        "widthdrawSuccessTips2": "2. Nếu bạn không nhận được tiền trong một thời gian dài, vui lòng liên hệ service@contentos.io"
+    },
+    "nft": {
+        "nftTitle": "ERC721 của tôi",
+        "nftToView": "Kiểm tra ",
+        "nftCheck1": "Toàn bộ",
+        "nftCheck2": "Chờ rút token",
+        "nftCheck3": "Đang xử lý",
+        "nftCheck4": "Đã rút thành công",
+        "noNft": "Tạm thời chưa có tài sản NFT",
+        "noAssets": "Không có tài sản ở trạng thái như vậy",
+        "typeList": [
+            {
+              "text": "Toàn bộ"
+            },
+            {
+              "text": "Chờ rút token"
+            },
+            {
+              "text": "Đang xử lý"
+            },
+            {
+              "text": "Đã rút thành công"
+            }
+          ]
+    },
+    "main": {
+        "wallet": "Ví Mainnet",
+        "user": "Tài khoản COS.TV",
+        "insText": "Tài khoản COS.TV được sử dụng để quản lý tài sản tập trung của bạn trên COS.TV. Một phần của tài sản kiếm được từ sự tham gia hoạt động tương tác hàng ngày trên COS.TV, đó là những phần thưởng và airdrops. Khi số dư đạt đến số tiền nhất định, nó có thể được rút về ví Mainnet hoặc ví BEP2.",
+        "toMain": " Ví Mainnet(Khuyến nghị)",
+        "toAccount": "Ủy quyền cho địa chỉ Mainnet (khuyến nghị)",
+        "goAccount": "Ủy quyền",
+        "banner1": "Do COS đã chạy trên Binance Chian, vì vậy bạn cũng có thể rút về ví BEP2",
+        "banner2": "Vui lòng truy cập Binance.org hoặc sử dụng ví Trust để lập địa chỉ ví của bạn.",
+        "education": "Xem hướng dẫn"
+    }
+}

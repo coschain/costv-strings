@@ -1,0 +1,306 @@
+{
+  "play": {
+    "focus": "Inscrever-se",
+    "focused": "Inscrições",
+    "focus_num": "inscritos",
+    "focus_num_": "inscrito",
+    "forbid_follow": "Você não pode seguir você mesmo",
+    "go_play": "Ir jogar",
+    "recommend": "Vídeos sugeridos",
+    "shareTo": "Compartilhar:",
+    "shareHref": "Compartilhar link do vídeo:",
+    "shareCopy": "Copiar",
+    "popTask": "Assista a vídeos e receba o POP!",
+    "popbanner1": "Assista seus vídeos prediletos e ganhe POP",
+    "popbanner2": "Conteúdo original em destaque pode duplicar suas conquistas",
+    "share": "Compartilhar",
+    "inform": "Denunciar",
+    "copySuccess": "Copiado",
+    "shareLink": "Compartilhar link",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "informVideo": "Denunciar vídeo",
+    "time": "Tempo do vídeo com a infração",
+    "placeholder": "Por favor, forneça informações detalhadas",
+    "timeTips": "O tempo que você selecionou excede o tamanho do vídeo, por favor, tente novamente",
+    "tips1": "A equipe do COS.TV analisa vídeos e os usuários que foram sinalizados 24 horas por dia, 7 dias por semana, para determinar se eles violam as Diretrizes da Comunidade. As contas que violarem estas diretrizes serão penalizadas e a conta poderá ser encerrada, caso as circunstâncias forem graves ou reincidentes.",
+    "tips2": "Removeremos conteúdo que viole nossas Diretrizes da Comunidade.",
+    "thanksToShare": "Obrigado por sua denúncia.",
+    "problem": "Problema",
+    "close": "Fechar",
+    "btnMore": "Saiba mais",
+    "typeList": {
+      "0": {
+        "text": "Conteúdo pornográfico (Imagens sexuais explícitas, nudez e outros conteúdos sexuais)."
+      },
+      "1": {
+        "text": "Conteúdo violento ou ofensivo (Violência explícita - inclusive contra animais - ou foi postado para chocar os espectadores)."
+      },
+      "2": {
+        "text": "Conteúdo de ódio ou insulto (Promove o ódio contra minorias, o abuso de indivíduos vulneráveis ou está envolvido em bullying virtual)."
+      },
+      "3": {
+        "text": "Ação prejudicial ou perigosa (Incentiva atos que podem resultar em danos físicos)."
+      },
+      "4": {
+        "text": "Atos de violência contra menores (Inclui mensagens sexuais, abusivas ou predatórias direcionadas a menores)."
+      },
+      "5": {
+        "text": "Divulgação de atos de terrorismo (Busca recrutar membros para organizações terroristas, incitar a violência, celebrar ataques terroristas ou promover atos de terrorismo)."
+      },
+      "6": {
+        "text": "Spam ou conteúdo enganoso (Foi postado em excesso ou de natureza enganosa)."
+      },
+      "7": {
+        "text": "Viola um direito meu (Direitos autorais, de privacidade ou outras reivindicações legais)."
+      },
+      "8": {
+        "text": "Problema no título do vídeo (Ofensas ou outras violações no nome do vídeo)."
+      },
+      "9": {
+        "text": "Outro problema (descreva a seguir)."
+      }
+    }
+  },
+  "playVideo": {
+    "desc": "Descrição",
+    "playCount": "{0} visualizações",
+    "loginTips": "Ganhe mais POP",
+    "popGuideDesc01": "Assista vídeos e receba o POP!",
+    "popGuideDesc02": "Vídeos em destaque",
+    "popGuideBtn": "Iniciar",
+    "popRewardFinished": "Concluir",
+    "popDescTitle": "Descrição da regra",
+    "popDesc01": "1. Os usuários podem fazer login e assistir vídeos e receber recompensas POP a cada minuto.",
+    "popDesc02": "2. Você pode obter até {0} POP todos os dias. Vídeos originais e de tendências podem dobrar a velocidade de aquisição. Se o limite de aquisição de POP não for alcançado no dia, os usuários não poderão receber estes POP's no dia seguinte. O limite de aquisição é redefinido às 00:00 (UTC) todos os dias.",
+    "popDesc03": "3. Se houver algum problema com relação ao tempo, atualize a página ou tente outros navegadores.",
+    "processStatePaused": "Pausado",
+    "showMore": "Mostrar mais",
+    "showLess": "Mostrar menos"
+  },
+  "playComment": {
+    "commit": "Deixe um comentário",
+    "loginTip": "(Você pode deixar comentários após entrar com sua conta)",
+    "wordsError": "O comentário não deve exceder 300 caracteres",
+    "inputNum": "{inputNum}/300 caracteres",
+    "enterCommit": "Inserir comentário",
+    "sending": "Enviando",
+    "send": "Enviar",
+    "cancel": "Cancelar",
+    "commitNum": "{total} comentários",
+    "orderHot": "Mais populares",
+    "orderDate": "Mais recentes",
+    "send_s": "{num} segundos atrás",
+    "send_s_": "{num} segundo atrás",
+    "send_m": "{num} minutos atrás",
+    "send_m_": "{num} minuto atrás",
+    "send_h": "{num} horas atrás",
+    "send_h_": "{num} hora atrás",
+    "send_d": "{num} dias atrás",
+    "send_d_": "{num} dia atrás",
+    "send_w": "{num} há semanas",
+    "send_w_": "{num} semana atrás",
+    "send_mo": "{num} meses atrás",
+    "send_mo_": "{num} mês atrás",
+    "send_y": "{num} há anos",
+    "send_y_": "{num} ano atrás",
+    "justNow": "Agora mesmo",
+    "replay": "Responder",
+    "wordsLimit": "O comentário não deve exceder 300 caracteres",
+    "more": "Clique para ler mais comentários",
+    "slider": "Fechar",
+    "no_more_commit": "Não há mais comentários",
+    "no_commit": "Ainda não há comentários. Deixe o primeiro comentário!",
+    "replay_all": "Responder a todos",
+    "commit_success": "Comentário bem sucedido",
+    "lookComments": "Ver {0} respostas",
+    "sliderComments": "Esconder {0} respostas ",
+    "lookComment": "Ver a resposta",
+    "sliderComment": "Esconder resposta",
+    "deleteLayerTips": "Ao apagar esse comentário, todas as respostas relacionadas a esse comentário serão apagadas também",
+    "deleteSuccess": "Comentário foi apagado com sucesso",
+    "commentsNumbers": "Respostas",
+    "commentTips": "Vamos conversar! Deixe um comentário e diga a todos o que você pensa! ",
+    "rreply": "{0} comentários"
+  },
+  "game_data": {
+    "0": {
+      "id": "1",
+      "name": "HyperSnakes",
+      "description": "HyperSnakes, seja uma cobra que ganha moedas usando o poder de comer. Neste emocionante jogo de matar, você será a cobra mais forte que pode devorar todas as presas? Mova a cobra para ganhar o jogo e colete todos os ativos digitais em seu caminho.",
+      "detail_description": "HyperSnakes é outro jogo da série Hyper criado pela equipe MixMarvel após HyperDragons. É também o primeiro jogo competitivo em tempo real multiplayer global na blockchain. O jogo é baseado na tecnologia blockchain, com Snake como jogabilidade central, os jogadores podem combinar outros jogadores ao redor do mundo para lutar e pegar moedas de campos de batalha aleatórios e mutáveis. Os jogadores podem não apenas controlar as cobras para evitar outros competidores, mas também impedir que suas cobras sejam engolidas por círculos envenenados. Em cada batalha, apenas um jogador ganhará e receberá uma grande recompensa invejável. Outros jogadores do jogo também terão presentes valiosos correspondentes. Você pode acumular riqueza enquanto desfruta do jogo."
+    },
+    "1": {
+      "id": "2",
+      "name": "Cuties Blockchain",
+      "description": "Primeiro Jogo Colecionável Multi-Blockchain Com Aventuras",
+      "detail_description": "Blockchain Cuties é o novo jogo de criptografia colecionável com aventuras onde você começa a brincar com filhotes, lagartos, filhotes de urso, gatos e outras criaturas reais e de fantasia. Cada cutie é única e pertence 100% a você. Você começa a colecioná-los, criá-los, testar suas habilidades em batalhas, armá-los e até mesmo nivelá-los! A economia do jogo permite que você negocie cuties usando smart contracts em blockchains Ethereum, EOS e TRON. Cada cutie, que não é fungível, pode ser transferida ou vendida a outros jogadores como uma criptomoeda normal."
+    },
+    "2": {
+      "id": "4",
+      "name": "Harmony Puzzle",
+      "description": "Harmony Puzzle, quão alto você pode ir? Este jogo numérico pode ser fácil de aprender, mas é difícil de dominar com cada nível tornando-se mais viciante. Competir para chegar ao topo do ranking!",
+      "detail_description": "Puzzle é um jogo competitivo global no blockchain criado por Harmony. Os jogadores apostam fichas de Harmony em cada rodada e ganham mais vencendo os níveis e subindo no ranking mundial. Você pode jogar muitas iterações de níveis para testar seu valor contra os jogadores mais fortes do mundo. Cada rodada é armazenada no blockchain Harmony para verificar movimentos e vencedores. O jogador pode ganhar tokens enquanto desfruta de jogabilidade ilimitada."
+    },
+    "3": {
+      "id": "5",
+      "name": "Crypt-Oinkくりぷ豚",
+      "description": "“Cryptons” são porcos adoráveis, colecionáveis e que se reproduzem vivendo na rede Ethereum. Pegue o seu e se junte ao mais fofo mundo Crypt-Oink agora!",
+      "detail_description": "Crypt-Oink é o primeiro jogo em blockchain do Japão na rede Ethereum estrelando cripto-colecionáveis chamados Cryptons que podem ser cruzados, colecionados e negociados. Há mais de 3 trilhões dessas criaturas semelhantes a porcos em várias cores e padrões. Os cryptons também podems ser treinados e fortalecidos para melhorar suas chances no Gran Ton Rismo, o jogo de corrida 3D do Crypt-Oink."
+    }
+  },
+  "singing": {
+    "claimPopDesc": "노래 콘테스트 이벤트 참여하기，<br /><span class=\"special-1\">가 <span class=\"special-2\">{count}POP</span> 이벤트 기간 투표참여 보상은 5000POP 입니다！</span>",
+    "claimPopBtn": "수령하기",
+    "btnClose": "닫기",
+    "claimSuccessTips": "수령 성공!",
+    "action": "증정하기",
+    "btnVote": "POP",
+    "titleVoteAuthor": "가수에게 POP 증정하여 지지도 높히기",
+    "getPopTips": "출석체크, 보물상자 오픈 및 영상시청으로 POP 보상을 획득할 수 있습니다",
+    "voteTips": "POP을 소모하여 작품에 투표하시면 가수의 랭킹을 높힐 수 있습니다. 1POP는 지지도 1을 높힙니다.",
+    "currentVoteNums": "현재 투표수：<span class=\"num\">{count}</span>점",
+    "listTab": "노래 콘테스트",
+    "btnVote2": "Golden Vote",
+    "buy": "구매",
+    "g_vote": "Golden Vote  ",
+    "balance": "잔액:",
+    "inadequate": "{type}잔액이 부족합니다",
+    "voteTips2": "작품에 Golden Vote를 증정하여 가수 차트등수 높이기 (1 Golden Vote는 1000점의 지지도를 높입니다)",
+    "point": "점"
+  },
+  "videoStatusTips": {
+    "notStarted": "Por favor espere, Livestream em preparação！",
+    "preparing": "Por favor espere, Livestream em preparação！",
+    "error": "Por favor espere, Livestream em preparação！",
+    "endedToday": "A transmissão ao vivo de hoje acabou. Obrigado por assistir!",
+    "allEnded": "Os eventos terminaram, obrigado por assistir!"
+  },
+  "ticket": {
+    "voteBoxInfo": "<span> {persons} </span> pessoas e <span> {tickets} </span> Gifting Votes já foram enviados",
+    "cosNum": "COS: {0}",
+    "ticketsNum": "Gifting Votes: {0}",
+    "ticketsNumUnify": "Gifting Votes: {0}",
+    "placeholderTicketCount": "Escolha o valor",
+    "placeholderComment": "Deixe um comentário ... Haverá uma Medalha de Presente para o comentário mostrado.",
+    "likeTips": "Curtir também o vídeo assim que enviar o presente",
+    "btnDoGiftVote": "Recompensa",
+    "errorTipsExceed": "Sem fundos",
+    "tipsHowToGetCos": "Como obter COS?",
+    "voteBoxDesc": "Compre um Gift Vote para participar do Ranking e recompensas. Expresse seu amor pelo vídeo e apoie este canal! ",
+    "textMoreDetail": "Mais detalhes",
+    "moreContentDesc01": "Expresse seu apoio ao criador do vídeo! Depois de dar Gifting Votes, você poderá desfrutar de condições exclusivas na página de vídeo! Incluindo:",
+    "moreContentDesc02": "1. participação no concurso da Lista de Presentes e pelo Assento de Ouro",
+    "moreContentDesc03": "2. medalhas exclusivas para seus comentários na seção de comentários",
+    "moreContentDesc04": "3. apreciação sincera do criador",
+    "moreContentDesc05": "Além disso, o criador receberá a maior parte do valor que você gastou.",
+    "buyGiftVoteTitle": "Compra de Gifting Votes ",
+    "CosBalance": "Saldo de COS disponível:",
+    "giftVoteBalance": "Número atual de Gifting Votes:",
+    "buyText": "Compra:",
+    "buyBtn": "Compra",
+    "expectedCost": "Custo da transação:",
+    "buyList": "Histórico de compras",
+    "spendMoneySymbol": "Custo:",
+    "spendMoney": "Custo",
+    "spendCos": "{0} COS",
+    "buyAmountSymbol": "Quantidade comprada:",
+    "buyAmount": "Quantidade comprada",
+    "buyTimeSymbol": "Tempo:",
+    "buyTime": "Data da compra",
+    "loadMore": "Ver mais registros",
+    "buyGiftVote": "Comprar Gifting Votes",
+    "giftVote": "Gifting Votes",
+    "giftVoteHeader": "Gifting Votes",
+    "giftVoteReply": "Resposta do Gift Vote",
+    "confirm": "Confirmar",
+    "replyHint": "Configure uma \"mensagem de agradecimento\" para os usuários que enviarem Gifting Votes para você. Os usuários vão visualizar automaticamente a sua mensagem quando enviarem Gifting Votes para o seu vídeo. Obs. Se você não customizar sua mensagem, enviaremos a seguinte: \"Obrigado pelo seu apoio!\"",
+    "replyLimitMax": "Limite superior a {0} caracteres",
+    "replyLimitMin": "Limite inferior a {0} caracteres",
+    "setReplySuccess": "Configuração bem-sucedida",
+    "giftVotebuyList": "Registro de compra de Gifting Votes",
+    "notSufficientFunds": "Saldo insuficiente",
+    "buySuccess": "Compra bem sucedida",
+    "stayTunedFor": "A competição pelo Ranking de Ouro está chegando em breve, fique atento!",
+    "numberOfGiftGiving": "{0} pessoas premiadas",
+    "releaseDate": "{0} data do envio",
+    "exclusiveThankYouHeart": "Os doadores Gift Votes receberão uma medalha de presente exclusiva: “Agradecimento de Coração”",
+    "errorTipsVoteSelf": "Você não pode recompensar seu próprio conteúdo.",
+    "occupyList": "Junte-se agora",
+    "occupyListText": "Aproveite! Seja o primeiro a enviar Gifting Votes para este vídeo e seja o líder no ranking!",
+    "participateList": "Competir por esta posição!",
+    "waiting": "Deixar a posição no Ranking desocupada",
+    "moreList": "mais",
+    "participationAndLook": "Confira o ranking dos doadores",
+    "rankingListLearnMoreA": "Aqui está o ranking dos usuários que participaram da recompensa por este vídeo!",
+    "rankingListLearnMoreB": "Os dez primeiros são mostrados. Quando ocorre empate, eles serão desempatados com base no primeiro a enviar.",
+    "totalMoney": "Monetização total deste vídeo: {0}",
+    "totalMoneyApproximate": "Equivalente a: {0} Vest",
+    "bonusSettlement": "Total arrecadado: {money} equivalente a {vest} Vest",
+    "settlementDate": "Tempo até liquidação: {0}",
+    "settlementBonus": "Recompensa (liquidada): {0}",
+    "afterSettlement": "Receberá após {0}",
+    "giftMoney": "Monetização por Gifting Votes: {money} / equivalente a {vest} Vest",
+    "btnSubscribe": "Inscrever-se",
+    "btnSubscribed": "Inscrito",
+    "giftReceivedSum": "Registro de receita de Gifting Vote: {0}",
+    "giftEmptyTips1": "Sem ganhos nos últimos 7 dias",
+    "giftEmptyTips2": "Nenhuma receita para a data selecionada",
+    "tipsSelectDate": "Escolha a data:",
+    "btnReset": "Redefinir",
+    "paginationTotal": "Total de {total} registros",
+    "videoRewardsLeader": "Líder neste video",
+    "giftReceivedThUser": "Doador",
+    "giftReceivedThAmount": "Número de Gifting Votes",
+    "giftReceivedThTime": "Data",
+    "giftReceivedThVideo": "Vídeos",
+    "alreadySettled": "Liquidado",
+    "remainingSettlementPeriod": "Período de monetização restante: {0}",
+    "rankList": "Ranking"
+  },
+  "sevenDays": "Nos últimos 7 dias",
+  "allDays": "Gifting Votes Totais",
+  "autoplay": {
+    "nextVideo": "Tocará outro vídeo do criador",
+    "recommend": "Recomendações",
+    "replay": "Tocar de novo",
+    "nextPlay": "A seguir:",
+    "willPlay": "A seguir:",
+    "immediatelyPlay": "Tocar agora",
+    "cancel": "Cancelar",
+    "autoplay": "AutoPlay",
+    "moreTips": "Quando o AutoPlay estiver ligado, vamos passar outro vídeo automaticamente com base no seu histórico de visualização"
+  },
+  "deleteCommit": {
+    "typeList": {
+      "0": {
+        "text": "Anúncio, propaganda ou spam"
+      },
+      "1": {
+        "text": "Conteúdo com caráter sexual"
+      },
+      "2": {
+        "text": "Abuso infantil"
+      },
+      "3": {
+        "text": "Discurso de violência ou de ódio"
+      },
+      "4": {
+        "text": "Provocação, assédio ou bullying"
+      }
+    },
+    "delete": "Esconder",
+    "creator": "Criador",
+    "delCommit": "Esconder comentário",
+    "placeholder": "Deixar um comentário...",
+    "author": "Apenas o dono do canal pode esconder os comentários",
+    "delTips": "O comentário foi escondido com sucesso. Por favor atualize a página."
+  },
+  "emojiCustom": {
+    "unlock": "Desbloquear",
+    "getEmoji": "Desbloquear stickers",
+    "getAllEmoji": "Desbloquear todos os stickers",
+    "howGet": "Como desbloquear todos os stickers no \"Epamoji\"",
+    "getEmojiTips": "Envie 100 Gifting Votes ou mais no total para Voepa para desbloquear todos os stickers em \"Epamoji\""
+  }
+}

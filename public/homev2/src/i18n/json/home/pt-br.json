@@ -1,0 +1,101 @@
+{
+  "blockTitleCardLIst": "Brinque com a COS.TV",
+  "btnEnterLivePage": "Entre no Broadcast",
+  "btnCheckBannerDetail": "Saiba mais",
+  "announcement": {
+    "banner_a": "Abra baús de tesouro todos os dias,  ",
+    "banner_b": "e ganhe <span class='strong'>BTC</span> e <span class='strong'>COS</span> ",
+    "banner_c": "Junte-se à caça ao tesouro de POP's.",
+    "banner_d": "Jogue o caça-níqueis e ganhe <span class='strong'>COS</span>！",
+    "banner_g1": "Use POP para ganhar um porco de edição limitada",
+    "banner_g2": "<span class='strong white'>Crypt-Oink customizado pelo \"COS\"!</span>",
+    "banner_g_": "<span class='strong white'>Venha a caça para ganhar um porco Crypt-Oink customizado pelo \"COS\"!</span>",
+    "banner_e": "Jogue o caça-níqueis",
+    "banner_f": "e ganhe <span class='strong'>COS</span>！",
+    "nps": "<span class='blod'>Faça nossa pesquisa e 500 participantes ganharão cinco Gifting Votes</span>",
+    "nps_m": "<span class='blod'>Faça nossa pesquisa e 500 participantes ganharão cinco Gifting Votes</span>"
+  },
+  "sign": {
+    "a": "Entre e faça check-in todos os dias",
+    "b": "para ganhar ETH e POP!"
+  },
+  "gameData": {
+    "0": {
+      "id": "5",
+      "name": "Crypt-Oink"
+    },
+    "1": {
+      "id": "1",
+      "name": "HyperSnakes"
+    },
+    "2": {
+      "id": "2",
+      "name": "Blockchain Cuties"
+    },
+    "3": {
+      "id": "4",
+      "name": "Harmony Puzzle"
+    }
+  },
+  "cards": {
+    "0": {
+      "text": "Ganhe COS"
+    },
+    "1": {
+      "text": "Explorador de Blockchain"
+    },
+    "2": {
+      "text": "O que é <span class='o-f'>C</span>ontent<span class='o-f up'>os</span> "
+    },
+    "3": {
+      "text": "FAQ"
+    }
+  },
+  "go": "VÁ!",
+  "category0": "DApp's Populares",
+  "category5": "Conteúdo original",
+  "category1": "Conteúdo Popular",
+  "category2": "Jogo",
+  "category3": "Bonitão",
+  "category4": "Talentos",
+  "category7": "Escolhas da blockchain",
+  "category8": "Minhas visualizações",
+  "category9": "Minhas inscrições",
+  "category10": "Vídeos recomendados",
+  "category11": "Diversão",
+  "category12": "Animais fofos",
+  "category13": "Música",
+  "category14": "Liveme",
+  "categorySp": "Vídeos recomendados",
+  "categorySp2": "Conhecimento",
+  "more": "Mais",
+  "operation": "Saiba mais",
+  "tagAll": "Todos",
+  "textComing": "Em breve",
+  "history": {
+    "today": "Hoje",
+    "sevenDay": "A quase sete dias",
+    "oneMonth": "A quase trinta dias",
+    "oneYear": "A quase um ano",
+    "longer": "Mais",
+    "removeAll": "Limpar tudo",
+    "novicePromptDeletion": "Deslize a área de vídeo para a esquerda para excluir o vídeo.",
+    "noSubscribe": "Você ainda não deu atenção aos canais ainda. Volte mais tarde.",
+    "nullSubList": "Os canais de que você gosta ainda não lançaram vídeos.",
+    "nullHistory": "Você ainda não assistiu a nenhum vídeo, volte depois de assistir.",
+    "deleteHistoryAll": "Deseja limpar o seu histórico?",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "todayPopular": {
+    "title": "Em alta",
+    "watch_num": "{0} Visualizações"
+  },
+  "messageCenter": {
+    "notificationCenter": "Notificações",
+    "noMoreNotice": "Sem mais notificações",
+    "comment": "Comentário",
+    "aboutComment": "Os comentários sobre o vídeo \"{0}\"",
+    "commentNull": "O comentário foi excluído"
+  }
+}
